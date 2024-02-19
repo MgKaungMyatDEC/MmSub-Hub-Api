@@ -62,12 +62,14 @@
       
    ],
    "impression_interstial_cap_per_second":"10000",
+   
    "show_title_1":"🔥🔥2023 နောက်ဆုံးထွက်",
-   "folder_1":"2023",
-   "api_title_1":"2023",
-   "show_title_2":"Marvel MCU🔥🔥",
-   "folder_2":"Marvel",
-   "api_title_2":"marvel",
+   "folder_1":"MOVIES%20JSON/2024/2024",
+   "api_title_1":"MOVIES%20JSON/2024/2024_1.json",
+   "show_title_2":"Action",
+   "folder_2":"MOVIES%20JSON/Action/Action",
+   "api_title_2":"MOVIES%20JSON/Action/Action_1.json",
+   
    "show_title_3":"Drama Movie",
    "folder_3":"Drama%20Movies%20JSON",
    "api_title_3":"drama_movie",
