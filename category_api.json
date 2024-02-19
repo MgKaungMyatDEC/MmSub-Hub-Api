@@ -1,0 +1,55 @@
+{
+	"category":[
+	{
+	"thumbnail":"https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioUPyn34M7Hc/v0/-1x-1.jpg",
+	"title":"Home Movies",
+	"total_movies":"",
+	"folder_name":"All2%20Movies%20JSON",
+	"category_file_title":"all_movie"
+	},
+	{
+	"thumbnail":"https://i.ytimg.com/vi/iPSF3xGKFGg/hqdefault.jpg",
+	"title":"Action Movies",
+	"total_movies":"",
+	"folder_name":"Action2%20Movies%20JSON",
+	"category_file_title":"action_movie"
+	},
+	{
+	"thumbnail":"https://images.lifestyleasia.com/wp-content/uploads/sites/2/2022/08/09111434/k-drama-piller-page-cover.jpg",
+	"title":"Drama Movies",
+	"total_movies":"",
+	"folder_name":"Drama%20Movies%20JSON",
+	"category_file_title":"drama_movie"
+	},
+	{
+	"thumbnail":"https://cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/QUFCXOYQSMFY5DCGU36E7MCKOA.jpg",
+	"title":"Comedy Movies",
+	"total_movies":"",
+	"folder_name":"Comedy%20Movies%20JSON",
+	"category_file_title":"comedy_movie"
+	},
+	{
+		"thumbnail":"https://parade.com/.image/t_share/MTkwNTc4NzcxNjE5NjIwNzMy/disney-pixar.jpg",
+		"title":"Animation Movies",
+		"total_movies":"",
+		"folder_name":"Animation%20Movies%20JSON",
+		"category_file_title":"animation_movie"
+		},
+		{
+		"thumbnail":"https://www.boredpanda.com/blog/wp-content/uploads/2022/05/adventure_movies_5-6273873064950__700.jpg",
+		"title":"Adventure Movies",
+		"total_movies":"",
+		"folder_name":"Adventure%20Movies%20JSON",
+		"category_file_title":"adventure_movie"
+		},
+		{
+		"thumbnail":"https://imgs1cdn.adultempire.com/product/400/3062438/teens-in-love-11.jpg",
+		"title":"Adult Movies",
+		"total_movies":"",
+		"folder_name":"Adult%20Movies%20JSON",
+		"category_file_title":"adult_movie"
+		}
+
+		
+	]
+}
