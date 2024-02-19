@@ -1,0 +1,91 @@
+{
+   "ad_type":"startapp",
+   "ad_duration":"10000",
+   "applovin_ad_duration":"10000",
+   "applovin_add":"false",
+   "startapp_add":"false",
+   "startapp_home_adview_1":"true",
+   "startapp_home_adview_2":"true",
+   "startapp_home_adview_3":"true",
+   "startapp_home_adview_4":"true",
+   "startapp_home_adview_5":"true",
+   "startapp_home_adview_6":"true",
+   "startapp_player_top_adviews":"true",
+   "startapp_player_loader_adviews":"true",
+   "startapp_detail_top_adviews":"true",
+   "startapp_detail_big_adviews":"true",
+   "startapp_download_tool_adviews":"true",
+   "remove_ads_url":"https://custom-ads-page.blogspot.com/p/remove-ads.html",
+   "vip_list_url":"https://custom-ads-page.blogspot.com/feeds/posts/default/?q=label:vip_key_oct&alt=json",
+   "slide_images":[
+      
+ {  "image_url":"https://imgur.com/emBIHI0.png",  "redirect_url":"https://bit.ly/zozotvapp" 
+       },
+ {  "image_url":"https://imgur.com/j6PWMb4.jpg",  "redirect_url":"https://www.facebook.com/profile.php?id=61552566309360&mibextid=ZbWKwL" 
+       }
+
+   ],
+   "home_adview_1":[
+      
+   ],
+   "home_adview_2":[
+      
+   ],
+   "home_adview_3":[
+      
+   ],
+   "home_adview_4":[
+      
+   ],
+   "home_adview_5":[
+      
+   ],
+   "home_adview_6":[
+      
+   ],
+   "player_top_adviews":[
+      
+   ],
+   "player_loader_adviews":[
+      
+   ],
+   "detail_top_adviews":[
+      
+   ],
+   "detail_bottom_adviews":[
+      
+   ],
+   "image_interstialads_views":[
+      
+   ],
+   "image_interstialads_player_views":[
+      
+   ],
+   "impression_interstial_cap_per_second":"10000",
+   "show_title_1":"🔥🔥2023 နောက်ဆုံးထွက်",
+   "folder_1":"2023",
+   "api_title_1":"2023",
+   "show_title_2":"Marvel MCU🔥🔥",
+   "folder_2":"Marvel",
+   "api_title_2":"marvel",
+   "show_title_3":"Drama Movie",
+   "folder_3":"Drama%20Movies%20JSON",
+   "api_title_3":"drama_movie",
+   "show_title_4":"Comedy",
+   "folder_4":"Comedy%20Movies%20JSON",
+   "api_title_4":"comedy_movie",
+   "show_title_5":"Animation",
+   "folder_5":"Animation%20Movies%20JSON",
+   "api_title_5":"animation_movie",
+
+    "megaup_version":"2",
+    "megaup_with":"custom",
+   
+   "update_title":"Update title",
+   "update_icon":"",
+   "update_message":"Update message",
+   "update_force":false,
+   "update_versionCode":1,
+   "playstore_link":"",
+   "download_link":""
+}
