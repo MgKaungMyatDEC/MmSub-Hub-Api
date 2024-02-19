@@ -1,0 +1,2224 @@
+[
+  {
+    "metadata": "R|2006|90 min|Adventure,Animation,Crime",
+    "rating": {
+      "rating": "7.7/10",
+      "rating_count": "58,334"
+    },
+    "title": "Paprika (2006)",
+    "description": "Tomatometer- 84% Imdb – 7.7ကြ်န္ေတာ္တို႔ရဲ႔အနက္ရႈိင္းဆံုးလွ်ိဳ၀ွက္ခ်က္ေတြျဖစ္တဲ့အိပ္မက္ထဲကိုတစ္ေယာက္ေယာက္ကလာခိုးၾကည့္လို႔ရခဲ့မယ္ဆိုရင္ဘာေတြျဖစ္နိုင္မယ္ထင္ပါသလဲအဲ့ေမးခြန္းကိုဒီကားကအကုန္ေျဖထားေပးပါတယ္ဒီကားကိုရိုက္ကူးတဲ့ဒါရိုက္တာကPerfect Blueနဲ႔Tokyo Godfathersတို႔ရဲ႔ဒါရိုက္တာပဲျဖစ္ပါတယ္သူရဲ႔ကားအမ်ားစုဟာpsychological thrillerပိုင္းသြားတာမို႔လို႔ကာတြန္းကားဆိုျပီးအထင္ေတာ့မေသးလိုက္ပါနဲ႔ဇာတ္လမ္းအက်ဥ္းကေတာ့ေရာက္ရွိလာေတာ့မယ့္ အနာဂတ္မွာေခတ္တစ္ေခတ္ရဲ့ အေကာင္းဆံုးနည္းပညာလို့ေျပာလို့ရတဲ့လူသားအားလံုးရဲ႕အိပ္မက္ေတြကို ခ်ိတ္ဆက္ေပးႏိုင္မယ့္စိတ္ေရာဂါကုသမႈ စက္ပစၥည္းတစ္ခုကို သုေသသနပညာရွင္ေတြတီထြင္နိုင္ခဲ့ပါတယ္ဒါေပမယ့္ ဒီပစၥည္းဟာ တစ္ေန႔မွာ ေပ်ာက္ခ်င္းမလွ ေပ်ာက္ဆံုးသြားတဲ့အခ်ိန္မွာေတာ့သုေသသနပညာ႐ွင္တစ္ဖြဲ႔လံုး ဒီပစၥည္းကို ဘယ္လိုျပန္႐ွာၾကမလဲဘယ္သူကခိုးသြားတာလဲအဲ့ပစၥည္းနဲ့မဟုတ္တာေတြဘယ္လိုလုပ္မလဲပါပရီကာ ဆိုတဲ့ ဆံပင္နီနီ သြက္သြက္လက္လက္နဲ႔ လူေတြကိုကူညီေပးေနတဲ့ေကာင္မေလးကေကာဘယ္သူလဲဘယ္ကလဲ…စတဲ့ လက္ေတြ႔နဲ႔ အိပ္မက္ၾကား ႐ုန္းကန္ျကရတဲ့ပံုကို သိပၸံစိတ္ကူးယဥ္ သည္းထိတ္ရင္ဖိုျမင္ကြင္းေတြနဲ႔ ခံစားရမယ့္Rating ေကာင္းေကာင္း ႐ုပ္႐ွင္ကားတစ္ကားျဖစ္ပါတယ္ဘာသာျပန္ေပးတာေတာ့Zin Thantျဖစ္ျပီးကြ်န္ေတာ္sithuကencodeေပးထားပါတယ္",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/jViKJYWcILHeN0KH1Wub0Go59TZ.jpg",
+      "https://image.tmdb.org/t/p/w300/kSokyQcEqs3k05YMXJtPaTl9PkV.jpg",
+      "https://image.tmdb.org/t/p/w300/leT0ssvWCFyqFWsAfFwhOU0SIMu.jpg",
+      "https://image.tmdb.org/t/p/w300/zoAb28MvsAiZnU1XPfmLqzSbcNK.jpg",
+      "https://image.tmdb.org/t/p/w300/163DGK8BrZ78Fwpmy79Hu1hsR5w.jpg",
+      "https://image.tmdb.org/t/p/w300/eonJJa8Ei3xgIe9pTAoE2x000tM.jpg",
+      "https://image.tmdb.org/t/p/w300/mgoCi7bb1mNvhxYKGHrYA55uQcf.jpg",
+      "https://image.tmdb.org/t/p/w300/ndnUuUdcyTrz4fJTY2kPw0GPXC5.jpg",
+      "https://image.tmdb.org/t/p/w300/rDVV6IDWguSmI00DgIKLjg65zED.jpg",
+      "https://image.tmdb.org/t/p/w300/xKmN25nR1WbtKqrZySm0gjD3TCr.jpg",
+      "https://image.tmdb.org/t/p/w300/cnk4VlKijBuanXxkqUqvoosYj3c.jpg",
+      "https://image.tmdb.org/t/p/w300/nqhQ6WV6qsq8hNWDV5NGWyb9CHW.jpg"
+    ],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2019/01/MV5BNDI4MGEwZDAtZDg0Yy00MjFhLTg1MjctODdmZTMyNTUyNDI3L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_CR006711000_AL_.jpg",
+    "movie_links": [
+      {
+        "link": "https://usersdrive.com/r8kzttjm20wn.html",
+        "server": "usersdrive.com",
+        "size": "1.27 GB",
+        "quality": "Blu-Ray 720p"
+      },
+      {
+        "link": "https://yoteshinportal.cc/paprika-2006-mm-sub-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "1.27 GB",
+        "quality": "Blu-Ray 720p"
+      },
+      {
+        "link": "https://megaup.net/1y2kh/Paprika_[2006]_(MM_Sub).mp4",
+        "server": "megaup.net",
+        "size": "1.27 GB",
+        "quality": "Blu-Ray 720p"
+      },
+      {
+        "link": "https://mega.nz/file/MPphjCzS#eijJS9P0YzUE8CG_2xMllLv4Nz1f3G2Zm70DHhJeiis",
+        "server": "mega.nz",
+        "size": "1.27 GB",
+        "quality": "Blu-Ray 720p"
+      },
+      {
+        "link": "https://upstream.to/npynxzxefqkg",
+        "server": "upstream.to",
+        "size": "1.27 GB",
+        "quality": "Blu-Ray 720p"
+      }
+    ],
+    "trailer": {
+      "video_id": "jJzEW_eE1G0",
+      "video_url": "https://www.youtube.com/watch?v=jJzEW_eE1G0",
+      "embed_url": "https://www.youtube.com/embed/jJzEW_eE1G0"
+    }
+  },
+  {
+    "metadata": "PG-13|2005|1h 46min|Action,Adventure,Fantasy",
+    "rating": {
+      "rating": "5.7/10",
+      "rating_count": "308,422"
+    },
+    "title": "Fantastic Four (2005)",
+    "description": "Fantastic Four (2005)_____IMDb – 5.7/10ဒီဇာတ်ကားက ၂၀၀၅ ခုနှစ်ကထွက်ရှိခဲ့တဲ့ မူရင်း Fantastic Four ဇာတ်ကားဖြစ်ပြီးIMDb Rating (5.7/10) ရရှိထားပါတယ်။ဒီဇာတ်ကားမှာ Captain America မင်းသား Chris Evans ၊ မင်းသမီး ဂျက်စီကာအယ်လ်ဘာ တို့နဲ့အတူIoan Gruffudd ၊ Michael Chiklis တို့က F4 စွမ်းအားရှင်တွေအဖြစ် ပါဝင်ထားပါတယ်။Julian McMahon ကတော့ ဗစ်တာဗွန်ဒူးအဖြစ် အားပြိုင်ထားပါတယ်။ဒီနှစ်ထဲထွက်ထားတဲ့ Fantastic Four(2015) နဲ့မတူကွဲပြားစွာခံစားရမှာပါ။ကျွန်တော်ကတော့ ဂျက်စီကာအယ်လ်ဘာ ပရိတ်သတ်ဖြစ်တာနဲ့အညီမူရင်း Fantastic Four ဖြစ်တဲ့ ဒီဇာတ်ကားကိုပိုနှစ်သက်မိပါတယ်။ခံစားအားပေးကြပါဦး။(မြန်မာစာတန်းထိုးကိုတော့ ကသာသားလေး နဲ့ Wai Phyo တို့မှပူးပေါင်းဖန်တီးထားတာပါ။)Fantastic Four ဇာတ်ကားအားလုံးကိုhttps://channelmyanmar.org/?s=fantastic+fourမှာကြည့်ပါ။ဒီဇာတ္ကားက ၂၀၀၅ ခုႏွစ္ကထြက္ရွိခဲ့တဲ့ မူရင္း Fantastic Four ဇာတ္ကားျဖစ္ျပီးIMDb Rating (5.7/10) ရရွိထားပါတယ္။ဒီဇာတ္ကားမွာ Captain America မင္းသား Chris Evans ၊ မင္းသမီး ဂ်က္စီကာအယ္လ္ဘာ တို႕နဲ႕အတူIoan Gruffudd ၊ Michael Chiklis တို႕က F4 စြမ္းအားရွင္ေတြအျဖစ္ ပါဝင္ထားပါတယ္။Julian McMahon ကေတာ့ ဗစ္တာဗြန္ဒူးအျဖစ္ အားျပိဳင္ထားပါတယ္။ဒီႏွစ္ထဲထြက္ထားတဲ့ Fantastic Four(2015) နဲ႕မတူကြဲျပားစြာခံစားရမွာပါ။ကြ်န္ေတာ္ကေတာ့ ဂ်က္စီကာအယ္လ္ဘာ ပရိတ္သတ္ျဖစ္တာနဲ႕အညီမူရင္း Fantastic Four ျဖစ္တဲ့ ဒီဇာတ္ကားကိုပိုႏွစ္သက္မိပါတယ္။ခံစားအားေပးၾကပါဦး။(ျမန္မာစာတန္းထိုးကိုေတာ့ကသာသားေလး နဲ႕ Wai Phyo တို႕မွပူးေပါင္းဖန္တီးထားတာပါ။)Fantastic Four ဇာတ္ကားအားလံုးကိုhttps://channelmyanmar.org/?s=fantastic+fourမွာၾကည့္ပါ။File size…(907 MB)Quality…Blu-Ray 720pFormat…mp4Duration….01:46:00Subtitle….Myanmar Subtitle (Hardsub)Encoder….Nyeinsaeya Aung",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/ePJ3OOj2lE5k7zIeOL2NBDHZhLk.jpg",
+      "https://image.tmdb.org/t/p/w300/hF50fRlwGe2nIWzkexOTPWDR1sF.jpg",
+      "https://image.tmdb.org/t/p/w300/A5KyGSqq13eoW380LINMk8vQFuW.jpg",
+      "https://image.tmdb.org/t/p/w300/vG4ytShw0zOHwnrUnA33S7TWTLU.jpg",
+      "https://image.tmdb.org/t/p/w300/6Elk0hIHWO98haDYilI5KzaxKjl.jpg",
+      "https://image.tmdb.org/t/p/w300/beAj6f4tiqoRZxqOczYljjitNtC.jpg",
+      "https://image.tmdb.org/t/p/w300/qq9ELjoyllBUMkGisZvcj0fCd43.jpg"
+    ],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2018/06/fantastic-four-2005-poster.jpg",
+    "movie_links": [
+      {
+        "link": "https://yoteshinportal.cc/fantastic-four-2005-mm-sub-mp-4-2",
+        "server": "yoteshinportal.cc",
+        "size": "907 MB",
+        "quality": "Blu-Ray 720p"
+      },
+      {
+        "link": "https://megaup.net/1yWxh/Fantastic_Four_[2005]_(MM_Sub).mp4",
+        "server": "megaup.net",
+        "size": "907 MB",
+        "quality": "Blu-Ray 720p"
+      },
+      {
+        "link": "https://mega.nz/file/2ZNRQArJ#sMvFHATwFPAKPcM3-H_mmEKK2cLFOPadDLQ_xeaPD84",
+        "server": "mega.nz",
+        "size": "907 MB",
+        "quality": "Blu-Ray 720p"
+      },
+      {
+        "link": "https://www.cmvipmembers.com/check-movies/fantastic-four-2005",
+        "server": "VIP Links",
+        "size": "907 MB",
+        "quality": "Blu-Ray 720p"
+      },
+      {
+        "link": "https://veryfiles.com/8otcgehtd1nd",
+        "server": "veryfiles.com",
+        "size": "907 MB",
+        "quality": "Blu-Ray 720p"
+      },
+      {
+        "link": "https://sbcloud1.com/wcfl44u990et.html",
+        "server": "streamsb.com",
+        "size": "907 MB",
+        "quality": "Blu-Ray 720p"
+      }
+    ],
+    "trailer": {
+      "video_id": "27dZ5mJBnBY",
+      "video_url": "https://www.youtube.com/watch?v=27dZ5mJBnBY",
+      "embed_url": "https://www.youtube.com/embed/27dZ5mJBnBY"
+    }
+  },
+  {
+    "metadata": "|||Action,History",
+    "rating": {
+      "rating": "4.7/10",
+      "rating_count": ""
+    },
+    "title": "Dynasty Warriors (2021)",
+    "description": "၉၀ ဝန်းကျင်ဖွား သက်ကြားအိုတိုင်းနီးပါး ကစားဖူးတဲ့ ဂိမ်းတစ်ခုရှိပါတယ်။တရုတ်ဓားခုတ်လို့ ခေါ်ကြတဲ့ Dynasty Warriors ပါပဲ။ဒီဂိမ်းကို Romance of the Three Kingdoms သမိုင်းဇာတ်လမ်းကနေ ယူထားတာလည်း သိကြမှာပါ။ဒီသုံးပြည်ထောင် နဲ့ ပတ်သတ်တဲ့ ဇတ်လမ်းတွေလည်း အများကြီးထွက်ခဲ့ပြီးပါပြီ။အထင်ရှားဆုံးကတော့ Redcliff ၁ နဲ့ ၂ ပေါ့။အခုဇာတ်လမ်းကတော့ rating အနေနဲ့ နည်းပါတယ်။ဒါပေမယ့် အမှတ်တရ ပြန်တင်ပေးထားတာပါ။ဂိမ်းထဲက theme အတိုင်း နောက်ခံတီးလုံး၊ အဝတ်အစား၊ လက်နက်တွေ ပြန်သုံးပေးထားပါတယ်။ကျွန်တော်တော့ မဆိုးဘူးလို့ ပြောချင်ပါတယ်။C တွေရဲ့ ထုံးစံအတိုင်း မလိုအပ်တဲ့ အထူးပြုလုပ်ချက်တွေ အိုဗာပါဝါတွေကြောင့်သာ ခပ်ညံ့ညံ့ကားလိုဖြစ်သွားခဲ့တာပါပဲ။ဇာတ်လမ်းကိုတော့ ခေါင်းပေါင်းဝါသူပုန်တွေနဲ့ တိုက်ခိုက်တာကနေ အစပြုပါထားပါတယ်။ဂိမ်းထဲက ပထမဆုံး အခန်းအတိုင်းပါပဲ။ နောက်ပြီးတော့ ဒုတိယတိုက်ပွဲကိုဟူလောင်ဂိတ် နဲ့ လျို့ရန်ကို ဝင်တိုက်တဲ့ အတိုင်းပဲ ဆက်ပြထားပါတယ်။အမတ်ကြီး တုန်ကျိုဟာ ဘုရင်ငယ်လေးကို ဓားစာခံလုပ်ပြီး လျို့ရန်မှာ ကြီးစိုးနေချိန်စစ်သူကြီး ယွန်ရှောင် ဦးစီးတဲ့ မဟာမိတ် ၁၈ ဖွဲ့ဟာ ဟူလောင်ဂိတ်နဲ့ လျို့ယန်ကို လာပြီးတိုက်ခိုက်ဖို့ စီစဉ်ပါတော့တယ်။အဲဒီအဖွ့မှာ ချောင်ချောင်းပါမယ်၊ စွန်းကျင်းပါမယ်၊ လျိုပေ့ ကွမ်းရီ ကျန်းဖေး ညီအစ်ကိုသုံးယောက်ပါမယ်ပေါ့။ဒီရုပ်ရှင်မှာတော့ ချောင်ချောင်း၊ လွီပု၊ ညီအစ်ကိုသုံးယောက်ကိုပဲ အဓိကထားပြီး ပြသထားပါတယ်။ဘယ်လိုပဲ ဖြစ်ဖြစ် ကလေးဘဝ အမှတ်တရအနေနဲ့ ကြည့်ချင်ကြမယ်ထင်လို့ တင်ပေးထားလိုက်တာပါ။File size…(1.4 Gb)Quality….WEB-DL 720pFormat…mp4Duration….01:57:00Subtitle….Myanmar Subtitle (Hardsub)Encoder….Mr. AndersonTranslated byMr. Anderson",
+    "screenshot_links": [],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2021/05/dynasty1.jpg",
+    "movie_links": [
+      {
+        "link": "https://www.cmvipmembers.com/check-movies/dynasty-warrior-2021",
+        "server": "VIP Links",
+        "size": "1.4 Gb",
+        "quality": "720p HD"
+      },
+      {
+        "link": "https://yoteshinportal.cc/dynasty-warriors-2021-720-p-hd-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "1.4 Gb",
+        "quality": "720p HD"
+      },
+      {
+        "link": "https://megaup.net/1D5e4/Dynasty_Warriors_2021_720pHD_(CM).mp4",
+        "server": "megaup.net",
+        "size": "1.4 Gb",
+        "quality": "720p HD"
+      },
+      {
+        "link": "https://veryfiles.com/ngs3yopxogej",
+        "server": "veryfiles.com",
+        "size": "1.4 Gb",
+        "quality": "720p HD"
+      },
+      {
+        "link": "https://mega.nz/file/WEAVmChA#lp_hK_Jkq7b4pcayW1KnkcK66VGAPXsishK6rQ1g4Y0",
+        "server": "mega.nz",
+        "size": "1.4 Gb",
+        "quality": "720p HD"
+      }
+    ],
+    "trailer": null
+  },
+  {
+    "metadata": "PG|2017|101 min|Action,Adventure,Animation",
+    "rating": {
+      "rating": "6.1/10",
+      "rating_count": "6,501"
+    },
+    "title": "The LEGO Ninjago Movie (2017)",
+    "description": "Lego crazy ေတြအတြက္ LEGO ရဲ႕ေနာက္ဆံုးထြက္႐ုပ္႐ွင္ လာပါၿပီ။The LEGO Movie, The LEGO Batman Movie တို႔လိုပဲ ျမဴးျမဴးႂကြႂကြတီးလံုးေတြနဲ႔ ရယ္ေမာစရာ ဇာတ္ဝင္ခန္းပါဝင္တဲ့ ကားေကာင္းတစ္ကားပါပဲ။ဂာမဒြန္ ဆိုတဲ့လက္ေလးဖက္နဲ႔လူဆိုးႀကီးက Ninjago ဆိုတဲ့ျမဳိ့ႀကီးကို ခဏခဏလာတိုက္ပါတယ္။လာတိုက္တိုင္းလဲ နင္ဂ်ာအဖြဲ႔ကို အျမဲတမ္းရံႈးၿပီး ေခြးေျပးဝက္ေျပးေျပးရစျမဲပါ။နင္ဂ်ာအဖြဲ႔မွာ မီး၊ေရ၊ေျမ၊ေရခဲ၊လွ်ပ္စီး နဲ႔ အစိမ္းေရာင္နင္ဂ်ာဆိုတဲ့ နင္ဂ်ာသူငယ္ခ်င္း ၆ ေယာက္ပါဝင္ပါတယ္။ဒီဇာတ္လမ္းမွာေတာ့ အစိမ္းေရာင္နင္ဂ်ာေလး လိြဳက္၊ ဂါမဒြန္ရဲ႕သားျဖစ္သူေနရာကေန ဇာတ္လမ္းကိုတည္ထားပါတယ္။သူဟာ အစိမ္းေရာင္နင္ဂ်ာမွန္း သူ႔အေဖေရာ တစ္ၿမိဳ႕လံုးေရာမသိၾကပဲ ဂါမဒြန္ႀကီး တစ္ခါလာတိုက္ခိုက္တိုင္း ၿမိဳ႕သူၿမိဳ႕သားေတြက သူ႔ကိုသာအျပစ္ပံုခ်ေလ့ရိွပါတယ္။တစ္ရက္မွာေတာ့ ဂါမဒြန္ကို သည္းမခံႏိုင္ေတာ့တဲ့ လိြဳက္ဟာ အႏၱရာယ္ရိွတဲ့လက္နက္ႀကီးတစ္ခုကို ထုတ္သံုးလိုက္မိတာေၾကာင့္ မီေယာင္သရာလို႔ေခၚတဲ့ ေၾကာင္ဆိုးႀကီး Ninjago ၿမိဳ႕ကိုေရာက္လာၿပီး တစ္ၿမိဳ႕လံုးကိုဖ်က္စီးပစ္တဲ့အခါ လိြဳက္နဲ႔သူ႔သူငယ္ခ်င္းေတြ ေၾကာင္ႀကီးကိုဘယ္လိုေျဖ႐ွင္းၾကလဲ။ဂါမဒြန္နဲ႔လိြဳက္ သားအဖရဲ႕ ေနာက္ကြယ္ကဇာတ္လမ္းကေရာ ဘယ္လိုမ်ိဳးလဲ၊ သူတို႔ႏွစ္ေယာက္အဆင္ေျပသြားေအာင္ ဘယ္လိုႀကိဳးစားၾကမလဲဆိုတာ ၾကည့္႐ွဴၾကရမွာပါ။ဒီကားမွာ ခ်စ္စရာအေကာင္းဆံုးကေတာ့ လူဆိုးႀကီးဂါမဒြန္ပါ။ ႐ုပ္ဆိုးပန္းဆိုးဆိုေပမယ့္ မ်က္ႏွာအေနအထားနဲ႔စကားေျပာပံုက တကယ္ကိုခ်စ္စရာေကာင္းပါတယ္။နင္ဂ်ာအဖြဲ႔ရဲ႕ တလြဲတေခ်ာ္လုပ္ရပ္ေတြကိုလဲ ျမင္ေတြ႔ရမွာျဖစ္သလို LEGO ႐ုပ္႐ွင္ေတြရဲ႕ထံုးစံအတိုင္း Message ေလးတစ္ခုေတာ့ အျမဲထည့္သြင္းထားတာကိုေတြ႔ရပါလိမ့္မယ္။LEGO crazy ေတြအတြက္ကေတာ့ ၾကည့္ကိုၾကည့္သင့္တဲ့ ဇာတ္ကားေကာင္းတစ္ကားပါပဲ။File Size : (800 MB) and (320 MB)Quality : Blu-Ray 720pRunning Time : 1hr 41minFormat : Mp4Genre :Animation, Action, AdventureSubtitle : Myanmar Subtitle (Hard Sub)Source : 1080p BluRay x264-DRONESTranslated by Arkar PhyoEncoded by Thanhtike Zaw",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/3DPuzZmkBD9vbMpLvQcrymYoDBk.jpg",
+      "https://image.tmdb.org/t/p/w300/kmhsOIu536QmDnVzxYJHVxkSU7t.jpg",
+      "https://image.tmdb.org/t/p/w300/sYS85q6Ooasc3FkTO0NL8j0Kgu1.jpg"
+    ],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2017/12/lego_ninjago_movie_ver2_xlg.jpg",
+    "movie_links": [
+      {
+        "link": "http://activeation.com/RUV",
+        "server": "drive.google.com",
+        "size": "800 MB",
+        "quality": ""
+      },
+      {
+        "link": "http://activeation.com/RVd",
+        "server": "Soliddrive.co",
+        "size": "800 MB",
+        "quality": ""
+      },
+      {
+        "link": "http://activeation.com/RWT",
+        "server": "Soliddrive.co",
+        "size": "320 MB",
+        "quality": ""
+      },
+      {
+        "link": "http://activeation.com/RbS",
+        "server": "openload.co",
+        "size": "800 MB",
+        "quality": ""
+      },
+      {
+        "link": "http://activeation.com/Rcm",
+        "server": "openload.co",
+        "size": "320 MB",
+        "quality": ""
+      }
+    ],
+    "trailer": {
+      "video_id": "sZSYYiATFTI",
+      "video_url": "https://www.youtube.com/watch?v=sZSYYiATFTI",
+      "embed_url": "https://www.youtube.com/embed/sZSYYiATFTI"
+    }
+  },
+  {
+    "metadata": "not rated|2014|1h 40m|Bollywood,Drama",
+    "rating": {
+      "rating": "7.2/10",
+      "rating_count": "3.9k"
+    },
+    "title": "Margarita with a Straw (2014)",
+    "description": "Margarita with a Straw (2014)===============================imdb 7.2 / 3.9kMargaritaလေးတခွက်ကို ပိုက်လုံးလေးနဲ့ စုပ်ပြီးသောက်တတ်တဲ့ မသန်စွမ်းမိန်းမပျိုလေးရဲ့ဆယ်ကျော်သက်အရွယ် ဘဝဖြတ်သန်းတဲ့ပုံစံကိုဟာသရော ဒရာမာရော ရသနှစ်မျိုးကို အလှည့်ကျရောစပ်ပြီးပျော်တလှည့်ဝမ်းနည်းတလှည့်ကြည့်ရှုသွားရမယ့်ဇာတ်လမ်းလေးတပုဒ်ကို တင်ဆက်ပေးချင်ပါတယ်လိုင်လာဆိုတဲ့ မိန်းကလေးဟာ ငယ်စဉ်ကတည်းမသန်စွမ်းမိန်းကလေးတစ်ယောက်ဖြစ်ပြီး မိဘနှစ်ဦးရဲ့အရိပ်တကြည့်ကြည့်နဲ့ဂရုစိုက်ဖူးဖူးမှုတ်ခြင်းခံထားရပြီး အနုပညာပိုင်းကိုလဲ ဝါသနာပါလှသူလေးပဲဖြစ်ပါတယ်အရွယ်ရောက်ပြီး သူမ ဆယ်ကျော်သက်အရွယ်ရောက်လာချိန်မှာတော့တခြာားရွယ်တူတွေလို အချစ်ကို စမ်းသပ်ရူးမိုက်ချင်သူလေးတဦးဖြစ်လာပါတော့တယ်…သူမဟာ တခြားသာမန်လူတွေလိုပဲ အချစ်ကိုခံစားရူးသွပ်နိုင်မှာလားဒါမှမဟုတ် အချစ်ရေးမှာပဲ ကံခေမှာလားဆိုတာကို ပျော်ရွှင်စရာအခိုက်တန့်လေးတွေဝမ်းနည်းစရာအခိုက်တန့်လေးတွေနဲ့အတူ စီးမြောခံစားကြည့်ရှုသွားရမှာပဲဖြစ်ပါတယ်File size…1.03GBQuality…720p WEB DLFormat…mp4Duration….1h 40mSubtitle….Myanmar Subtitle (Hard Sub)Encoder….YKTranslated byMoment",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/xDbctrBpzT7oJALqaMMmlJ0cDyE.jpg",
+      "https://image.tmdb.org/t/p/w300/1lbLzvOc8Mofq6I9KeyodTnin87.jpg",
+      "https://image.tmdb.org/t/p/w300/uC40kxKaagBJXgEKsLN0vhny4q6.jpg",
+      "https://image.tmdb.org/t/p/w300/99SwVAN0Vfa9bFurxQMItvvuD0I.jpg",
+      "https://image.tmdb.org/t/p/w300/ogiZItyGao23IiSKGmmmCAhEgS1.jpg"
+    ],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2023/03/MV5BMjM3MDA1OTU2Ml5BMl5BanBnXkFtZTgwNjk1NTY3NDE@._V1_.jpg",
+    "movie_links": [
+      {
+        "link": "https://yoteshinportal.cc/margarita-with-a-straw-2014-web-rip-720-p-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "1.03GB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://usersdrive.com/3p7b88r94tal.html",
+        "server": "usersdrive.com",
+        "size": "1.03GB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://streamvid.net/3esi8tmx7zcu",
+        "server": "streamvid.io",
+        "size": "1.03GB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://megaup.net/1d0p1/Margarita_with_a_Straw_2014_WebRip_720p(CM).mp4",
+        "server": "megaup.net",
+        "size": "1.03GB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://mega.nz/file/kugg1JoQ#ktj2SG1c-sz0xYAbm3fRFql7wauUpS6v2LvZ6yKOrTQ",
+        "server": "mega.nz",
+        "size": "1.03GB",
+        "quality": "720p"
+      }
+    ],
+    "trailer": {
+      "video_id": "wrp4-WXhQk0",
+      "video_url": "https://www.youtube.com/watch?v=wrp4-WXhQk0",
+      "embed_url": "https://www.youtube.com/embed/wrp4-WXhQk0"
+    }
+  },
+  {
+    "metadata": "N/A|2021|2h 20min|Bollywood,Comedy,Drama,Romance",
+    "rating": {
+      "rating": "7.4/10",
+      "rating_count": "782"
+    },
+    "title": "Oh Manapenne! (2021)",
+    "description": "Oh Manapenee (2021)====================မိသားစုကားလေးတွေကိုမှ နှစ်သက်တယ်ဆိုတဲ့ ပရိသတ်တွေအတွက်အိန္ဒိယဇာတ်လမ်းကောင်းလေး တစ်ပုဒ်ကို တင်ဆက်ပေးချင်ပါတယ်အင်ဂျင်နီယာဘွဲ့ရဖို့အတွက် အဖေကအစ “ငါ့သားရယ် စာခိုးချပြီးအောင်အောင်သာလုပ်ပါတော့” လို့ပြောရလောက်အောင် ပျင်းရိပြီး ကြိုးစားချင်စိတ်လုံးဝမရှိတဲ့ ကာသစ်…..ကာသစ်တစ်​ယောက် ပျင်းရိပေမဲ့လည်း သူ့ဘဝမှာ အဖြစ်ချင်ဆုံးအိပ်မက်တစ်ခုရှိပါတယ် အဲ့ဒါကတော့ စားဖိုမှူးတစ်ယောက်ဖြစ်ဖို့ပါပဲတစ်ဖက်မှာလည်း ဩစတြေးလျမှာ အခြေချဖို့ ရည်မှန်းချက်ထားသူ ကောင်မလေး ဆူရသီ….ဆူရသီရဲ့ ဖခင်ဟာ ယောကျ်ားလေး လိုချင်ပေမဲ့လည်းငယ်ငယ်ပ နွားကို ကျောက်ခဲနဲ့ပေါက်လို့ သူ့မှာသမီးလေး မွေးလာရပါတယ်ဆိုပြီး ရင်ထုမနာဖြစ်နေတဲ့အခါ….ဆူရသီတစ်ယောက် သူဟာ မိန်းကလေးဖြစ်ပေမဲ့လည်းယောကျာ်းလေးများနဲ့တန်းတူစွမ်းစွမ်းတမံ ဆောင်ရွက်နိုင်စွမ်းရှိကြောင်း သက်သေပြဖို့ ကြိုးစားပါတော့တယ်တစ်နေ့မှာတော့ ကာသစ်တို့မိသားစု ကြင်ဖက်တွေ့ဖို့လာရင်းဆူရသီတို့အိမ်ကို မှားဝင်မိတဲ့အခါ….အပျင်းတစ်နေတဲ့ ကာသစ်နဲ့ အမြဲတမ်းတက်ကြွကြိုးစားနေတဲ့ ဆူရသီ…. သူတို့နှစ်ယောက်ကြားဘာတွေဆက်ဖြစ်မလဲ???ဘယ်လို အဖြစ်အပျက်လေးတွေကနေ သူတို့နှစ်ဦးနီးစပ်သွားမလဲဆိုတာ အားပေးကြည့်ရှုပေးကြပါဦးနော်အညွှန်းကို‌တေ့ာ အပျင်းတစ်ရွှေပွင့်မှ ရေးပေးထားပြီးဘာသာပြန်ဆိုထားသူတွေကတော့ Shwe PyaeShwe Pwint & Lai Laii တို့ပဲ ဖြစ်ပါတယ်File size…2.17GB / 1.24GBQuality…1080p True WEB DL AAC 5.1Ch / 720pFormat…Mp4Duration….2h 20minsSubtitle….Myanmar Subtile (Hard Sub)Encoder….YkTranslated by Shwe Pyae & Lai Laii  &  Shwe Pwint",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/14nLhFCNYbZM3Em4sZTOyDK4kRA.jpg",
+      "https://image.tmdb.org/t/p/w300/Aelu4cJoltKT0UrWTI070Eq7yQh.jpg",
+      "https://image.tmdb.org/t/p/w300/d3fgbOuR3HxapIKF89nNh8d3VIO.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/ktnozJlcNH9ffkvuKvn0gvnLxsn.jpg",
+    "movie_links": [
+      {
+        "link": "https://www.cmvipmembers.com/check-movies/oh-manapenne-2021",
+        "server": "VIP Links",
+        "size": "2.17GB/1.24GB",
+        "quality": "1080p / 720p"
+      },
+      {
+        "link": "https://yoteshinportal.cc/oh-manapenne-2021-true-web-dl-1080-p-hq-aac-5-ch-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "2.17GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://cmdrive.org/share/Jaa2DRM2",
+        "server": "Direct Link",
+        "size": "2.17GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://usersdrive.com/s0q7g2rl9bs7.html",
+        "server": "usersdrive.com",
+        "size": "2.17GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://megaup.net/1FXy3/Oh_Manapenne_(2021)_TRUE_WEB-DL_-_1080p_HQ__AAC_5.CH(CM)_.mp4",
+        "server": "megaup.net",
+        "size": "2.17GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://disk.yandex.com/i/g2I6GrvAgrhpfg",
+        "server": "disk.yandex.com",
+        "size": "2.17GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://yoteshinportal.cc/oh-manapenne-2021-true-web-dl-720-p-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "1.24GB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://cmdrive.org/share/Ud7hxQ0q",
+        "server": "Direct Link",
+        "size": "1.24GB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://usersdrive.com/cxdfhgz6tfru.html",
+        "server": "usersdrive.com",
+        "size": "1.24GB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://megaup.net/1005c/Oh_Manapenne_(2021)_TRUE_WEB-DL_-_720p(CM)_.mp4",
+        "server": "megaup.net",
+        "size": "1.24GB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://embedsb.com/wl7me7hi4s9l.html",
+        "server": "streamsb.com",
+        "size": "1.24GB",
+        "quality": "720p"
+      }
+    ],
+    "trailer": null
+  },
+  {
+    "metadata": "|||Drama",
+    "rating": {
+      "rating": "/10",
+      "rating_count": ""
+    },
+    "title": "Alchemy of the Spirit (2022)",
+    "description": "2022 တုန်းကထွက်ရှိထားတဲ့ “စိတ်ဝိညာန်ရဲ့ လျှို့ဝှက်ဆန်းကြယ်တဲ့ ပြောင်းလဲမှု” လို့အမည်ပေးထားတဲ့ Sci-fi ရုပ်ရှင်တစ်ကားနဲ့ မိတ်ဆက်ပေးချင်ပါတယ်။ ဒီရုပ်ရှင်ဟာ ထူးထူးခြားခြား ဆုပေါင်း ၂၃ ခုအထိရရှိထားပါတယ်။အော်လီဗာဘလက်ခ်လို့ အမည်ရတဲ့ ပန်းချီဆရာကြီးဟာ ချစ်မြတ်နိုးရတဲ့ ဇနီးဖြစ်သူအယ်ဗလင်းနဲ့ တစ်သက်လုံးလက်တွဲဖြတ်သန်းလာခဲ့သူတစ်ဦးပါ။ တစ်ရက်မှာတော့ အယ်ဗလင်းဟာ အိပ်စက်နေရင်း သေဆုံးသွားခဲ့ပြီး အော်လီဗာတစ်ယောက် အယ်ဗလင်းရဲ့ဘေးမှာ နိုးထလာခဲ့ပါတယ်။ အော်လီဗာဟာ အစကတော့ ၉၁၁ ကို ဖုန်းဆက်အကြောင်းကြားဖို့ တွေးမိခဲ့ပေမဲ့ ဒီလိုလုပ်လိုက်ရင် သူနဲ့ သူချစ်ရတဲ့ဇနီးတို့ဟာ ထာ၀ရဝေးကွာသွားရတော့မှာကို သဘောပေါက်သွားပါတယ်။အော်လီဗာဟာ ဇနီးသည်ရဲ့သေဆုံးမှုကို လက်မခံချင်ဘူး။ ဒီလိုလက်မခံထားမှသာ သူနဲ့ ဇနီးဖြစ်သူဟာ ဘယ်တော့မှမခွဲခွာရမှာ။မှော်ဆန်တဲ့ လက်တွေ့တည်ရှိမှုနဲ့အတူအော်လီဗာဟာ ယုံကြည်မှုတွေရဲ့ မှားယွင်းနေတဲ့အတွေးကမ္ဘာကြီးထဲကို ရောက်ရှိသွားတယ်။ အိုလီဗာအတွက် အချိန်နဲ့ နေရာတို့ဟာ ရောယှက်သွားခဲ့ပြီး ဘယ်ဟာကအစစ်အမှန်လဲ ဘယ်ဟာက စိတ်ရဲ့လှည့်စားမှုလဲဆိုတာ ကွဲပြားအောင်ခွဲခြားဖို့အတွက် စတင်ခက်ခဲလာခဲ့တယ်။ဒီလိုနဲ့ အော်လီဗာရဲ့ ထင်ယောင်ထင်မှားဖြစ်မှုတွေနဲ့ ပြည့်နှက်နေတဲ့ အတွေးကမ္ဘာကြီးထဲကို အယ်ဗလင်းရောက်လာခဲ့တယ်။ အယ်ဗလင်းနဲ့ အော်လီဗာ စကားပြောကြတယ်၊ အယ်ဗလင်းက အော်လီဗာကိုထွေးပွေ့တယ်။ အော်လီဗာဟာ လက်တွေ့ကမ္ဘာနဲ့ အတွေးကမ္ဘာအကြား သေဆုံးသွားပြီဖြစ်တဲ့ ဇနီးဖြစ်သူနဲ့ ဆက်လက်ဆက်သွယ်နေရင်း ဖောက်သည်တစ်ယောက်အပ်ထားတဲ့ အနုပညာဖန်တီးမှုတစ်ခုကို ဆက်လက်ပြုလုပ်နေတယ်။ဒီရုပ်ရှင်ဟာ သေခြင်းတရားအပေါ် မေးခွန်းထုတ်စေမယ်။ သေဆုံးပြီးသွားတဲ့အခါ နောက်ဘ၀ဆိုတာ ရှိမလား၊ ဘ၀ဆိုတာ သေဆုံးပြီးသွားတာနဲ့ ရပ်တန့်သွားပြီလား၊ စိတ်ကရော ဒါကိုဘယ်လိုလက်ခံလဲဆိုတဲ့ မေးခွန်းထုတ်စရာကိစ္စတွေကို အော်လီဗာနဲ့ အယ်ဗလင်းတို့အကြားက ချစ်ခြင်းသံ‌ယောဇဉ်ကို ထူးခြားတဲ့အရောင်တွေ၊ စကားလုံးလှလှတွေနဲ့ လွမ်းဆွေးဖွယ်ရာသီချင်းသံ‌တွေကို အသုံးပြုပြီး နူးညံ့ ဖြေးညင်းစွာ ပုံဖော်ထားတဲ့ရုပ်ရှင်ဖြစ်တာကြောင့် ပျင်းစရာကောင်းပေမဲ့ တစ်ချိန်တည်းမှာ ကြည့်ရှုသူကို အတွေးကမ္ဘာထဲခေါ်ဆောင်သွားပေးမယ့် ရုပ်ရှင်ဖြစ်ကြောင်း ညွှန်းဆိုရင်းနဲ့ပဲ…File size…(1 GB)/(436 MB)Quality….Webrip 1080p / 720pFormat…mp4Duration….01:32:00Genre…DramaSubtitle….Myanmar Subtitle (Hardsub)Encoder….Mr. AndersonTranslated by Steven Khant",
+    "screenshot_links": [],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2024/01/MV5BNjU4NGFkYmMtMjBlMC00MzgzLTgyZjAtOTQxNzVjMTc5ZTc1XkEyXkFqcGdeQXVyMDYzNzI3Mg@@._V1_-scaled.jpg",
+    "movie_links": [
+      {
+        "link": "https://yoteshinportal.cc/alchemy-of-the-spirit-2022-1080-p-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "1GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://usersdrive.com/9q3yt1zmk8me.html",
+        "server": "usersdrive.com",
+        "size": "1GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://megaup.net/7s7v9/Alchemy.Of.The.Spirit.2022.1080p.(CM).mp4",
+        "server": "megaup.net",
+        "size": "1GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://mega.nz/file/MrF0XbZA#ci-fSSYasYEx417bIZ7iUPxKgjArQHwjZUEr5El0pTA",
+        "server": "mega.nz",
+        "size": "1GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://yoteshinportal.cc/alchemy-of-the-spirit-2022-720-p-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "436MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://usersdrive.com/rqhxkpurhwy5.html",
+        "server": "usersdrive.com",
+        "size": "436MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://megaup.net/edI46/Alchemy.Of.The.Spirit.2022.720p.(CM).mp4",
+        "server": "megaup.net",
+        "size": "436MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://mega.nz/file/43UXCaYC#VTlu6YXlT9Bll8VxjgobnPKxlHQHJ9hB0RPR9R4Q8fY",
+        "server": "mega.nz",
+        "size": "436MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://obeywish.com/1ubu5d3pdgzt",
+        "server": "streamsb.com",
+        "size": "436MB",
+        "quality": "720p"
+      }
+    ],
+    "trailer": null
+  },
+  {
+    "metadata": "|||Comedy,Drama,Sci-Fi",
+    "rating": {
+      "rating": "5.5/10",
+      "rating_count": ""
+    },
+    "title": "I’m Totally Fine (2022)",
+    "description": "ဒါကတော့ သိပ္ပံစိတ်ကူးယဉ်၊ ဟာသ အမျိုးအစားလေးပါပဲ။ ဗန်နက်ဆာဟာ သူ့ရဲ့ သူငယ်ချင်းသေဆုံးသွားလို့ ပူဆွေးပြီး တစ်ယောက်တည်းခရီးထွက်လာပါတယ်။ ဒါပေမဲ့ သူ့ရဲ့ မကြာသေးခင်ကမှ သေဆုံးသွားတဲ့ သူငယ်ချင်း ဂျန်နီဖာကို မီးဖိုချောင်တစ်ခုထဲမှာ အရှင်လတ်လတ်ကြီး ပြန်တွေ့လိုက်ရတဲ့အခါ သူ့ရဲ့ အထီးကျန်ခရီးက လမ်းကြောင်းပြောင်းသွားပါတော့တယ်။ သူတွေ့နေရတဲ့ သူငယ်ချင်း ဂျန်နီဖာက လူမဟုတ်၊ သရဲမဟုတ်ဘဲ ကိုယ့်ကိုယ်ကိုယ် ဂြိုလ်သားပါဆိုပြီး ပြောလာတဲ့အခါမှာတော့ သူငယ်ချင်းနှစ်ယောက် ထူးခြားဆန်းကြယ်တဲ့ ၄၈ နာရီကို အတူဖြတ်သန်းရပါတော့တယ်။File size…(1.27GB)  / (711MB) / (351MB)Quality…. Web 1080P / 720p / 480pFormat…mp4Duration….01:23:00Genre… Comedy / Drama / Sci-FicSubtitle….Myanmar Subtitle (Hardsub)Encoder….Mr. AndersonTranslated by Sofia, May Phoo",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/1E2OOb3WUBEwHyBwlhV9BIJ1HfO.jpg"
+    ],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2022/11/insert-toy.jpg",
+    "movie_links": [
+      {
+        "link": "https://yoteshinportal.cc/im-totally-fine-2022-1080-p-web-dl-dd-5-1-h-264-evo-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "1.27GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://usersdrive.com/l4s9cb48lsdu.html",
+        "server": "usersdrive.com",
+        "size": "1.27GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://megaup.net/2w76B/Im.Totally.Fine.2022.1080p.(CM)_(2).mp4",
+        "server": "megaup.net",
+        "size": "1.27GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://mega.nz/file/27xzgLZB#uiZQoL6lwhNdlg9d9FTgPfs5RQEM1BUmNLw3SJb6fJE",
+        "server": "mega.nz",
+        "size": "1.27GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://yoteshinportal.cc/im-totally-fine-2022-720-p-web-dl-dd-5-1-h-264-evo-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "711MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://usersdrive.com/5lw0p81qlumz.html",
+        "server": "usersdrive.com",
+        "size": "711MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://megaup.net/2w76y/Im.Totally.Fine.2022.720p.(CM)_(2).mp4",
+        "server": "megaup.net",
+        "size": "711MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://mega.nz/file/q2oX1IAY#3-gdMrglLTpPIR7AmbW6HdH_MxSC1RhuIV4TdkQbfEs",
+        "server": "mega.nz",
+        "size": "711MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://sblongvu.com/57krthukg3i0.html",
+        "server": "streamsb.com",
+        "size": "711MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://yoteshinportal.cc/im-totally-fine-2022-480-p-web-dl-dd-5-1-h-264-evo-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "351MB",
+        "quality": "480p"
+      },
+      {
+        "link": "https://usersdrive.com/iqq3aruze4qd.html",
+        "server": "usersdrive.com",
+        "size": "351MB",
+        "quality": "480p"
+      },
+      {
+        "link": "https://megaup.net/2w76x/Im.Totally.Fine.2022.480p.(CM)_(2).mp4",
+        "server": "megaup.net",
+        "size": "351MB",
+        "quality": "480p"
+      },
+      {
+        "link": "https://mega.nz/file/7qxFlCQb#O-CsT1eiPFcBU_n9tzTc9acJMdTR-qfDNMbhhVPKWxk",
+        "server": "mega.nz",
+        "size": "351MB",
+        "quality": "480p"
+      },
+      {
+        "link": "https://sblongvu.com/5p98p3sxutq6.html",
+        "server": "streamsb.com",
+        "size": "351MB",
+        "quality": "480p"
+      }
+    ],
+    "trailer": {
+      "video_id": "MKltG4GxmNE",
+      "video_url": "https://www.youtube.com/watch?v=MKltG4GxmNE",
+      "embed_url": "https://www.youtube.com/embed/MKltG4GxmNE"
+    }
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "7.079/",
+      "rating_count": "38"
+    },
+    "title": "Bodies 2023 (Season 1)",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/xA6sF6L1wSHEgn3PsAzYLoajQPI.jpg",
+      "https://image.tmdb.org/t/p/w300/9it6LOEHhVOOa7ThSK29EjbXiU9.jpg",
+      "https://image.tmdb.org/t/p/w300/wXXz3fKb9DBt8hrddkse3b7hswD.jpg",
+      "https://image.tmdb.org/t/p/w300/cugtXSG6Hu2afzd0IEY86XJngx7.jpg",
+      "https://image.tmdb.org/t/p/w300/sXgKKLJtmjivZP1Cxszi5EmLJCW.jpg",
+      "https://image.tmdb.org/t/p/w300/56nvaZSVsycMfB2rlk5Dp5zC1ED.jpg",
+      "https://image.tmdb.org/t/p/w300/sDz1i2hHfB9zjymp3chpvslD1jf.jpg",
+      "https://image.tmdb.org/t/p/w300/lJNZyc1BH7SThEqvvAxp27ivgr4.jpg",
+      "https://image.tmdb.org/t/p/w300/hDo1sfJtsJFVMM89Aa9pAal8RbI.jpg",
+      "https://image.tmdb.org/t/p/w300/at8nc8iSnJp5QMc5uasthpxNWji.jpg",
+      "https://image.tmdb.org/t/p/w300/xTXpCxHTb0tnaBPP17M0zL7hBh2.jpg",
+      "https://image.tmdb.org/t/p/w300/tAA124h7C0FboKYc4l8dgFdvvC.jpg",
+      "https://image.tmdb.org/t/p/w300/nTVwnpbaA0l2KyTAzkYkrwltNn.jpg",
+      "https://image.tmdb.org/t/p/w300/nJ0nW2BCW1mxvSbOwmJ9c0RimEH.jpg"
+    ],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2023/10/MV5BMzdiYzRjZjctZDE0ZC00MGQ4LWEwYzAtZDEyNzJiYzI2YjM2XkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_FMjpg_UX1000_.jpg",
+    "movie_links": [],
+    "trailer": {
+      "video_id": "RyZjIPB8paw",
+      "video_url": "https://www.youtube.com/watch?v=RyZjIPB8paw",
+      "embed_url": "https://www.youtube.com/embed/RyZjIPB8paw"
+    }
+  },
+  {
+    "metadata": "R|1998|121 min|Crime,Drama",
+    "rating": {
+      "rating": "7.3/10",
+      "rating_count": "131,443"
+    },
+    "title": "Rounders(1998)",
+    "description": "Rounders(1998)IMDB…7.3,,,Rotten…65%Rounders ( ကျားများ) ကျား ။ ။ ကံတိုက်​ကစားတဲ့ ဖဲသမား မဟုတ်​ပဲ ဖဲလိမ်​ရိုက်​သူ ဖဲနဲ့ အသက်​​မွေးသူများကို ကျားဟု​ခေါ်သည်​။Ref..မင်​းသိင်္ခ ဆရာသခင်​နဲ့ နှစ်​​ပေါင်​းများစွာ ခင်​ဗျား ဖဲကစားရတာ စိတ်​ဝင်​စားလား…။ ကျွန်​​တော်​​တော့ မကြာမကြာ ဖဲကစား ဖူးတယ်​။Texas Holdem Poker လို့​ခေါ်တဲ့ ဆိုတဲ့ ဖဲကစား နည်​းလည်​း အပါအဝင်​ပါပဲ။ ဒီ ကစားနည်​းကို ကျွန်​​တော်​ ကံ နဲ့ ဆုံးဖြတ်​ချက်​သက်​သက်​လို့ ထင်​ခဲ့ဖူးပါတယ်​… ဒီ ဇာတ်​ကားကို မကြည်​့မိခင်​ အထိ​ပေါ့။ ဖဲလိမ်​ရိုက်​တယ်​ဆိုတာထက်​လူ့စိတ်​ကို ဖတ်​တယ်​ ဆို ပိုမှန်​မလားပဲ။ ဒီထဲမှာ Matt Damon ​ပြောခဲ့သလို ​ပြောခဲ့သလိုပါပဲ ဖဲချပ်​​တွေကို ကစားတာ မဟုတ်​ပါဘူး လူ​တွေရဲ့ စိတ်​ကို ကစားလိုက်​တာပါ။ ဖဲတစ်​ချပ်​​ဝေတိုင်​းမှာ ဆုံးဖြတ်​မှုတစ်​ခု လုပ်​ရတယ်​။ ဆက်​လိုက်​မလား အရှုံး​ပေးလိုက်​မလား​လောင်​း​ကြေးမြှင်​့မလား အစရှိသဖြင်​့​ပေါ့… ကိုယ်​့ဖဲက တစ်​ဖက်​ဖဲထက်​ ​ကောင်​းလျက်​နဲ့ အရှုံး​ပေးမိတာလည်​း ဖြစ်​နိုင်​​လေရဲ့ ။တစ်​ဖက်​ဖဲထက်​ မသာပဲ နိုင်​သွားတာလည်​း ဖြစ်​နိုင်​​လေရဲ့… ဒီ​တော့ ခင်​ဗျားပဲ ​ပြောကြည်​့ပါ ဘာကို ကစားတာများလဲ…။ဇာတ်​လမ်​းအကျဉ်​းက​တော့ ဖဲကစားတာကို မိန်​းက​လေးတစ်​​ယောက်​အတွက်​ ရပ်​ထားတဲ့ ​ရှေ့​နေစာ​မေးပွဲ ​ဖြေရ​တော့မဲ့ ကျားတစ်​​ကောင်​….သူ့ သူငယ်​ချင်​း ​ထောင်​က ထွက်​တဲ့​နေ့မှာ သူငယ်​ချင်​း အလိုကို လိုက်​ပြီး ဖဲကစားမိရာက သူ့ သူငယ်​ချင်​း ရဲ့ပြသ၁နာ​တွေမှာ မီးခိုးကြွက်​​လျှောက်​ ပါဝင်​မိရာက သူ့ ဘဝ အစစ်​အမှန်​ ဝါ ဖဲသမားဘဝထဲ ပြန်​​ရောက်​သွားတဲ့ အ​ကြောင်​းပါတစ်​ကားလုံး အချစ်​ခန်​းတစ်​ခန်​းမှ မပါ​ပေမဲ့ အဆုံးသတ်​အခန်​း​လေးမှာ​တော့ စကားလုံး​တွေအများကြီးမပါပဲသံ​ယောဇဉ်​​တွေရဲ့ အတိမ်​အနက်​ကို ရိုးရိုးရှင်​းရှင်​း​လေး ခလုတ်​တိုက်​ပြ သွား​လေရဲ့ ဘဝမှာ ​ရွေးချယ်​မှု​တွေ အမြဲ ရှိပါတယ်​။ဘယ်​သူ့ကို ဘယ်​​လောက်​ပဲ ချစ်​ပါတယ်​​ပြော​ပြော ကိုယ်​ ဘယ်​သူလဲဆိုတာကို ကျွန်​​တော်​တို့တ​တွေ ​ကျောခိုင်​းပြီး ​ရွေးချယ်​လို့ မရပါဘူး ရခဲ့လည်​း ခဏပါပဲ။ မ​ရွေးချယ်​ခဲ့​ပေမဲ့လည်​း အနက်​ရှိုင်​းဆုံး သိမ်​းဆည်​းထားတဲ့ချစ်​ခြင်​းတရား​တွေလည်​း ရှိ​လေရဲ့ Matt Damon ဒီကားမှာ ​ရွေးသွားတဲ့ လမ်​း​ကြောင်​းကို ကျွန်​​တော်​တို့ မှန်​တယ်​မှားတယ်​ မ​ဝေဖန်​ပဲ စီး​မျော ကြည်​့ကြရ​အောင်​… Matt Damon နဲ့ Edward Norton လို Legend ​တွေ ပါဝင်​ထားတဲ့ ကားလည်​း ဟုတ်​ပါတယ်​။IMDB Rating 7.3 အထိရထားပါတယ်​။ဇာတ်လမ်းအညွှန်းနဲ့ ဘာသာပြန်သူကတော့ Ko WiRa Aung ပဲဖြစ်ပါတယ်…File Size : (800 MB) and (314 MB)Quality : Blu-Ray 720pFormat…mp4Duration…02:01:00Genre :Crime,DramaSubtitle : Myanmar Subtitle (Hard Sub)Translated by WiRa AungEncoded by Phyo Pyae",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/IbRtRvkIFwZ6D3F2BliburxWgt.jpg",
+      "https://image.tmdb.org/t/p/w300/cTfK4NR9L1Nj2g4vRsYjNZC7vvr.jpg",
+      "https://image.tmdb.org/t/p/w300/hzbeuT5WezSPdf8LYuLlg7KQVyk.jpg",
+      "https://image.tmdb.org/t/p/w300/1J40rkTw0WrYkB4Yk00q1dGbTJK.jpg",
+      "https://image.tmdb.org/t/p/w300/iZ1GuqVm8r9rYJRA2BVkwXl21hZ.jpg",
+      "https://image.tmdb.org/t/p/w300/epAjPhwvh714R8hNTgWv72klqJ7.jpg",
+      "https://image.tmdb.org/t/p/w300/dBcRhMgptj8guEAVF8dtDCwVLi5.jpg",
+      "https://image.tmdb.org/t/p/w300/wJaKCrcnEwLD7XHnpHbPUp8AxXt.jpg",
+      "https://image.tmdb.org/t/p/w300/v1nCaYfNwWy5p3vsHptsY7tnze8.jpg",
+      "https://image.tmdb.org/t/p/w300/5KdCYMNW4Heck7CAsPhwK2TYfkt.jpg",
+      "https://image.tmdb.org/t/p/w300/gg61nBxB7rUHRUaHJ5wALveW1mQ.jpg",
+      "https://image.tmdb.org/t/p/w300/3zCdALZeWAFMUC2yX4L0wYkpQgR.jpg",
+      "https://image.tmdb.org/t/p/w300/5rWeDwJlyw6pZiOY7qYNwmNutxh.jpg",
+      "https://image.tmdb.org/t/p/w300/z4vPMt1w1Ugh0t4fHzqCJdiKuIu.jpg",
+      "https://image.tmdb.org/t/p/w300/ntNI91NRDim8fFFef6mtUcqLVnL.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/j5IzmdWdO5CqgeoyJLZ1dO7w375.jpg",
+    "movie_links": [
+      {
+        "link": "https://www.cmvipmembers.com/check-movies/rounders-1998",
+        "server": "VIP Links",
+        "size": "800MB",
+        "quality": ""
+      },
+      {
+        "link": "https://yoteshinportal.cc/rounders-1998-mm-sub-mp-4-1",
+        "server": "yoteshinportal.cc",
+        "size": "800MB",
+        "quality": ""
+      },
+      {
+        "link": "https://megaup.net/1ztwd/Rounders_[1998]_(MM_Sub).mp4",
+        "server": "megaup.net",
+        "size": "800MB",
+        "quality": ""
+      },
+      {
+        "link": "https://veryfiles.com/m4kkchh35dmx",
+        "server": "veryfiles.com",
+        "size": "800MB",
+        "quality": ""
+      },
+      {
+        "link": "https://sbcloud1.com/tr0l829ykj9k.html",
+        "server": "streamsb.com",
+        "size": "800MB",
+        "quality": ""
+      }
+    ],
+    "trailer": {
+      "video_id": "sV5f97wqeW4",
+      "video_url": "https://www.youtube.com/watch?v=sV5f97wqeW4",
+      "embed_url": "https://www.youtube.com/embed/sV5f97wqeW4"
+    }
+  },
+  {
+    "metadata": "|2023||Comedy,Family,Romance",
+    "rating": {
+      "rating": "6.3/10",
+      "rating_count": "1600"
+    },
+    "title": "Prom Pact (2023)",
+    "description": "Prom Pact (2023)=============IMDb Rating – 6.3/10ပေါ့ပေါ့ပါးပါး ကျောင်းသားကားလေးတွေ ကြည့်ချင်သူတို့အတွက်Disney ကနေ လောလောလတ်လတ်ထွက်ရှိထားတဲ့ rom-comကားလေးကို တင်ဆက်ပေးလိုက်ပါတယ်။ဇာတ်ကားထဲမှာ မန်ဒီယန်းဆိုတဲ့ကောင်မလေးက “I am my ownperson” ဆိုတဲ့ feministလေးဖြစ်ပါတယ်။ သူ့ရဲ့အိပ်မက်ကတော့ဟား‌ဗတ်ကိုသွားပြီး သူလေးစားရတဲ့သူ့idolဆီမှာ စာသင်ချင်တာပါတဲ့။ဒါပေမဲ့ ဟားဗတ်ကသူ့ကို စောင့်ဆိုင်းစာရင်းထဲထည့်လိုက်ပါတယ်။စောင့်ဆိုင်းစာရင်းဆိုတာက အငြင်းခံရတာနဲ့ သိပ်မကွာပါဘူး။ဒါကြောင့် မန်ဒီယန်းက ဟားဗတ်ကိုဝင်ခွင့်ရဖို့အတွက် ဟားဗတ်ကျောင်းသားဟောင်း အထက်လွှတ်တော်အမတ်ဆီကနေ ထောက်ခံစာတောင်းဖို့ကြံပါတော့တယ်။ ဖြစ်ချင်တော့ အဲဒီအမတ်ရဲ့သားက မန်ဒီယန်းအထင်သေးတဲ့ သူတို့ကျောင်းက ရေပန်းအစားဆုံး ဘတ်စကတ်ဘောကစားသမားဂရေဟမ်လန်ဆင်းဆိုတဲ့ကောင်လေးဖြစ်နေပါတယ်။ဒီလိုနဲ့မန်ဒီယန်းတစ်ယောက် သူ့အိပ်မက်ကိုပဲစွန့်လွှတ်မလား ဒါမှမဟုတ်သူ့စံတန်ဖိုးတွေကို စွန့်လွှတ်ပြီး ဟားဗတ်ကိုဖြစ်တဲ့နည်းနဲ့ ရောက်အောင်သွားမလား သူ့ဘဝကရော ဘယ်လိုတွေပြောင်းလဲသွားမလဲဆိုတာကိုကြည့်ရှုခံစားလိုက်ကြပါဦး။(ဒီဇာတ်လမ်းရဲ့အညွှန်းနဲ့ ဘာသာပြန်ရေးသားပေးသူကတော့EL ဖြစ်ပါတယ်)File Size……….(1.66 GB) / (729 MB) / (432 MB)Quality…………WEB-RIP 1080p / 720p / 480pDuration………1Hr 39MinsSubtitle………..Myanmar HardsubFormat…………MP4Genre…………..Comedy, Family, RomanceTranslator…….ELEncoder……….SWM",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/cr7TSQ8KmL6ltsmmvWjcuUgBp2s.jpg",
+      "https://image.tmdb.org/t/p/w300/aHKzw9AXrISbWpkVCyn4SV3PrY0.jpg",
+      "https://image.tmdb.org/t/p/w300/eN9LzmWdaop72ivTW5Re3buAceR.jpg",
+      "https://image.tmdb.org/t/p/w300/yCVRIbwrjnlpXDlIWOd2S97ivoR.jpg",
+      "https://image.tmdb.org/t/p/w300/jPKsE8cgehlau8V6YgNNVCMsoRK.jpg",
+      "https://image.tmdb.org/t/p/w300/tw8NmDJPX3aLhFoWbv2RhQGujED.jpg",
+      "https://image.tmdb.org/t/p/w300/wrAj8C5CEGtvGiOXBuUWr2qXVVE.jpg",
+      "https://image.tmdb.org/t/p/w300/mICbXPkholEQ0L2MwlGMVOL404z.jpg",
+      "https://image.tmdb.org/t/p/w300/fstVMpgjw6KTQ4NjKLvux2jFkBG.jpg",
+      "https://image.tmdb.org/t/p/w300/dqHsKMTseV4qteTWnuN6dNXDiqB.jpg",
+      "https://image.tmdb.org/t/p/w300/lbmiFzDFJhajqcrLWPtcTVTyf2N.jpg"
+    ],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2023/04/MV5BYjFmNDg2NGMtZDBlYy00YWUzLThiNjUtZWVhYjI3OWM0NmZkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg",
+    "movie_links": [
+      {
+        "link": "https://yoteshinportal.cc/prom-pact-2023-1080-p-dsnp-web-dl-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "1.66 GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://megaup.net/1Tv3s/Prom.Pact.2023.1080p.DSNP.WEB-DL.(CM).mp4",
+        "server": "megaup.net",
+        "size": "1.66 GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://lvturbo.com/009qzc86w1f4.html",
+        "server": "streamsb.com",
+        "size": "1.66 GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://mega.nz/file/ni4zjbCL#oEbi69mzCBR7TVd7BUaVU9wLaK76YXV1LBxrVncUrvM",
+        "server": "mega.nz",
+        "size": "1.66 GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://usersdrive.com/ougguvyd60ha.html",
+        "server": "usersdrive.com",
+        "size": "1.66 GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://streamvid.net/jfblcdmk9x8s",
+        "server": "streamvid.io",
+        "size": "1.66 GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://yoteshinportal.cc/prom-pact-2023-720-p-dsnp-web-dl-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "729 MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://megaup.net/1Tv3m/Prom.Pact.2023.720p.DSNP.WEB-DL.(CM).mp4",
+        "server": "megaup.net",
+        "size": "729 MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://lvturbo.com/6uylc8dabw3q.html",
+        "server": "streamsb.com",
+        "size": "729 MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://mega.nz/file/XvJQ3BJK#HCiGUYF74Tcmnkk1zEkrz-aVT8YHdBh7fNHC3fL93TY",
+        "server": "mega.nz",
+        "size": "729 MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://usersdrive.com/ogtvdezezd22.html",
+        "server": "usersdrive.com",
+        "size": "729 MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://streamvid.net/ctjsd9bfvak6",
+        "server": "streamvid.io",
+        "size": "729 MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://yoteshinportal.cc/prom-pact-2023-480-p-dsnp-web-dl-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "432 MB",
+        "quality": "480p"
+      },
+      {
+        "link": "https://megaup.net/1Tv3g/Prom.Pact.2023.480p.DSNP.WEB-DL.(CM).mp4",
+        "server": "megaup.net",
+        "size": "432 MB",
+        "quality": "480p"
+      },
+      {
+        "link": "https://lvturbo.com/d1ikdglzklmf.html",
+        "server": "streamsb.com",
+        "size": "432 MB",
+        "quality": "480p"
+      },
+      {
+        "link": "https://mega.nz/file/Lzw3QQYa#nrZCUe7zi0FpJDIiuWMs6hXgJmPcbze_9JeFkWlNvvI",
+        "server": "mega.nz",
+        "size": "432 MB",
+        "quality": "480p"
+      },
+      {
+        "link": "https://usersdrive.com/84nseumwpeks.html",
+        "server": "usersdrive.com",
+        "size": "432 MB",
+        "quality": "480p"
+      },
+      {
+        "link": "https://streamvid.net/e52925f2ndj8",
+        "server": "streamvid.io",
+        "size": "432 MB",
+        "quality": "480p"
+      }
+    ],
+    "trailer": {
+      "video_id": "brX-L41RJdA",
+      "video_url": "https://www.youtube.com/watch?v=brX-L41RJdA",
+      "embed_url": "https://www.youtube.com/embed/brX-L41RJdA"
+    }
+  },
+  {
+    "metadata": "|2006||Comedy,Drama,Romance",
+    "rating": {
+      "rating": "6.6/10",
+      "rating_count": "36000"
+    },
+    "title": "Last Holiday (2006)",
+    "description": "Last Holiday (2006)================IMDb Rating – 6.6/10The Secret Life of Bees, Girls’ Trip, Hustle စတဲ့ နာမည်ကြီးရုပ်ရှင်ဇာတ်ကားကောင်းတွေရဲ့ အဆိုတော်မင်းသမီးကြီးတစ်လက်ဖြစ်တဲ့ Queen Latifah ဆိုရင် ပရိသတ်ကြီးတို့ စိမ်းနေမယ် မထင်ပါဘူး။ ဒီကားလေးကတော့ Lifestyle, Comedy ရုပ်ရှင်တွေကို ပီပြင်ပိုင်နိုင်တဲ့ Queen Latifah ရဲ့ အကောင်းဆုံးရုပ်ရှင်ဇာတ်ကားတစ်ပုဒ်လို့ ပြောလို့ရပါတယ်။၂၀၀၆ ခုနှစ်မှာ ထွက်ရှိထားပြီး အမေရိကန်နိုင်ငံ၊ Louisiana ပြည်နယ်နဲ့ပြင်သစ်နိုင်ငံတို့ကို နောက်ခံထားပြီး ရိုက်ကူးထားတာပဲ ဖြစ်ပါတယ်။Miss Georgia Berd – နယူးအော်လင်းန်စ်မြို့ရဲ့ စတိုးဆိုင်ကြီးကြီး ပြောရရင်‌တော့ နာမည်ကြီး Shopping Mall ကြီးတစ်ခုရဲ့ ဟင်းချက်ပစ္စည်းဌာနက အရောင်းစာရေးမတစ်ယောက်။ အသက် ၃၀ ကျော်နေပေမယ့်သူများဝန်ထမ်းဘဝနဲ့ပဲ နေနေရဆဲဖြစ်တဲ့အပြင် အရှက်အကြောက်နဲ့အိန္ဒြေကြီးသူမို့ အလုပ်က Crush ကိုလည်း ” ဟိုင်း စားပြီးပြီလား ” အပြင်အဆင့်မတက်ရဲတဲ့လူပေါ့။ အလုပ်ကြိုးစားသလောက် အသိအမှတ်အပြုမခံရပေမယ့် သူလည်း သူ့အိပ်မက်နဲ့သူ ရှိခဲ့ရှာပါတယ်။ဒီလိုနဲ့ ရှားပါးဦးနှောက်အကြိတ်ရောဂါရှိ‌နေကြောင်း ဆေးစစ်အဖြေထွက်လာတဲ့ တစ်နေ့မှာတော့ မကောင်းတဲ့ကံကို ရှိသမျှအသပြာအကုန်ကျဲပြီးချေချမယ်ဆိုပြီး သူခင်းလိုက်တဲ့ မထူးဇာတ်လေးက အဆန်းသားပါ။ တစ်သက်လုံးရှာထားတဲ့ စုငွေတွေနဲ့ အမွေဆိုင်ပိုက်ဆံတွေပါ အပုံလိုက်ထုတ်ပြီးပြင်သစ်မှာ အကင်အစစ်တွေ သွားစားဖို့လုပ်တာပါပဲ။ ရှက်တတ် ကြောက်တတ်တဲ့ Georgia ကနေ တွေ့တာအကုန်ဆွဲတဲ့ မဒမ် Georgia ဖြစ်သွားတော့လူကုံထံဟိုတယ်ကသူတွေကြားထဲမှာပါ ဆယ်လီဖြစ်ပြီး သေခါနီးမှ စန်းထနေပါတော့တယ်။ သူ့ဘဝသူ ပျော်ပျော်နေဖို့လာတဲ့သူကို အထက်က အာဏာရပုဂ္ဂိုလ်လို့ ကြိတ်‌ရှိန်ပြီး အိုးမလုံအုံပွင့်နေကြတဲ့ လုပ်ငန်းရှင်တစ်သိုက်နဲ့ ပေါင်းမိသွားတဲ့အခါမှာ …. မထင်ထားတဲ့ ကံကောင်းခြင်းတစ်ခုက ….ဒီဇာတ်လမ်းလေးက ‌ရောဂါသည်တစ်ယောက်ရဲ့ နောက်ဆုံးအချိန်ကို ကုန်ဆုံးပုံဆိုပေမယ့် ဝမ်းနည်းပျင်းရိ စိတ်ဓာတ်ကျစရာမဟုတ်ဘဲ အပျော်ခရီးထွက်နေရသလို ရယ်စရာလေးတွေနဲ့ ပေါ့ပေါ့ပါးပါး ခံစားကြည့်ရှုလို့ရမယ့် ဇာတ်လမ်းမျိုးလေးမို့ အမူအရာတွေ ချဲ့ကားသရုပ်ဆောင်ထားတာမျိုးမရှိတဲ့ ဟာသဇာတ်ကား Fan လေးတွေ အကြိုက်တွေ့စေမယ့် Movie တစ်ပုဒ်ပဲဖြစ်ပါတယ်။(ဒီဇာတ်လမ်းရဲ့အညွှန်းနဲ့ ဘာသာပြန်ရေးသားပေးသူကတော့Hnin Wut Yi ဖြစ်ပါတယ်)File Size……….(2 GB) / (805 MB)Quality…………BLU-RAY 1080p / 720pDuration………1Hr 52MinSubtitle………..Myanmar HardsubFormat…………MP4Genre…………..Comedy, Drama, RomanceTranslator…….Hnin Wut YiEncoder……….SWM",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/fpczBbMSKeMFu9smAAGzJtFI2lW.jpg",
+      "https://image.tmdb.org/t/p/w300/p2c5cCfRB2GpQzd4TV7Z5nhhliO.jpg",
+      "https://image.tmdb.org/t/p/w300/v7G32RSW6vviv7mGUNY1DwizvMn.jpg",
+      "https://image.tmdb.org/t/p/w300/dAlWBk4nEF5gQBUaguzUeXWLeEt.jpg",
+      "https://image.tmdb.org/t/p/w300/sUr3WfdbBow7wMqbxzIQyiG3jHw.jpg",
+      "https://image.tmdb.org/t/p/w300/o59yWwfh0tDm9w2rku92BT4KGa9.jpg",
+      "https://image.tmdb.org/t/p/w300/aQttpqw5k3pt6qg3chMwFEPS5Yi.jpg",
+      "https://image.tmdb.org/t/p/w300/kErtk0Zegz1t4g4TJmn81Wq3Ljg.jpg",
+      "https://image.tmdb.org/t/p/w300/iFPlkyBAKbIa6gv0FAuVG2v6kgT.jpg",
+      "https://image.tmdb.org/t/p/w300/4cxrtFPsUzFfcWMYzKnOpcNhKAg.jpg",
+      "https://image.tmdb.org/t/p/w300/jA4UQCLru57AWYmgkUyOQk823nq.jpg",
+      "https://image.tmdb.org/t/p/w300/wBPquzv9sndfdcC9jZVgmjxAmaf.jpg",
+      "https://image.tmdb.org/t/p/w300/3RxgKxEm7dO53hwQbf1XMIw4x7b.jpg",
+      "https://image.tmdb.org/t/p/w300/esDrCmvBxdbsmejS9dLanu0sm0Z.jpg",
+      "https://image.tmdb.org/t/p/w300/c5goGQyDiPVI8lCyq2HXrFJqXaj.jpg",
+      "https://image.tmdb.org/t/p/w300/292Wq7pci97xjyQW3GDzmSD13DC.jpg"
+    ],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2024/01/MV5BMzY4ZjcxOTItNWQwOC00MmMxLTkzMjYtZmQwMTJiMGY5Y2JlXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_FMjpg_UX1000_.jpg",
+    "movie_links": [
+      {
+        "link": "https://yoteshinportal.cc/last-holiday-2006-1080-p-blu-ray-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "2 GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://megaup.net/7sBac/Last.Holiday.2006.1080p.BluRayCM.mp4",
+        "server": "megaup.net",
+        "size": "2 GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://obeywish.com/jihnssnlid3f",
+        "server": "streamsb.com",
+        "size": "2 GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://mega.nz/file/JKE0RJQB#aQ7Nh9vknRCPHlee5jhWtyRAxHIGs_0rhNbAM5XEtPY",
+        "server": "mega.nz",
+        "size": "2 GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://usersdrive.com/af8o0vq4a4kt.html",
+        "server": "usersdrive.com",
+        "size": "2 GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://yoteshinportal.cc/last-holiday-2006-720-p-blu-ray-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "805 MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://megaup.net/kZMi6/Last.Holiday.2006.720p.BluRayCM.mp4",
+        "server": "megaup.net",
+        "size": "805 MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://obeywish.com/tkftdquzu9y8",
+        "server": "streamsb.com",
+        "size": "805 MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://mega.nz/file/BS03GSIK#CF4-XzogAB8z2m-SxJjxfUSeUI7O0a-B4ElBjHKiZa8",
+        "server": "mega.nz",
+        "size": "805 MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://usersdrive.com/22n8k18aw2n2.html",
+        "server": "usersdrive.com",
+        "size": "805 MB",
+        "quality": "720p"
+      }
+    ],
+    "trailer": {
+      "video_id": "YJMQBqsiN3k",
+      "video_url": "https://www.youtube.com/watch?v=YJMQBqsiN3k",
+      "embed_url": "https://www.youtube.com/embed/YJMQBqsiN3k"
+    }
+  },
+  {
+    "metadata": "|2022||Comedy,Romance",
+    "rating": {
+      "rating": "6.7/10",
+      "rating_count": "8300"
+    },
+    "title": "The Valet (2022)",
+    "description": "The Valet (2022)=============IMDb Rating – 6.7/10၂၀၂၂မှာထွက်ရှိထားတဲ့ တကယ်ကိုရယ်ရတဲ့ ဟာသကားကောင်းလေးတစ်ခုဖြစ်ပါတယ်။ဇာတ်လမ်းကတော့ ရုပ်ရှင်မင်းသမီးတစ်ယောက် ဘီလီယံနာသူ‌ဌေးတစ်ယောက်နဲ့ချစ်ကြိုက်နေတာကို ပါပါရာဇီတွေရဲ့ ဓာတ်ပုံထဲ ရိုက်မိသွားပါတယ်။ ဖြစ်ချင်တော့သူ‌ဌေးမင်းက မယားကြီးငုတ်တုတ်ရှိနေတော့ သူမသိအောင် လိမ်ရတော့တာပေါ့။အဲဓာတ်ပုံထဲမှာ ဖြစ်ချင်တော့ သူတို့နှစ်ယောက်အပြင် တခြားလူတစ်ယောက်ကောရှိနေလေရဲ့။ သူကတော့ ရိုးသားတဲ့ ဖိုးသခွားလေးဖြစ်ပြီး အသက်ကြီးပေမယ့် အလုပ်ကြိုးစားတဲ့ ဧည့်ကြိုဝန်ထမ်းလေးပါ့။ဒီတော့ သူ‌ဌေးမင်းနဲ့ မင်းသမီးတိုင်ပင်ပြီး လှည့်ကွက်တစ်ခုလုပ်ကြပါတယ်။ “ရွှေမင်းသမီးနဲ့ကိုဧည့်ကြို”ဇာတ်ကို ထွင်ရတာပေါ့။ ကလိမထိုးပဲ ရယ်စရာကောင်းတဲ့ ဇာတ်ဝင်ခန်းတွေစကားပြောခန်းတွေနဲ့ တကယ်အူတက်စေမယ့်ကားလေးပါ။ စိတ်အမောတွေပြေစေပြီးဟာသကားကောင်းလေးတွေကို ကြည့်ချင်သူတွေအတွက်လက်မလွှတ်သင့်တဲ့ ကားကောင်းလေးဖြစ်ပါတယ်။(ဒီဇာတ်လမ်းရဲ့အညွှန်းကို Zaw Myo Thu မှရေးသားပေးပြီး၊ ဘာသာပြန်ရေးသားပေးသူများကတော့ Zaw Myo Thu, Leonard Lin, Roman NoX တို့ဖြစ်ပါတယ်။)File Size……….(1.42 GB) / (755 MB) / (457 MB)Quality…………WebRip 1080p / 720p / 480pDuration………2Hr 04minsSubtitle………..Myanmar HardsubFormat…………MP4Genre…………..Comedy, RomanceTranslator…….Zaw Myo Thu, Leonard Lin, Roman NoXEncoder……….SWM",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/ba3oFhz6DkzSjVXsr50AGRMkfh8.jpg",
+      "https://image.tmdb.org/t/p/w300/kB1Qrsg189eDz4Ej3ABXtLudClq.jpg",
+      "https://image.tmdb.org/t/p/w300/vwAemFNn2Opn619n0KOK1G55v0x.jpg",
+      "https://image.tmdb.org/t/p/w300/vgxGH11RIUjAOLFDRDLuqdMwJnq.jpg",
+      "https://image.tmdb.org/t/p/w300/oj3HFUAJEMyZuDLBwmJnnV80hcn.jpg",
+      "https://image.tmdb.org/t/p/w300/u0MNg4ZVDLffwWv216qD2NYMwPY.jpg"
+    ],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2022/06/MV5BNWZiNDM3MjgtYzY1Ni00ZTI1LTgzMTktMzBiOTI5OWU0OTc0XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",
+    "movie_links": [
+      {
+        "link": "https://www.cmvipmembers.com/check-movies/the-valet-2022",
+        "server": "VIP Links",
+        "size": "",
+        "quality": ""
+      },
+      {
+        "link": "https://yoteshinportal.cc/the-valet-2022-1080-p-dsnp-web-dl-ddp-5-1-h-264-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "1.42 GB",
+        "quality": "1080P"
+      },
+      {
+        "link": "https://megaup.net/37Jix/The.Valet.2022.1080p.DSNP.WEB-DL.DDP5.1.H.264-[CM].mp4",
+        "server": "megaup.net",
+        "size": "1.42 GB",
+        "quality": "1080P"
+      },
+      {
+        "link": "https://mega.nz/file/cHEjSRrT#QUc8JH8D7bWIKI2FOPt21SMdghySw6sepqDdhiBd2PI",
+        "server": "mega.nz",
+        "size": "1.42 GB",
+        "quality": "1080P"
+      },
+      {
+        "link": "https://usersdrive.com/khsteevaajup.html",
+        "server": "usersdrive.com",
+        "size": "1.42 GB",
+        "quality": "1080P"
+      },
+      {
+        "link": "https://yoteshinportal.cc/the-valet-2022-720-p-dsnp-web-dl-ddp-5-1-h-264-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "755 MB",
+        "quality": "720P"
+      },
+      {
+        "link": "https://megaup.net/1LOn2/The.Valet.2022.720p.DSNP.WEB-DL.DDP5.1.H.264-[CM].mp4",
+        "server": "megaup.net",
+        "size": "755 MB",
+        "quality": "720P"
+      },
+      {
+        "link": "https://sbfull.com/1587an2czig5.html",
+        "server": "streamsb.com",
+        "size": "755 MB",
+        "quality": "720P"
+      },
+      {
+        "link": "https://mega.nz/file/AH8BmLiJ#Q2nGkE4hpXsM8W2keajRhJKeu64lPQE5Wrdc1mNr81Y",
+        "server": "mega.nz",
+        "size": "755 MB",
+        "quality": "720P"
+      },
+      {
+        "link": "https://usersdrive.com/f5s2i0lv7r6k.html",
+        "server": "usersdrive.com",
+        "size": "755 MB",
+        "quality": "720P"
+      },
+      {
+        "link": "https://yoteshinportal.cc/the-valet-2022-480-p-dsnp-web-dl-ddp-5-1-h-264-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "457 MB",
+        "quality": "480P"
+      },
+      {
+        "link": "https://megaup.net/37Jhi/The.Valet.2022.480p.DSNP.WEB-DL.DDP5.1.H.264-[CM].mp4",
+        "server": "megaup.net",
+        "size": "457 MB",
+        "quality": "480P"
+      },
+      {
+        "link": "https://sbfull.com/8hbpxm5xhcxw.html",
+        "server": "streamsb.com",
+        "size": "457 MB",
+        "quality": "480P"
+      },
+      {
+        "link": "https://mega.nz/file/Qe9ljQ5D#WgMwnVW1HCBEiE3g8amZiAsW-W3M0TOM1U6rhVqvzpM",
+        "server": "mega.nz",
+        "size": "457 MB",
+        "quality": "480P"
+      },
+      {
+        "link": "https://usersdrive.com/rxgvlpdduqu4.html",
+        "server": "usersdrive.com",
+        "size": "457 MB",
+        "quality": "480P"
+      }
+    ],
+    "trailer": {
+      "video_id": "1iyz4d8WoqQ",
+      "video_url": "https://www.youtube.com/watch?v=1iyz4d8WoqQ",
+      "embed_url": "https://www.youtube.com/embed/1iyz4d8WoqQ"
+    }
+  },
+  {
+    "metadata": "Insect Maste|||Adventure,Fantasy",
+    "rating": {
+      "rating": "5/10",
+      "rating_count": "20"
+    },
+    "title": "Insect Master ( 2019 )",
+    "description": "Zawgyi*******ဟိုးအရင္ကတည္းက တခ်ိဳ႕ေတာအုပ္ႀကီးေတြထဲမွာထူးဆန္းတဲ့အင္းဆက္ပိုးေကာင္ေတြ႐ွိေနၿပီးသူတို႔ကလူ႔ကိုယ္ထဲတြင္ေနႏိုင္ကာသူတို႔ရဲ႕အဆိပ္ရည္ကလူ႔ကိုယ္ထဲေရာက္သြားရင္အင္ဇိုင္းေျပာင္းလဲျခင္းေတြျဖစ္လာၿပီးေသခါနီးလူကိုျပန္႐ွင္လာႏိုင္ေစတဲ့ သာမန္လူထက္သာတဲ့စြမ္းအင္ေတြကိုလူကရ႐ွိလာပါတယ္….ဒါေပမဲ့လူကိုစြမ္းအားေပးတဲ့အင္းဆက္အဆိပ္ရည္ကအလြန္တရာမွ႐ွားပါးလို႔အဆိပ္ရည္နဲ႔လူရဲ႕မ်ိဳးဗီဇေျပာင္းလဲႏိုင္ေအာင္ႏွစ္ေပါင္းမ်ားစြာစမ္းသပ္မႈေတြတစ္ခုၿပီးတစ္ခုလုပ္လာခဲ့တဲ့ပါေမာကၡႀကီးလ်ိဳဟံု….ေနာက္ပိုင္းသက္႐ွိလူေတြနဲ႔ပါစမ္းသပ္မႈျပဳလုပ္လာေသာအခါ….တို္က္ဆိုင္စြာတစ္ခ်ိန္ကညီအစ္ကိုလိုခင္မင္လာခဲ့တဲ့လန္က်ိဳရဲ႕သမီးလန္႐ွန္းထင္ကိုယ္မွာသူလိုခ်င္တဲ့အစြမ္းထက္အဆိပ္႐ွိေနေသာအခါ….အစြမ္းထက္အင္းဆက္အဆိပ္ရည္နဲ႔လူသားအစြမ္းထက္ေအာင္ျပဳလုပ္ဖို႔ဖန္တီးေနတာကသဘာဝတရားႀကီးကိုဆန္႔က်င္တဲ့ကိစၥျဖစ္ၿပီးအလြန္အႏၱရာယ္လည္းႀကီးတဲ့ကိစၥျဖစ္လို႔အဲ့စမ္းသပ္မႈကိုလိုက္တားဆီးေနတဲ့လန္က်ိဳသမီးကိုကာကြယ္ေစာင့္ေ႐ွာက္ေပးရမဲ့အေဖ….သူတို႔သံုးေယာက္ၾကားကဘာေတြဆက္ျဖစ္လာမွာလဲဆုိတာ ဆက္လက္ၾကည့္႐ႈၾကဖုိ႔တုိက္တြန္းလုိက္ပါရေစေနာ္Unicode******ဟိုးအရင်ကတည်းက တချို့တောအုပ်ကြီးတွေထဲမှာထူးဆန်းတဲ့အင်းဆက်ပိုးကောင်တွေရှိနေပြီးသူတို့ကလူ့ကိုယ်ထဲတွင်နေနိုင်ကာသူတို့ရဲ့အဆိပ်ရည်ကလူ့ကိုယ်ထဲရောက်သွားရင်အင်ဇိုင်းပြောင်းလဲခြင်းတွေဖြစ်လာပြီးသေခါနီးလူကိုပြန်ရှင်လာနိုင်စေတဲ့ သာမန်လူထက်သာတဲ့စွမ်းအင်တွေကိုလူကရရှိလာပါတယ်….ဒါပေမဲ့လူကိုစွမ်းအားပေးတဲ့အင်းဆက်အဆိပ်ရည်ကအလွန်တရာမှရှားပါးလို့အဆိပ်ရည်နဲ့လူရဲ့မျိုးဗီဇပြောင်းလဲနိုင်အောင်နှစ်ပေါင်းများစွာစမ်းသပ်မှုတွေတစ်ခုပြီးတစ်ခုလုပ်လာခဲ့တဲ့ပါမောက္ခကြီးလျိုဟုံ….နောက်ပိုင်းသက်ရှိလူတွေနဲ့ပါစမ်းသပ်မှုပြုလုပ်လာသောအခါ….တိုက်ဆိုင်စွာတစ်ချိန်ကညီအစ်ကိုလိုခင်မင်လာခဲ့တဲ့လန်ကျိုရဲ့သမီးလန်ရှန်းထင်ကိုယ်မှာသူလိုချင်တဲ့အစွမ်းထက်အဆိပ်ရှိနေသောအခါ….အစွမ်းထက်အင်းဆက်အဆိပ်ရည်နဲ့လူသားအစွမ်းထက်အောင်ပြုလုပ်ဖို့ဖန်တီးနေတာကသဘာဝတရားကြီးကိုဆန့်ကျင်တဲ့ကိစ္စဖြစ်ပြီးအလွန်အန္တရာယ်လည်းကြီးတဲ့ကိစ္စဖြစ်လို့အဲ့စမ်းသပ်မှုကိုလိုက်တားဆီးနေတဲ့လန်ကျိုသမီးကိုကာကွယ်စောင့်ရှောက်ပေးရမဲ့အဖေ….သူတို့သုံးယောက်ကြားကဘာတွေဆက်ဖြစ်လာမှာလဲဆိုတာ ဆက်လက်ကြည့်ရှုကြဖို့တိုက်တွန်းလိုက်ပါရစေနော်Translated & Review By XiaoEncoded By LK",
+    "screenshot_links": [],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2019/10/68423402_496140624505588_8834684029212033024_n.gif",
+    "movie_links": [
+      {
+        "link": "https://myandrive.net/file/X9naLvZtvE",
+        "server": "drive.google.com",
+        "size": "772 MB",
+        "quality": "HDRip 720p"
+      },
+      {
+        "link": "https://megaup.net/2Ot5h/(CM)Insect.Master.2019.HDRip.720p.mp4",
+        "server": "megaup.net",
+        "size": "772 MB",
+        "quality": "HDRip 720p"
+      },
+      {
+        "link": "https://soliddrive.co/2AHn/(CM)Insect.Master.2019.HDRip.720p.mp4",
+        "server": "Soliddrive.co",
+        "size": "772 MB",
+        "quality": "HDRip 720p"
+      },
+      {
+        "link": "https://openload.co/f/4KapWQwhpbI/%28CM%29Insect.Master.2019.HDRip.720p.mp4",
+        "server": "openload.co",
+        "size": "772 MB",
+        "quality": "HDRip 720p"
+      }
+    ],
+    "trailer": null
+  },
+  {
+    "metadata": "|||Uncategorized",
+    "rating": {
+      "rating": "/10",
+      "rating_count": ""
+    },
+    "title": "Kung Fu Dunk (2009) ျမန္မာစာတန္းထိုး",
+    "description": "ဒီဇာတ္ကားေလးဟာ Imdb Rating 4.8 သာရရွိခဲ့ေပမဲ့ ကြန္ဖူးသိုင္းကြက္နဲ႔ ဘတ္စကတ္ေဘာအားကစားကိုေပါင္းစပ္ထားၿပီးၾကည့္လို႔ေကာင္းတဲ့ဇာတ္ကားေလးတစ္ကားပါ ။   ။ဇာတ္ကားအၫႊန္းဟာဆိုရင္ျဖင့္  ဖန္းရွီက်ယ္ ဆိုတဲ့ ကေလးတစ္ေယာက္ကို ဘတ္စကတ္ေဘာကြင္းေဘးနားကအမႈိက္ပုံမွာသိုင္းက်မ္းတစ္အုပ္နဲ႔အတူ သိုင္းသမားႀကီးတစ္ေယာက္ကေကာက္ရခဲ့တာနဲ႔အစျပဳထားပါတယ္ အဲ့ဒီသိုင္းက်မ္းစာအုပ္ဟာ ဒီဇာတ္ကားရဲ႕အသက္လည္းျဖစ္ပါတယ္ တစ္ေန႔ဖန္းရွီက်ယ္အရြယ္ေရာက္လာတဲ့အခါမွာေတာ့  သူ႔ဘဝရဲ႕အခ်ဳိးေကြ႕တစ္ခုကိုျဖစ္ေပၚေစမဲ့လူတစ္ေယာက္နဲ႔ေတြ႕ခဲ့ၿပီး အဲ့ဒီလူေၾကာင့္ပဲ ကလပ္တစ္ခုမွာျပသနာတက္ရကာသိုင္းေက်ာင္းကေနထုတ္ပယ္ခံလိုက္ရပါတယ္  အဲ့ဒီေနာက္ ထိုလူရဲ႕  အႀကံျပဳခ်က္ေၾကာင့္ဖန္းရွီက်ယ္တစ္ေယာက္ ဘတ္စကတ္ေဘာကစားရင္းမိဘရင္းေတြကိုရွာေဖြမယ္ဆိုတဲ့ေဆာင္ပုဒ္နဲ႔အတူ ဘတ္စကတ္ေဘာေလာကကိုေျခစံုပစ္ဝင္လာခဲ့ၿပီး ၿပိဳင္ဘက္ေတြကိုအႏိုင္ကစားရင္း နဲ႔ မိဘရင္းေတြကိုရွာေတြ႕မလား အသင္းနဲ႔ေဝးကြာေနတာၾကာၿပီျဖစ္တဲ့ ဆုဖလားကိုေရာျပန္ယူေပးႏိုင္မလား သူတိတ္တခိုးခ်စ္ခဲ့ရတဲ့ေကာင္မေလးရဲ႕  အခ်စ္ကိုေရာျပန္လည္ရႏိုင္ပါ့မလားဆိုတာသိခ်င္ရင္ Kung Fu Dunk ဆိုတဲ့ဒီဇာတ္ကားေလးကိုသာေဒါင္းၾကည့္ၾကပါလို႔ေျပာခ်င္ပါတယ္။ဘာသာျပန္ နဲ႕ အညႊန္းကိုေတာ့ မိုးဦးမာန္ ကေရးသားေပးခဲ့တာပါ။File size…(900MB)Quality…BR-Rip 720pFormat…mp4Duration….01:44:24Subtitle….Myanmar Subtitle (Hardsub)Encoder….Aung PyayTranslator …… Moe Oo MannDownload & Watch 720p (800MB)အစမ္းၾကည့္ရန္",
+    "screenshot_links": [],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2016/04/kungfudunk-1.jpg",
+    "movie_links": [],
+    "trailer": {
+      "video_id": "k1Ry339Ik6E?feature=player_embedded",
+      "video_url": "https://www.youtube.com/watch?v=k1Ry339Ik6E?feature=player_embedded",
+      "embed_url": "https://www.youtube.com/embed/k1Ry339Ik6E?feature=player_embedded"
+    }
+  },
+  {
+    "metadata": "|||Crime,Drama",
+    "rating": {
+      "rating": "/10",
+      "rating_count": ""
+    },
+    "title": "Heist 88 (2023)",
+    "description": "ဒီတစ်ခေါက်မှာတော့ အသစ်ထွက် Crime/Drama ကားလေးတစ်ကားနဲ့ မိတ်ဆက်ပေးချင်ပါတယ်။ ဖြစ်ရပ်မှန်တွေအပေါ် အခြေခံထားတဲ့ ဒီကားလေးမှာဆိုရင်တော့ မင်းသားကြီး Courtney B. Vance (61st Street) က အဓိကခေါင်းဆောင်ပါဝင်ထားပြီး ၁၉၈၈ ခုနှစ်က ဘဏ်စနစ်တွေရဲ့ လုံခြုံမှုမရှိပုံကို ပုံဖော်ရိုက်ကူးထားတာပါ။၁၉၈၈ ခုနှစ်တွေတုန်းက ချီကာဂိုရဲ့ဘဏ်စနစ်က အလုံးစုံ ကွန်ပျူတာစနစ်အဖြစ် မပြောင်းလဲရသေးချိန်မှာ ငွေလွှဲပြောင်းမှုတွေကို လေလှိုင်းပေါ်က ဖုန်းခေါ်ဆိုမှုနဲ့ပဲ အတည်ပြုလေ့ရှိပါတယ်။ ကုမ္ပဏီတစ်ခုက ငွေလွှဲချင်တဲ့သူက ကုတ်နံပါတ်တစ်ခုနဲ့ လွှဲချင်တဲ ပမာဏကို ဘဏ်ကိုဖုန်းခေါ်ပြီး ပြောလိုက်ရင် ဘဏ်ကဝန်ထမ်းက အဲဒီကုမ္ပဏီရဲ့တခြားဘဏ္ဍာရေးအရာရှိကို ဖုန်းခေါ်ပြီး ကုတ်နံပါတ်ကို အတည်ပြုခိုင်းပါတယ်။ ဘဏ္ဍာရေးအရာရှိက ကုတ်နံပါတ်ကို အတည်ပြုပေးလိုက်တာနဲ့ လွှဲပြောင်းမှုက အထမြောက်အောင်မြင်သွားပြီဖြစ်လို့ ကုတ်နံပါတ်နဲ့ ဘဏ်ငွေစာရင်းလက်ကျန်ကိုသာ သိရရင် သေချာပေါက် ခိုးထုတ်ဖို့ မခက်ခဲတဲ့ ဘဏ်စနစ်ရဲ့ ယိုယွင်းမှုလို့ ဆိုရမလိုပါပဲ။ဂျယ်ရမီဟောန်က လိမ်လည်မှုတွေမှာ ကျွမ်းကျင်တဲ့ ကြိုးကိုင်သူဖြစ်ပြီး ဘယ်သူ့ကို ဘယ်လိုခိုင်းရမယ်၊ ဘယ်နေရာကို ဘယ်လိုလိမ်ရမယ်ဆိုတာ အကွက်ကျကျ စီစဉ်တတ်သူပါ။ အဲဒီလို ကြိုးကိုင်သူဆရာကြီး ဂျယ်ရမီဟောန်တစ်ယောက် သူ့တူလေးရဲ့ ငွေကြေးအခက်အခဲကို ဖြေရှင်းဖို့ ကြိုးစားပေးရင်း အမှတ်မထင်ဘဲ သူ့တူလေးက ဘဏ်မှာလုပ်တဲ့ မိတ်ဆွေတွေနဲ့ သိကျွမ်းကြောင်း သိရှိသွားခဲ့ပါတယ်။ ဘဏ်စနစ်ရဲ့ ချို့ယွင်းချက်တွေကို ကောင်းကောင်းနားလည်ထားတဲ့ ဂျယ်ရမီဟောန်က သူ့တူရဲ့မိတ်ဆွေတွေကို စည်းရုံးပြီး ကုမ္ပဏီတွေက ပိုက်ဆံတွေကို ဘဏ်ကနေတစ်ဆင့် ခိုးထုတ် လွှဲပြောင်းဖို့ ကြံစည်ပါတော့တယ်။ ဘဏ်စနစ်မှာ အားနည်းချက်ရှိတာမှန်ပေမဲ့ တကယ်တမ်း ခိုးထုတ်ဖို့ကြံစည်တဲ့အခါမှာတော့ ထင်သလောက်မလွယ်ကူဘဲ ခက်ခဲမှုတွေရှိနေခဲ့တာမို့ ဂျယ်ရမီဟောန်နဲ့ သူ့အဖွဲ့က အဲဒီအခက်အခဲတွေ၊ အတားအဆီးတွေကို အောင်မြင်အောင် ဖြတ်ကျော်ပြီး ငွေတွေကို အောင်အောင်မြင်မြင် လှည့်ထုတ်သွားနိုင်ပါ့မလားဆိုတာကိုတော့ ဇာတ်ကားထဲမှာပဲ ကြည့်ရှုလိုက်ကြပါဦးနော်။(ဒီဇာတ်လမ်းရဲ့ အညွှန်းနဲ့ ဘာသာပြန်ကတော့ Emily ပါ)File size…(1.5 GB)/(834 MB)Quality….Webrip 1080p / 720pFormat…mp4Duration….01:23:00Genre…Crime, DramaSubtitle….Myanmar Subtitle (Hardsub)Encoder….Mr. AndersonTranslated by Emily",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/u6JGnIabQslWMzX03hb3weEbvx0.jpg",
+      "https://image.tmdb.org/t/p/w300/oPvjXjuU1yE5doh0S6QQNO7xqrE.jpg",
+      "https://image.tmdb.org/t/p/w300/4dg6Lf6Dg903Agq3wFkep1JajJH.jpg",
+      "https://image.tmdb.org/t/p/w300/ctCjMv562NqhPvGCEoTuNmvXtEx.jpg",
+      "https://image.tmdb.org/t/p/w300/2YhMAwwP7ljWZMqu0EpSKfTuAn2.jpg",
+      "https://image.tmdb.org/t/p/w300/zJQgmZHXE9IUxHUaRUXwlJo6ntH.jpg",
+      "https://image.tmdb.org/t/p/w300/r4SBKxQUQ5LtZnEDAV7ZGwObFrJ.jpg",
+      "https://image.tmdb.org/t/p/w300/y2Jouwp27rgQsEqkmAfHGk72deL.jpg",
+      "https://image.tmdb.org/t/p/w300/hkuaioT9Mafie9srKl6HvOHlwAp.jpg",
+      "https://image.tmdb.org/t/p/w300/jg2n3zoXc8G63baZIwViBjEeWXV.jpg",
+      "https://image.tmdb.org/t/p/w300/rzWHGIg2y5ctNWPBXDvgiRQtnl8.jpg",
+      "https://image.tmdb.org/t/p/w300/saUhGOsr8mQUg6jbPIBRkMwHA1T.jpg",
+      "https://image.tmdb.org/t/p/w300/tgPEcdskuOLaZUScVMpCNMN56z7.jpg"
+    ],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2023/10/MV5BZTBhOTE1YmYtMzIxYy00YmQwLThjZDAtN2JiYWM5ZGZiN2FkXkEyXkFqcGdeQXVyMTUyMTgzNjY4._V1_FMjpg_UX1000_-1.jpg",
+    "movie_links": [
+      {
+        "link": "https://yoteshinportal.cc/heist-88-2023-1080-p-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "1.5GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://usersdrive.com/o62sys1rc1fp.html",
+        "server": "usersdrive.com",
+        "size": "1.5GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://megaup.net/2DZkh/Heist.88.2023.1080p.(CM).mp4",
+        "server": "megaup.net",
+        "size": "1.5GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://mega.nz/file/czNRVC4Q#VwF23Rgpg1NP1YLvBVcjZy5owkTkbp2-QzF-6t3hFM0",
+        "server": "mega.nz",
+        "size": "1.5GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://yoteshinportal.cc/heist-88-2023-720-p-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "834MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://usersdrive.com/c1gxxtbbr2ak.html",
+        "server": "usersdrive.com",
+        "size": "834MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://megaup.net/2DZke/Heist.88.2023.720p.(CM).mp4",
+        "server": "megaup.net",
+        "size": "834MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://mega.nz/file/tukRSazb#XCYsndlpWiWfYLPnPOecQp_tJG0OtPmnWfnf6D3ovF4",
+        "server": "mega.nz",
+        "size": "834MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://wishfast.top/3908m4vpiowi",
+        "server": "streamsb.com",
+        "size": "834MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://streamvid.net/oxr7ee1p0kmh",
+        "server": "streamvid.io",
+        "size": "834MB",
+        "quality": "720p"
+      }
+    ],
+    "trailer": {
+      "video_id": "7YRfANxudF8",
+      "video_url": "https://www.youtube.com/watch?v=7YRfANxudF8",
+      "embed_url": "https://www.youtube.com/embed/7YRfANxudF8"
+    }
+  },
+  {
+    "metadata": "|1994||Action,Comedy,Family",
+    "rating": {
+      "rating": "4.5/10",
+      "rating_count": "9500"
+    },
+    "title": "3 Ninjas Kick Back (1994)",
+    "description": "3 Ninjas Kick Back (1994)===================များလှစွာသော Three Ninjas တွေထဲကမှ နောက်ထပ်ကားကောင်းလေး တစ်ကားပါ ပရိသတ်ကြီးရေ .. ၁၉၉၄ခုနှစ်က ထွက်ရှိခဲ့တာဖြစ်ပြီး ကျွန်တော်ကိုယ်တိုင်လည်းငယ်ငယ်က ကြိုက်လွန်းလို့ ခဏခဏကြည့်ပြီး အလွတ်နီးပါးရနေတဲ့ ဇာတ်လမ်းလေးပါ။ဇာတ်ကြောင်းကတော့ .. ရော့ကီ၊ ကော့တ်နဲ့ တမ်တမ် ဆိုတဲ့ညီအစ်ကို သုံးယောက် ရှိကြသဗျ။ သူတို့ဟာ နွေရာသီအားလပ်ရက်တွေမှာ အဘိုးဖြစ်သူရဲ့ အပန်းဖြေအိမ်လေးကို သွားပြီးနင်ဂျာသိုင်း သင်ကြပါတယ်။ တစ်ခုသောနွေရာသီမှာတော့အဘိုးဖြစ်သူက လွန်ခဲ့တဲ့ အနှစ် ၅၀ က သူ ပြိုင်ပွဲဝင်ရင်းဆုရခဲ့တဲ့ဓားမြှောင်တစ်ချောင်းရဲ့ သမိုင်းကို မြေး ၃ယောက်ကိုပြောပြပါတော့တယ်။ ဒီလိုနဲ့ ဒီဓားမြှောင်က တိုကျိုမှာရှိတဲ့ရွှေလှိုဏ်ဂူတစ်ခုရဲ့ သော့ဖြစ်ကြောင်း သိလိုက်ရပါတော့တယ်။ဒီဓားမြှောင်ကို အဘိုးဖြစ်သူဟာ ယခုလက်ရှိ ဂျပန်နိုင်ငံ ကိုဂါမြို့မှာကျင်းပတဲ့ နင်ဂျာပြိုင်ပွဲမှာ အနိုင်ရသူကို ပြန်ပြီး လက်ဆင့်ကမ်းချီးမြှင့်မှာ ဖြစ်ပါတယ်။ သို့ပေမဲ့ လွန်ခဲ့တဲ့ အနှစ် ၅၀ က ရန်ကြွေးကိုခုထိ မကျေချင်သူက ဒီဓားမြှောင်ကို အရယူဖို့ ကြိုးစားရင်း အဘိုးဖြစ်သူ ဒုက္ခကြုံရတဲ့အခါမှာ ရော့ကီ၊ ကော့တ်နဲ့ တမ်တမ်တို့ ညီအစ်ကို(၃)ယောက် အဘိုးရှိရာ ဂျပန်ပြည်ကို လိုက်သွားပြီး စွန့်စားခန်းဝင်ကြတာကို ကြည့်ရှူရမှာပါ။(ဒီဇာတ်လမ်းရဲ့အညွှန်းနဲ့ ဘာသာပြန်ရေးသားပေးသူကတော့ Act Molemyဖြစ်ပါတယ်)File Size……….(2.27 GB) / (988 MB) / (622 MB)Quality…………WEB-Rip 1080p / 720p / 480pDuration………1Hr 33MinsSubtitle………..Myanmar HardsubFormat…………MP4Genre…………..Action, Comedy, FamilyTranslator…….Act MolemyEncoder……….SWM",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/aCAqAq5zwRGIWgvsIOkNqtPpNgd.jpg",
+      "https://image.tmdb.org/t/p/w300/pwfcxfeKfJiHCmCOfoP6Dwx0We4.jpg",
+      "https://image.tmdb.org/t/p/w300/6uqiWEgsuTET9xl23F7FRUxSZer.jpg"
+    ],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2023/01/MV5BMzFiNWI1MDQtMjg3Mi00YjIxLWI2NDktNjI0MmNiNjRjMDI5XkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_FMjpg_UX1000_.jpg",
+    "movie_links": [
+      {
+        "link": "https://megaup.net/1bR6m/3.Ninjas.Kick.Back.1994.1080p.WEBRip.(cm).mp4",
+        "server": "megaup.net",
+        "size": "2.27 GB",
+        "quality": "1080P"
+      },
+      {
+        "link": "https://sbchill.com/ut6ud54dxkxc.html",
+        "server": "streamsb.com",
+        "size": "2.27 GB",
+        "quality": "1080P"
+      },
+      {
+        "link": "https://mega.nz/file/7upTQZiS#dF46L3VsewfHqrCa7gRZoILJicU6zpNkm61Sgmkeo8M",
+        "server": "mega.nz",
+        "size": "2.27 GB",
+        "quality": "1080P"
+      },
+      {
+        "link": "https://usersdrive.com/6f6po3j59eo5.html",
+        "server": "usersdrive.com",
+        "size": "2.27 GB",
+        "quality": "1080P"
+      },
+      {
+        "link": "https://streamvid.net/rkf2snmfgoum",
+        "server": "streamvid.io",
+        "size": "2.27 GB",
+        "quality": "1080P"
+      },
+      {
+        "link": "https://yoteshinportal.cc/3-ninjas-kick-back-1994-720-p-web-rip-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "988 MB",
+        "quality": "720P"
+      },
+      {
+        "link": "https://megaup.net/1bR6i/3.Ninjas.Kick.Back.1994.720p.WEBRip.(cm).mp4",
+        "server": "megaup.net",
+        "size": "988 MB",
+        "quality": "720P"
+      },
+      {
+        "link": "https://sbchill.com/vajyambbp6wj.html",
+        "server": "streamsb.com",
+        "size": "988 MB",
+        "quality": "720P"
+      },
+      {
+        "link": "https://mega.nz/file/imYxxCpb#LMau9cjgbYDKKh9kaZROq8l0mFn1BHUOfFsJWnHFMuI",
+        "server": "mega.nz",
+        "size": "988 MB",
+        "quality": "720P"
+      },
+      {
+        "link": "https://usersdrive.com/l0ie4unzaid9.html",
+        "server": "usersdrive.com",
+        "size": "988 MB",
+        "quality": "720P"
+      },
+      {
+        "link": "https://streamvid.net/jiruqd9jkp22",
+        "server": "streamvid.io",
+        "size": "988 MB",
+        "quality": "720P"
+      },
+      {
+        "link": "https://yoteshinportal.cc/3-ninjas-kick-back-1994-480-p-web-rip-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "622 MB",
+        "quality": "480P"
+      },
+      {
+        "link": "https://megaup.net/1bR6d/3.Ninjas.Kick.Back.1994.480p.WEBRip.(cm).mp4",
+        "server": "megaup.net",
+        "size": "622 MB",
+        "quality": "480P"
+      },
+      {
+        "link": "https://sbchill.com/tx1shveye9nd.html",
+        "server": "streamsb.com",
+        "size": "622 MB",
+        "quality": "480P"
+      },
+      {
+        "link": "https://mega.nz/file/WigViBSZ#jfpSpMmz85dQmZjpZDyeOpj_x4WMJpFMFdgn8BVf-pY",
+        "server": "mega.nz",
+        "size": "622 MB",
+        "quality": "480P"
+      },
+      {
+        "link": "https://usersdrive.com/ftvuwe74mj6p.html",
+        "server": "usersdrive.com",
+        "size": "622 MB",
+        "quality": "480P"
+      },
+      {
+        "link": "https://streamvid.net/c20z8r90yhqc",
+        "server": "streamvid.io",
+        "size": "622 MB",
+        "quality": "480P"
+      }
+    ],
+    "trailer": {
+      "video_id": "D2qG3hdbfPk",
+      "video_url": "https://www.youtube.com/watch?v=D2qG3hdbfPk",
+      "embed_url": "https://www.youtube.com/embed/D2qG3hdbfPk"
+    }
+  },
+  {
+    "metadata": "N/A|2020|1h 53m|Country",
+    "rating": {
+      "rating": "/10",
+      "rating_count": ""
+    },
+    "title": "Pawn",
+    "description": "Pawn(2020) အညွှန်းငွေချေးလုပ်ငန်းကိုလုပ်ကိုင်တဲ့ လူနှစ်ယောက်က အမျိုးသမီးတစ်ယောက်ဆီကနေပြီး ချေးထားတဲ့ငွေကို ပြန်တောင်းဖို့သွားကြတဲ့အခါ ထိုအမျိုးသမီးကချေးထားတဲ့ ငွေကို ပြန်မဆပ်နိုင်တာကြောင့် သူ့ရဲ့သမီးလေးကို အပေါင်အဖြစ်ခေါ်ယူလာခဲ့ပါတယ်။ ကလေးရဲ့ မိခင်က တရားမဝင်နေထိုင်တဲ့သူဖြစ်တာကြောင့်မိမိနေရပ်ကို ပြန်ပို့ခံရပြီး ကလေးကိုတော့ ငွေချေးလုပ်ငန်းလုပ်တဲ့သူတွေဆီ ထားခဲ့ရပါတော့တယ်။ကလေးကိုသမီးအဖြစ်မွေးခဲ့တဲ့ လူနှစ်ယောက်နဲ့ သံယောဇဥ် တွယ်ပြီးတော့ အတူတူနေထိုင်သွားကြရတဲ့မိသားစုချစ်ခြင်းမေတ္တာပြ ဇာတ်ကားတစ်ကားဖြစ်ပါတယ်။သရုပ်ဆောင်အနေနဲ့က ဆွန်းဒုံအီ ဟာဂျီဝန် နဲ့ ကင်ဂျယ်ဟွာတို့က သရုပ်ဆောင်ထားပါတယ်။Translated by : Kim Khin HanaEncoded by : Thit San Khant",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/nwhk3FW2k19CokUBZYWAvtNFIcK.jpg",
+      "https://image.tmdb.org/t/p/w300/htyMJhFpau8goMMLQoUXyLZf6cs.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/w5r3T9sGpg9WIdJkqzUX66VDACN.jpg",
+    "movie_links": [
+      {
+        "link": "https://usersdrive.com/80c2j5gttpyi.html",
+        "server": "usersdrive.com",
+        "size": "1.19GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://usersdrive.com/v54c8lewhagj.html",
+        "server": "usersdrive.com",
+        "size": "599MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://megaup.net/2fEF0/Pawn_2020_WEBRip_1080p__%7BCM%7D.mp4https://megaup.net/2fEF0/Pawn_2020_WEBRip_1080p__%7BCM%7D.mp4",
+        "server": "megaup.net",
+        "size": "1.19GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://megaup.net/2VC7f/Pawn_2020_WEBRip_720p(CM).mp4",
+        "server": "megaup.net",
+        "size": "599MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://veryfiles.com/guers5etxtwg",
+        "server": "veryfiles.com",
+        "size": "1.19GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://veryfiles.com/q7vwdtmi6ds0",
+        "server": "veryfiles.com",
+        "size": "599MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://yoteshinportal.cc/pawn-2020-web-rip-1080-p-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "1.19GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://yoteshinportal.cc/pawn-2020-web-rip-720-p-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "599MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://www.cmvipmembers.com/check-movies/pawn-2020",
+        "server": "VIP Links",
+        "size": "1.19GB",
+        "quality": "1080p"
+      }
+    ],
+    "trailer": {
+      "video_id": "ylq5mKnv07Y",
+      "video_url": "https://www.youtube.com/watch?v=ylq5mKnv07Y",
+      "embed_url": "https://www.youtube.com/embed/ylq5mKnv07Y"
+    }
+  },
+  {
+    "metadata": "|2021|2h 8min|Drama",
+    "rating": {
+      "rating": "7.4/10",
+      "rating_count": "696"
+    },
+    "title": "One for the Road (2021)",
+    "description": "One For The Road (2022)” ငါ့ဘ၀မှာ မိန်းကလေးဘယ်နှယောက်ကို ငါထပ်ချစ်မိဦးမလဲ မသိဘူး။ငါ့ဘ၀ရဲ့နောက်ဆုံး စက္ကန့်မရောက်ခင်အထိ ငါ့အချစ်ဆုံးမိန်းကလေးက ဘယ်သူလဲ ငါသိဦးမှာမဟုတ်ဘူး”တဲ့။ဒီလိုနဲ့ အချစ်တွေကို ငါအရက်နာမည် ပေးပစ်မိတယ်။ပန်းနီရောင်ကောင်မလေးရဲ့ဆံစတွေလို အနီရောင်ကော့တေးထဲ ငါ့သက္ကရာဇ်တွေ ၅ ၄ ၃ ၂ ၁။သက္ကရာဇ်တွေဟာ အသေပါ လို့ ဘယ်သူညာလဲ။ဒုတိယမိန်းကလေးရဲ့ မျက်ရည်အဖြူတွေလို ကော့တေးဟာ အမှားတွေရဲ့အရသာပေါ့။မြူတွေပဲ။ ငါဖြတ်သန်းသွားတုန်းက မမြင်ခဲ့မိဘူး။ခုနေခပ်လှမ်းလှမ်းကျမှ ငါ့အမှားမြူထုကြီး အုံ့လို့ဆိုင်းလို့ ထီးတည်း။မိုးရွာပြီးတဲ့နောက် တတိယကော့တေး။အချစ်ဦးကော့တေးဟာ မထွက်ခွာခင် နောက်ဆုံးတစ်ခွက် (One For The Road)လို ခရီးတွေအဝေးကြီးရောက်ပြီးလည်း တသသကျန်ခဲ့တဲ့အရာပေါ့။“လောကဓံဦးတုန်းက အလွန်အကျူးသောက်ခဲ့တဲ့ အရက်တစ်ခွက် အခုကျတော့မှ စံပယ်ရွက်ပေါ်မှာ မူးလဲအသည်းကွဲတယ်ဆိုတာ သီချင်းလေးတွေ တိုးတိုးညည်းရင်းက ထိရှခဲ့တဲ့ သွေးမဲ့ဒဏ်ရာတစ်ချက်”ငါတို့အတူတည်ဆောက်ဖူးကြတဲ့ စိတ္တဇအဆောက်အဦးလေးရဲ့ပညတ်က “One For The Road”။မင်းတိုက်ခဲ့တဲ့ နောက်ဆုံးကော့တေးတစ်ခွက်က ” One For The Road” ။နေပြက္ခဒိန်အဆက်ဆက်မှာ ပလေတိုပြန်မရောက်ခဲ့တဲ့ တောထဲက ပန်းကလေးကို ငါပေးထားတဲ့နာမည်က ” One For The Road”။နိဗ္ဗာန်ဘုံ မျက်ရည်စက်၊ New York Sourတစ်ခွက်၊အဲဒီလမ်းကျဉ်းကလေးက ငါ့ကိုကျောခိုင်းသွားချိန်က ကော့တေးတစ်ခွက်ဟာ အဲဒီလမ်းကျဉ်းကလေးကို ငါ‌ပြန်ရောက်မယ့်အချိန်မှာ သောက်မယ့် ကော့တေးတစ်ခွက်ပေါ့။သစ်ရွက်လိုကြွေဖူးတဲ့ တို့ရဲ့နေ့အဆက်ဆက်ရဲ့ ” One For The Road”.ဝေါင်ကာဝေးပရိုဂျူဆာလုပ်ထားပြီး ဝေါင်ကာဝေးကားတွေဖြန့်ခဲ့တဲ့ Jet Tone Filmsကပဲ‌ ထုတ်ဝေပေးထားပါတယ်။ဒါရိုက်တာကတော့ သူ့နှစ်က highest-grossingရုပ်ရှင်ဖြစ်ခဲ့တဲ့ Bad Genius ဒါရိုက်တာ Nattawut Poonpiriya ရိုက်ထားတာပါ။သရုပ်ဆောင်တွေကတော့ ထိုင်းကားပရိသတ်တွေမစိမ်းတဲ့ Thanapob Leeratanakajorn နဲ့ Bad Genius မင်းသမီးတို့လို နာမည်ကြီးတွေပါပဲ။2021 Sundanceပွဲမှာ ပွဲဦးထွက်ပြသခဲ့ပြီး World Cinematic Dramatic Special Jury Award ကို ရရှိထားပါတယ်။ဝေါင်ကာဝေး ပရိုဂျူဆာလုပ်ထားတယ်ဆိုပေမဲ့ The Mediumမှာ Na Hong Jinအငွေ့ အပြည့်လွှမ်းနေသလိုတော့ဖြစ်မနေပါဘူး။ဝေါင်ကာဝေး အငွေ့သိပ်မပါဘဲ ဇာတ်ကောင်တွေကတော့ ပမာဏတစ်ခုအထိ ဝေါင်ကာဝေးဆန်ပါတယ်။Chungking Expressနဲ့ ဘာမှမတူပေမဲ့ Chungking Expressကို သဘောကျရင် ကြည့်သင့်တဲ့ရုပ်ရှင်ပါပဲ။ဘာလို့လဲတော့ ကြည့်ပြီးရင်သိမှာပါ။ထိုင်းရုပ်ရှင်တွေကို တခြားအာရှရှင်ရှင်ဂုရုကြီးတွေက Support တော်တော်လုပ်လာတယ် ပဲ ပြောရမှာပါပဲ။မနှစ်ကတော့ ကိုရီးယားက Horror ဆရာကြီး Na Hong Jin က The Mediumကို ထုတ်ပေးခဲ့ပြီးဒီနှစ်တော့ ဟောင်ကောင် ရိုမန့်ဆရာကြီး ဝေါင်ကာဝေးက ဒီရုပ်ရှင်ကို ထုတ်ပေးခဲ့ပါတယ်။ထိုင်းရုပ်ရှင်တွေအတွက် အရွေ့ကောင်းလို့ပဲ ဆိုရမယ်ထင်ပါတယ်။ဒီကားတွေ အောင်မြင်ခဲ့ကြတော့ ပိုကောင်းတဲ့ရုပ်ရှင်တွေကိုလည်း ထုတ်လာဖို့ရှိလောက်ပါတယ်။အညွှန်း နဲ့ ဘာသာပြန်ကတော့ WiRa Aung ပဲ ဖြစ်ပါတယ်။Genre…..DramaQuality….WEB-DL 1080p and 720p and 480pFile size…1.8GB and 900MB and 300MBFormat…mp4Duration…. 2h 8minSubtitle….Myanmar Subtitle (Hardsub)Translator …..WiRa AungEncoder …..August",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/d2SwXmLhTSJCryPoumvtLiT5H4X.jpg",
+      "https://image.tmdb.org/t/p/w300/uYassI01BjofH2YzPuYCe7ZQDrq.jpg",
+      "https://image.tmdb.org/t/p/w300/8aT7wVODTjYTygriRQlIrkWIHh4.jpg",
+      "https://image.tmdb.org/t/p/w300/dUK4Wv9NkRzDIP3F65pV1ydcA0H.jpg",
+      "https://image.tmdb.org/t/p/w300/tpJ6ukKhKTQgYm9Qn03B9CucnMM.jpg",
+      "https://image.tmdb.org/t/p/w300/bRd8wjLY6MFLDsOmOFgR0WLxBtO.jpg",
+      "https://image.tmdb.org/t/p/w300/lzBDrimzBaChkm1iC79Z7s2OsIF.jpg",
+      "https://image.tmdb.org/t/p/w300/tEv4rItKJtmu0VEWE7qtjhYndFv.jpg",
+      "https://image.tmdb.org/t/p/w300/tDXrY4dMgDC7jLzjy3TCWuRuIme.jpg",
+      "https://image.tmdb.org/t/p/w300/qHFm2TTL2BcoQG6aEuf0LlNAAC6.jpg",
+      "https://image.tmdb.org/t/p/w300/8rO7FQ5075EGWY0lXUBYUiG6Szu.jpg",
+      "https://image.tmdb.org/t/p/w300/kJOaArutEyWKHboQ5gw7UWl4y34.jpg",
+      "https://image.tmdb.org/t/p/w300/w3xLDbguAccqSXAFq1OvSHnflpP.jpg",
+      "https://image.tmdb.org/t/p/w300/bLxPHBZB78cOPs0pf17r658k6BQ.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/xDpFHT2dXI2IDdYwGCSWql6uoql.jpg",
+    "movie_links": [
+      {
+        "link": "https://www.cmvipmembers.com/check-movies/one-for-the-road-2022",
+        "server": "VIP Links",
+        "size": "",
+        "quality": ""
+      },
+      {
+        "link": "https://usersdrive.com/px1xnp5e2xjo.html",
+        "server": "usersdrive.com",
+        "size": "1.8GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://yoteshinportal.cc/one-for-the-road-2022-nf-web-dl-1080-p-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "1.8GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://megaup.net/2qwmg/One_for_the_Road.2022.NF.WEB-DL.1080p.CM.mp4",
+        "server": "megaup.net",
+        "size": "1.8GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://mega.nz/file/Heh1hCRI#tcuxVFsxLp05LoL8P-4bMf9RoT6RXtLiOvtb2rprsJg",
+        "server": "mega.nz",
+        "size": "1.8GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://usersdrive.com/y4w4b5y9na5z.html",
+        "server": "usersdrive.com",
+        "size": "900MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://yoteshinportal.cc/one-for-the-road-2022-nf-web-dl-720-p-cm-mp-4-1",
+        "server": "yoteshinportal.cc",
+        "size": "900MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://megaup.net/14Bub/One_for_the_Road.2022.NF.WEB-DL.720p.CM.mp4",
+        "server": "megaup.net",
+        "size": "900MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://mega.nz/file/TWggibBZ#3JwEqXiDdP6KtMl229s_QsutE2AowANho0c337XjENo",
+        "server": "mega.nz",
+        "size": "900MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://sbfull.com/0kmvs5ecg3xu.html",
+        "server": "streamsb.com",
+        "size": "900MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://usersdrive.com/wgb0mcjjjf11.html",
+        "server": "usersdrive.com",
+        "size": "300MB",
+        "quality": "480p"
+      },
+      {
+        "link": "https://yoteshinportal.cc/one-for-the-road-2022-nf-web-dl-480-p-cm-mp-4-1",
+        "server": "yoteshinportal.cc",
+        "size": "300MB",
+        "quality": "480p"
+      },
+      {
+        "link": "https://megaup.net/14Bu1/One_for_the_Road.2022.NF.WEB-DL.480p.CM.mp4",
+        "server": "megaup.net",
+        "size": "300MB",
+        "quality": "480p"
+      },
+      {
+        "link": "https://mega.nz/file/nW4FULCa#4ql29Hg5iY6Cv6EFljEJKnmWsmfW-TTZKYNGqZNTxSs",
+        "server": "mega.nz",
+        "size": "300MB",
+        "quality": "480p"
+      },
+      {
+        "link": "https://sbfull.com/gq49aekgh9kt.html",
+        "server": "streamsb.com",
+        "size": "300MB",
+        "quality": "480p"
+      }
+    ],
+    "trailer": {
+      "video_id": "zj7kvTNDrJc",
+      "video_url": "https://www.youtube.com/watch?v=zj7kvTNDrJc",
+      "embed_url": "https://www.youtube.com/embed/zj7kvTNDrJc"
+    }
+  },
+  {
+    "metadata": "not rated|2022|2h|Bollywood,Crime,Mystery,Thriller,Uncategorized",
+    "rating": {
+      "rating": "/10",
+      "rating_count": "112"
+    },
+    "title": "Uniki (2022)",
+    "description": "Madam Collector – Uniki 2022( မမခရိုင်မှူး)ယခုတစ်ခါ ထပ်မံတင်ဆက်ပေးမဲ့ကားလေးကလဲ ပရိသတ်များအကြိုက်တွေ့မှာဖြစ်တဲ့ဇာတ်လမ်းလေးမျိုးဖြစ်ပြီး မင်းသမီးချောလေး ချစ်ထရာရှူလာက မမခရိုင်မှူးအဖြစ် အဓိက ပါဝင်ထားပါတယ်ဇာတ်လမ်းလေးကတော့ သာမန်လူတန်းစားမိသားစုကနေ ပညာတော်လို့ ခရိုင်မှူးဖြစ်လာတဲ့ ဆူဘာဟာသူ့လက်ထက်မှာ စနစ်ကြီးတသ်ခုလုံးကို မြေလှန်ပစ်မယ်လို့ အလုပ်စဝင်တဲ့နေ့ထဲက ကြွေးကြော်လာတာပါအိန္ဒိယထုံးစံ ကြီးနိုင်ငယ်ညှဉ်း ရာထူးကြီးတဲ့ကောင်နဲ့ ပေါင်းအနိုင်ကျင့် စတဲ့ဟာတွေကို ခရိုင်မှူးမမတစ်ယောက်ဆတ်ဆတ်ထိမခံ ဖြေရှင်းပေးရင်း တစ်ရက်မှာတော့ ချောင်းရိုက်ခံလိုက်ရပြီး ဆေးရုံရောက်သွားပါတယ်ခရိုင်မှူးပါချောင်းရိုက်ခံရအောင် ဘယ်သူတွေကြိုးကိုင်ထားလဲ ခရိုင်မှူးမမကရော ဒီလိုအန္တရာယ်တွေကို မမှုပဲဆက်တာဝန်ထမ်းဆောင်နိုင်မလားဆိုတာ အမျိုးသမီးအသားပေး မိုတီပေးတဲ့ဇာတ်ကားကောင်းလေးဖြစ်တာကြောင့် ဒိုင်ယာလော့ခ်ကောင်းကောင်းလေးတွေကို ကြိုက်နှစ်သက်ကြတဲ့ ပရိသတ်ကြီး အတွက် ခံစားကြည့်ရှုကြဖို့ အကြံပေးရင်း တင်ဆက်ပေးလိုက်ပါတယ်အညွှန်းကို‌တော့ ဝါရင့်ဘာသာပြန်ကြီးSaiiမှ ရေးသား ပေးထားကာ ဘာသာပြန်တွေကတော့ Thaik San , V နဲ့ Saii တို့ပဲဖြစ်ပါတယ်( CMရဲ့ ဘောလိဝုဒ်ရုပ်ရှင်နဲ့ စီးရီးသစ်တွေကို တယ်လီဂရမ်မှာလဲ တင်ဆက်နေပြီမလို့ဒီချန်နယ်လေးမှာ ကြည့်ရှုအားပေးလို့ရပါတယ် Tele Link >>https://t.me/cmbollywood)File size…2.5GB / 1.1GBQuality…WEB DL 1080p / 720pFormat…mp4Duration….2hSubtitle….Myanmar Subtitle (Hard Sub)Encoder….YKTranslated by  Thaik San , V,  Saii",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/8GlIPJJVWte4Jun0GDNl49ixBSn.jpg",
+      "https://image.tmdb.org/t/p/w300/vVWc6KuATUTl1paCgE0xGtUyMuF.jpg",
+      "https://image.tmdb.org/t/p/w300/nek4MpApj1x8PLm9YPT3UDdHy2S.jpg",
+      "https://image.tmdb.org/t/p/w300/xR6WH2VwZrHH7qqmUsvTXl4Vzdl.jpg",
+      "https://image.tmdb.org/t/p/w300/1L7IGCZ5wwtCx2itvCLrZfyPfb3.jpg",
+      "https://image.tmdb.org/t/p/w300/uiYZWAV5vzmppUDGAMtjGRZudxJ.jpg",
+      "https://image.tmdb.org/t/p/w300/6qZFjPX1SARiJeuXEwlndUNa3Nl.jpg",
+      "https://image.tmdb.org/t/p/w300/eJDvN1DQYjnp5We5OVGao7oRan6.jpg",
+      "https://image.tmdb.org/t/p/w300/8aWTuCxS7gyayBwPnV35qxzGBNa.jpg",
+      "https://image.tmdb.org/t/p/w300/uFpUx3BWr6bprZsXfq2O4G89RC2.jpg",
+      "https://image.tmdb.org/t/p/w300/sKDy3nhhQOVgU05bIwU1xHvhER0.jpg",
+      "https://image.tmdb.org/t/p/w300/snqpIvJRlNNRTLTipkCEQbcgPf2.jpg"
+    ],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2023/12/MV5BNjM2NDdlZDAtODU3YS00YTAxLTliMDAtM2FkNzVlZjZhY2M5XkEyXkFqcGdeQXVyMjA1MTA3MjY@._V1_.jpg",
+    "movie_links": [
+      {
+        "link": "https://yoteshinportal.cc/madam-collector-uniki-2022-web-rip-uncut-1080-p-yk-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "2.5GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://usersdrive.com/zo6auvutatvx.html",
+        "server": "usersdrive.com",
+        "size": "2.5GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://megaup.net/21jh1/Madam_Collector_-_Uniki_2022_WebRip_UNCUT_1080p_YK(CM).mp4",
+        "server": "megaup.net",
+        "size": "2.5GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://mega.nz/file/OvQhWYKI#6f1N6bzT1zJnboXgSA-wwufDgnuwgVljFwAWuWygo7A",
+        "server": "mega.nz",
+        "size": "2.5GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://yoteshinportal.cc/madam-collector-uniki-2022-web-rip-uncut-720-p-yk-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "1.1GB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://usersdrive.com/zzzcvkogl1ng.html",
+        "server": "usersdrive.com",
+        "size": "1.1GB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://megaup.net/3necu/Madam_Collector_-_Uniki_2022_WebRip_UNCUT_720p_YK(CM).mp4",
+        "server": "megaup.net",
+        "size": "1.1GB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://mega.nz/file/iuxxHCTB#FKiIfWiZpcX9t-AaPgvTbNWQg1_W9x6giyoKxNi-UOk",
+        "server": "mega.nz",
+        "size": "1.1GB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://streamvid.net/4kwphs67unjl",
+        "server": "streamsb.com",
+        "size": "1.1GB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://flaswish.com/ewyxf7xhaiek",
+        "server": "streamvid.io",
+        "size": "1.1GB",
+        "quality": "720p"
+      }
+    ],
+    "trailer": null
+  },
+  {
+    "metadata": "|||Drama,TV Movie",
+    "rating": {
+      "rating": "/10",
+      "rating_count": ""
+    },
+    "title": "To Kill a Stepfather (2023)",
+    "description": "နစ်ကိုးလ်ရေးဟာ ကယ်လီဖိုးနီးယားက ထိပ်တန်းဥပဒေရုံးကြီးမှာ လုပ်ကိုင်နေတဲ့ အောင်မြင်တဲ့ ရှေ့နေတစ်ယောက်ဖြစ်ပါတယ်၊ တစ်နေ့မှာတော့ သူမဟာ သူမရဲ့မွေးစားအဖေဖြစ်သူ လှေကားပေါ်ကနေ တွန်းချခံလိုက်ရပြီး သေဆုံးသွားတဲ့အပေါ် သူမရဲ့အမေဖြစ်သူကို လူသတ်မှုနဲ့ဖမ်းဆီးခံလိုက်ရတာကို သိလိုက်ရပြီးတဲ့နောက်မှာ သူမရဲ့အမေဘက်ကနေ ရှေ့နေလိုက်ပေးဖို့နှင့် ဘာဖြစ်ခဲ့လဲဆိုတာက စုံစမ်းဖို့ ပြန်လာခဲ့ပါတော့တယ်၊ ဒီလိုနဲ့ အမှုအတွက် စတင်စုံစမ်းတဲ့အခါမှာ အဖြစ်အပျက်တွေက သူမထင်သလို မရိုးရှင်းနေဘူးဆိုတာ သူမသိလာရပါတော့တယ်။ သူမရဲ့အမေက တစ်ကယ်ပဲ သူ့မရဲ့မွေးစားအဖေကို သတ်ခဲ့တာလား၊ အပြင်မှာရော တစ်ကယ့်လူသတ်သမားရှိနေတာလား၊ သူမအနေနဲ့ရော ဒီအမှုကို ဘယ်လိုဖြေရှင်းမလဲ၊ အမှန်တရားကိုရောရှာဖွေတွေ့ရှိနိုင်ပါ့မလား ဆိုတာကို စိတ်ဝင်တစား ကြည့်ရှုရမှာဖြစ်ပါတယ်။File size…(1.5 GB)/(659 MB)Quality….Webrip 1080p / 720pFormat…mp4Duration….01:27:00Genre…Drama, Tv MovieSubtitle….Myanmar Subtitle (Hardsub)Encoder….Mr. AndersonTranslated by Matteo",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/xkNipKHrTTz8K5Et8NXI2ndz4kb.jpg",
+      "https://image.tmdb.org/t/p/w300/oCKF7CHUNSeV9KhwyZPp78k2HqI.jpg"
+    ],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2023/09/MV5BZjE4Y2FlNDItMzg2OC00ZTJlLTk5OTEtNWFhMTdhMDU0NmUwXkEyXkFqcGdeQXVyMTA5OTMxODM5._V1_FMjpg_UX1000_.jpg",
+    "movie_links": [
+      {
+        "link": "https://yoteshinportal.cc/to-kill-a-stepfather-2023-1080-p-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "1.5GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://usersdrive.com/er2mnfxt97yk.html",
+        "server": "usersdrive.com",
+        "size": "1.5GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://megaup.net/1WXjv/To.Kill.A.Stepfather.2023.1080p.(CM).mp4",
+        "server": "megaup.net",
+        "size": "1.5GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://mega.nz/file/Q3NQ3K7Z#miEqlIOcoGc8zKMyjKuMa7MFbdM0TKVQH4qbmzxG_po",
+        "server": "mega.nz",
+        "size": "1.5GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://yoteshinportal.cc/to-kill-a-stepfather-2023-1080-p-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "659MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://usersdrive.com/pb2v41aya1nl.html",
+        "server": "usersdrive.com",
+        "size": "659MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://megaup.net/2CUM6/To.Kill.A.Stepfather.2023.720p.(CM).mp4",
+        "server": "megaup.net",
+        "size": "659MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://mega.nz/file/orEjVbKZ#qBKk8NJNCIXJFbPNZ8i1CGZwXWyj8EtHMPh4x8Y1N2k",
+        "server": "mega.nz",
+        "size": "659MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://embedwish.com/leu4lqug5bon",
+        "server": "streamsb.com",
+        "size": "659MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://streamvid.net/33vrlb5g3mj1",
+        "server": "streamvid.io",
+        "size": "659MB",
+        "quality": "720p"
+      }
+    ],
+    "trailer": null
+  },
+  {
+    "metadata": "|||Uncategorized",
+    "rating": {
+      "rating": "/10",
+      "rating_count": ""
+    },
+    "title": "Journey to the West:return of 3 Saints (2017)",
+    "description": "2017 ခုႏွစ္ထြက္ ၀ူခုန္း ရဲ႕ ေနာက္ဘားရွင္းအသစ္ ကားေလးကိုထပ္မံတင္ဆက္ေပးလိုက္ပါတယ္ ဇာတ္လမ္းေလးကေတာ့ စာဖိုင္မထြက္ သလို Imdb မယ္လဲ rating မတက္ပါဘူး ဒါေပသိ ပရိတ္သတ္ႀကီးကိုၾကည့္ေစ ခ်င္တဲ့ ေစတနာနဲ႔ စာဖိုင္ဖန္တီးၿပီးတင္ဆက္ေပးလိုက္ပါတယ္ က်ေတာ္ကေတာ့ ကိုယ့္ဖာသာ rating ေပးရရင္ 3.5/5 ေလာက္ေတာ့ေပးပါတယ္ မင္းသမီးေလးေတြက cute လြန္းလို႔ဘာ 😛ဇာတ္လမ္း အက်ဥ္းေလးကေတာ့ ထန္သူေတာ္စင္က အေနာက္ဖက္ကို က်မ္းစာသြားသယ္ပါတယ္ သယ္တဲ့ေနရာမွာလဲ ၀ူခုန္းပါတယ္ထင္ပါသလား မပါပါဘူး စကီေတြ တၿပံဳႀကီးနဲ႔ သြားသယ္တာပါ ကဲ ထန္ကိုယ္ေတာ္ကို စကီေတြက လမ္းခရီးမွာ မိစၦာေတြရန္က ဘယ္လို ကိုယ္ဖိရင္ဖိ ေစာင့္ေရွာက္ၾကမလဲ မိစၦာငနဲႀကီးေတြကေကာ ထန္ကိုယ္ေတာ္ကို ဘယ္လိုေတြ သူငယ္ေထာင္ၾကမလဲဆိုတာကိုေတာ့ ပရိတ္သတ္ႀကီးက ဆက္လက္ ရွဴစားၾကရမွာပါ 😛Qty – 720p Web dlDuration – 1hr 30minGene – Fantasy/Drama/RomanceSubtitle – Myanmar Hardsub (Cover up )Translator – Bai MeilingEncoder – Kyaw Ye Aung",
+    "screenshot_links": [],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2017/10/k71fyrjjkhpt.mid.jpg",
+    "movie_links": [
+      {
+        "link": "http://yobuilder.com/2Xrm",
+        "server": "Kino Cloud",
+        "size": "792MB",
+        "quality": ""
+      },
+      {
+        "link": "https://www.cmvipmembers.com/check-movies/journey-to-the-westreturn-of-3-saints-2017",
+        "server": "CM Links",
+        "size": "792MB",
+        "quality": ""
+      },
+      {
+        "link": "https://yoteshinportal.cc/journey-to-west-return-of-3-saints-2017-mm-sub-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "792MB",
+        "quality": ""
+      },
+      {
+        "link": "https://yoteshinportal.cc/yandex/journey-to-west-return-of-3-saints-2017-mm-sub-mp-4-1",
+        "server": "disk.yandex.com",
+        "size": "792MB",
+        "quality": ""
+      },
+      {
+        "link": "https://megaup.net/1zv5p/Journey_To_West_-_Return_Of_3_Saints_[2017]_(MM_Sub).mp4",
+        "server": "megaup.net",
+        "size": "792MB",
+        "quality": ""
+      },
+      {
+        "link": "https://upstream.to/k1446tm523ln",
+        "server": "upstream.to",
+        "size": "792MB",
+        "quality": ""
+      }
+    ],
+    "trailer": null
+  },
+  {
+    "metadata": "||1h 40 min|Action,Crime,Drama",
+    "rating": {
+      "rating": "6/10",
+      "rating_count": "242"
+    },
+    "title": "Desperado ( 2024 )",
+    "description": "ခွေးထိရင်ဓားကြည့်ဆိုတဲ့ John Wickကြီးလိုပဲ သမီးထိရင်မီးပွင့်သွားမယ်ဆိုတဲ့အထူးအေးဂျင့်ဟောင်းကြီးတစ်ယောက် လက်ဗလာနဲ့လူဆိုးအုပ်ကြားမှာကြမ်းတဲ့ အက်ရှင်ကားကောင်းလေးတင်ဆက်ပေးလိုက်ပါပြီ။ဇာတ်လမ်းအကျဉ်းကတော့အရမ်းကိုထူးချွန်တဲ့အထူးအေးဂျင့်ဟောင်းကြီးတစ်ယောက်က ဇာတ်မြှုပ်ပြီးတော့လုံခြုံရေးကုမ္ပဏီလေးဖွင့်ပြီး ဘဝကိုရိုးရိုးရှင်းရှင်းဖြတ်သန်းနေချိန်မှာမင်းသားကသူ့ဟာသူနေပေမယ့် ပြဿနာကသူ့ဟာသူမနေပဲ တံခါးဝထိရောက်လာပါတယ်။ဒီလိုနဲ့သူကမိသားစုကိုဆုံးရှုံးလိုက်ရပြီးတော့ ထောင်(၉)နှစ်ကျသွားပါတယ်။ထောင်ကထွက်လာတဲ့အချိန်မှာ သူ့ရဲ့မိသားစုကိုဖျက်ဆီးခဲ့တဲ့သူကို လိုက်ရှာတော့တာပေါ့။သဲလွန်စတွေရဲ့အချိတ်အဆက်တစ်ခုဖြစ်တဲ့ ကလေးမလေးတစ်ယောက်ကိုသမီးအရင်းလိုသဘောထားပြီးကာကွယ်ပေးရင်းသူ့ရဲ့ရန်ငြိုးကိုလက်စားချေဖို့ကြိုးစားတော့တာပေါ့။လူကြမ်းကြီးတစ်ဖြည်းဖြည်းနဲ့ အဖြစ်မှန်အမှုကိုဖော်သွားတာကိုကြမ်းကြမ်းရမ်းရမ်းအက်ရှင်တွေနဲ့ ခံစားကြည့်လိုက်ပါနော်……Quality : WEB-DL 1080p , 720pFormat : mp4Genres : Action , Drama , CrimeRuntime : 1h 40 minSubtitle : Myanmar Subtitle ( Hardsub )Translated by CM TeamReviewed By Nu MonEncoded by LK",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/zIfFQYIvQoHgK4yilrkO0VnPu1d.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/zWSHi5jZuAVKY0CMlUzsia43MPe.jpg",
+    "movie_links": [
+      {
+        "link": "https://yoteshinportal.cc/desperado-2024-1080-p-web-dl-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "1.4GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://usersdrive.com/h44coico7gie.html",
+        "server": "usersdrive.com",
+        "size": "1.4GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://megaup.net/7sHuc/Desperado_2024_1080p_WEB-DL_CM.mp4",
+        "server": "megaup.net",
+        "size": "1.4GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://mega.nz/file/5TkwxYJQ#VaPYg9B9n26l1vLE50iSX6gnJueJjpkazoz5NzkkPJ4",
+        "server": "mega.nz",
+        "size": "1.4GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://flaswish.com/6zodbdlv2h07",
+        "server": "streamsb.com",
+        "size": "1.4GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://yoteshinportal.cc/desperado-2024-720-p-web-dl-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "774.7MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://usersdrive.com/6mucs8eueugp.html",
+        "server": "usersdrive.com",
+        "size": "774.7MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://mega.nz/file/hG0WDShD#7EXrcus1Hivs-J31NhK9rSjhU46cqBCUuzQz_DvXQuQ",
+        "server": "mega.nz",
+        "size": "774.7MB",
+        "quality": "720p"
+      }
+    ],
+    "trailer": {
+      "video_id": "CrPQiQ5KG94",
+      "video_url": "https://www.youtube.com/watch?v=CrPQiQ5KG94",
+      "embed_url": "https://www.youtube.com/embed/CrPQiQ5KG94"
+    }
+  },
+  {
+    "metadata": "|||Mystery,Thriller",
+    "rating": {
+      "rating": "/10",
+      "rating_count": ""
+    },
+    "title": "Nightshade (2022)",
+    "description": "လူသတ်မှုစုံထောက်ဘန်ဟာ အိပ်မပျော်သလိုခံစားနေလို့စိတ်ရောဂါကု ဆရာဝန်ဆီမှာ အိပ်ငွေ့ချကုသမှုခံယူနေရတာပါတဖြည်းဖြည်းနဲ့ အိပ်နေရင်းလမ်းလျှောက်တဲ့ရောဂါပါရလာပြီးအကြားအမြင်ရသလိုဖြစ်လာပါတော့တယ်အဲဒါကို သူ့မိန်းမကိုလည်းပြောမပြသလိုသူ့တွဲဖက်သူငယ်ချင်းကိုလည်း မပြောပြခဲ့ပါဘူးပုံစံတူ လူသတ်မှု ၃ခုဆက်တိုက်ဖြစ်လာတဲ့အခါမှာသဲလွန်စတွေကိုလိုက်ရင်း စိတ်ဝင်စားစရာလေးတွေတွေ့လာပါတော့တယ်ဘန့် ညဘက်လမ်းထလျှောက်တာကို သူ့မိန်းမကဘာလို့မသိရတာလဲသူက ဘာလို့ အကြားအမြင်ရသလိုဖြစ်နေရတာလဲသူ့သူငယ်ချင်း ကရော သူ့ကိုယုံပါ့မလားနောက်ဆုံး လူသတ်မှုကိုရောဖော်ထုတ်နိုင်ပါ့မလားဆိုတာ ကြည့်ရမှာပါပဲFile size…(1.5 GB)/(800 Mb)/(400 Mb)Quality….Webrip 1080p / 720p / 480pFormat…mp4Duration….01:30:00Genre…Mystery, ThrillerSubtitle….Myanmar Subtitle (Hardsub)Encoder….Mr. AndersonTranslated by Garfield",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/5dxVBSsKKAUBVelavEB9o1RlDHL.jpg",
+      "https://image.tmdb.org/t/p/w300/zrmGXaVs7xBvwV6medVAlXvRkOV.jpg",
+      "https://image.tmdb.org/t/p/w300/uf54WimkM9a1J002Aqc26rtPSYz.jpg",
+      "https://image.tmdb.org/t/p/w300/dv9tgyenRyScgiOexDKo5gEknZx.jpg"
+    ],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2022/01/n.jpg",
+    "movie_links": [
+      {
+        "link": "https://www.cmvipmembers.com/check-movies/nightshade-2022",
+        "server": "VIP Links",
+        "size": "",
+        "quality": ""
+      },
+      {
+        "link": "https://yoteshinportal.cc/nightshade-2022-1080-p-cm-mp-4",
+        "server": "VIP Links",
+        "size": "",
+        "quality": ""
+      },
+      {
+        "link": "https://yoteshinportal.cc/nightshade-2022-720-p-cm-mp-4",
+        "server": "VIP Links",
+        "size": "",
+        "quality": ""
+      },
+      {
+        "link": "https://megaup.net/11nm5/Nightshade_2022_1080p_(CM).mp4",
+        "server": "VIP Links",
+        "size": "",
+        "quality": ""
+      },
+      {
+        "link": "https://megaup.net/11nmi/Nightshade_2022_720p_(CM).mp4",
+        "server": "VIP Links",
+        "size": "",
+        "quality": ""
+      },
+      {
+        "link": "https://mega.nz/file/5wN0zRZI#VAlInmiXgpYjbJ6jrtvwtJtTSF5epegjnSZe9ZunFwU",
+        "server": "VIP Links",
+        "size": "",
+        "quality": ""
+      },
+      {
+        "link": "https://mega.nz/file/c8M0CJBQ#mTRSwBLBCwOglRS6UoRzXCLnSU37-dR68zqxM9K54Kw",
+        "server": "VIP Links",
+        "size": "",
+        "quality": ""
+      },
+      {
+        "link": "https://usersdrive.com/372u2vfy56xb.html",
+        "server": "VIP Links",
+        "size": "",
+        "quality": ""
+      },
+      {
+        "link": "https://usersdrive.com/hxwhna3i77ro.html",
+        "server": "VIP Links",
+        "size": "",
+        "quality": ""
+      },
+      {
+        "link": "https://watchsb.com/ebf9kvaqyy8r.html",
+        "server": "VIP Links",
+        "size": "",
+        "quality": ""
+      },
+      {
+        "link": "https://watchsb.com/ebf9kvaqyy8r.html",
+        "server": "VIP Links",
+        "size": "",
+        "quality": ""
+      }
+    ],
+    "trailer": {
+      "video_id": "bFL0Ja-r-Ew",
+      "video_url": "https://www.youtube.com/watch?v=bFL0Ja-r-Ew",
+      "embed_url": "https://www.youtube.com/embed/bFL0Ja-r-Ew"
+    }
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "/",
+      "rating_count": ""
+    },
+    "title": "The Silent Sea ( 2021 )",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg",
+      "https://image.tmdb.org/t/p/w300/flveDYeIpRH29kyBLbxWRdoLhLn.jpg",
+      "https://image.tmdb.org/t/p/w300/ls0NolYa8A5J1RLfFTpjqK13GkB.jpg",
+      "https://image.tmdb.org/t/p/w300/7Y27C5ivlCoGaKEOVuXApKRy8tt.jpg",
+      "https://image.tmdb.org/t/p/w300/ybiwqjWs0p08iHiPdc8R3fBwCmv.jpg",
+      "https://image.tmdb.org/t/p/w300/l6UVThVf6xrYUwnzadCfBhlhUEE.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/368RFWidiSe5cPddTl2OaICPlTl.jpg",
+    "movie_links": [],
+    "trailer": {
+      "video_id": "w-fcoSiojbY",
+      "video_url": "https://www.youtube.com/watch?v=w-fcoSiojbY",
+      "embed_url": "https://www.youtube.com/embed/w-fcoSiojbY"
+    }
+  },
+  {
+    "metadata": "|2021||Crime,Drama,Thriller",
+    "rating": {
+      "rating": "/10",
+      "rating_count": ""
+    },
+    "title": "Karen (2021)",
+    "description": "Karen (2021)Genre – Crime, Drama, Thrillerမာလစ်နဲ့ အီမာနီတို့ လင်မယားဟာ မြို့နဲ့သိပ်မဝေးတဲ့ဆင်ခြေဖုံးရပ်ကွက်တစ်ခုကို ဘဝသစ်တစ်ခု စတင်ဖို့ ပြောင်းရွှေ့လာကြတဲ့လူမည်း လင်မယားစုံတွဲလေးပါ။ဒါပေမဲ့ သူတို့ရောက်လာတာတော့ လူဖြူတွေ ရှိကြတဲ့မှုခင်းအင်မတန် နည်းပါးတဲ့ ရပ်ကွက်လေးတစ်ခုပေါ့။ဒီလိုနဲ့ စနေတဲ့အချိန် ဘေးချင်းကပ်ရပ်က ကလေးနှစ်ယောက်အမေရပ်ကွက်ဥက္ကဌလိုမျိုး ကယ်ရန်ဆိုတာနဲ့ စပြီး တွေ့ခဲ့ကြတယ်။သူတို့ ပြောင်းလာပြီး ကယ်ရန်ဆိုတဲ့ အမျိုးသမီးက ကင်မရာတွေတပ်တယ်အမူအရာတွေလည်း စတင် ပြောင်းလဲလာတာပေါ့။ဒါပေမဲ့ တဖြည်းဖြည်းနဲ့ ကယ်ရန်ဆိုတဲ့ အမျိုးသမီးရဲ့ နောက်ကွယ်ကစစ်မှန်တဲ့ ရည်မှန်းချက်တွေ သိလာရတဲ့အချိန်မှာမာလစ်တို့ လင်မယား ဘယ်လိုတွေဆက်ဖြစ်ကြမလဲ….။File size…      1.7 GB /  732 MBQuality… Web-DL 1080p / 720pFormat… mp4Duration…. 1h 29mGenre ….. Crime/ThrillerSubtitle…. Myanmar Subtitle (Hard Sub)Encoder…. Thit San KhantTranslated by Thura Aung",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/rHMNpe68Nf006rc2w1br4HxQ95D.jpg",
+      "https://image.tmdb.org/t/p/w300/zMJjLuceCLv308p1KgftCFkZY1A.jpg",
+      "https://image.tmdb.org/t/p/w300/dNViycS00ad5CErpahVVgR0zRxc.jpg",
+      "https://image.tmdb.org/t/p/w300/osY9lJnf7Vyy0ysHQqebJ4Eko05.jpg",
+      "https://image.tmdb.org/t/p/w300/lI2HiEYm50DU2RLzqztjrYaWBQA.jpg",
+      "https://image.tmdb.org/t/p/w300/sIw0llYNlSXch74n6bATctr1Lt0.jpg",
+      "https://image.tmdb.org/t/p/w300/1IZ12x3aheTcplxYxzymZkSWOrk.jpg"
+    ],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2020/03/MV5BYTk3MTQyZmUtYjIzNi00MGI2LThlMzAtMTZlOGFhYTUxN2VjXkEyXkFqcGdeQXVyODA3ODU4OTU@._V1_.jpg",
+    "movie_links": [
+      {
+        "link": "https://usersdrive.com/409zommk9qag.html",
+        "server": "usersdrive.com",
+        "size": "1.7 GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://yoteshinportal.cc/karen-2021-1080-p-amzn-web-dl-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "1.7 GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://megaup.net/rKJpk/Karen.2021.1080p.AMZN.WEB-DL_%7BCM%7D.mp4",
+        "server": "megaup.net",
+        "size": "1.7 GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://mega.nz/file/gKNAlYhS#61OucADB1dFuyvt_g_I4D6Gq01P0f7n_zm20rm2Wt1E",
+        "server": "mega.nz",
+        "size": "1.7 GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://obeywish.com/r2xdqml6vibk",
+        "server": "streamvid.io",
+        "size": "1.7 GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://www.datbu.com/de0q205f8j5d.html",
+        "server": "datbu.com",
+        "size": "1.7 GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://usersdrive.com/xo09ged612b3.html",
+        "server": "usersdrive.com",
+        "size": "732 MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://yoteshinportal.cc/karen-2021-720-p-amzn-web-dl-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "732 MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://megaup.net/edyhf/Karen.2021.720p.AMZN.WEB-DL_%7BCM%7D.mp4",
+        "server": "megaup.net",
+        "size": "732 MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://mega.nz/file/5K0UHY4K#k-ViugWLhuLyrENPSOt_MOSHvH3SCkfbm9H-KdX5_3E",
+        "server": "mega.nz",
+        "size": "732 MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://obeywish.com/tfj3wtbsu594",
+        "server": "streamvid.io",
+        "size": "732 MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://www.datbu.com/rrvdaimah9f3.html",
+        "server": "datbu.com",
+        "size": "732 MB",
+        "quality": "720p"
+      }
+    ],
+    "trailer": {
+      "video_id": "nfEPWa1ay0U",
+      "video_url": "https://www.youtube.com/watch?v=nfEPWa1ay0U",
+      "embed_url": "https://www.youtube.com/embed/nfEPWa1ay0U"
+    }
+  },
+  {
+    "metadata": "|||Action,Adventure,Asian,Fantasy",
+    "rating": {
+      "rating": "/10",
+      "rating_count": ""
+    },
+    "title": "The Warrior’s Gate (2016)",
+    "description": "ဒီဇာတ္ကားဟာ တရုတ္-အေနာက္တိုင္း ဖက္စပ္ အဂၤလိပ္စကားေျပာ သိုင္းကားျဖစ္ပါတယ္။Action,Adventure,Fantasy ဇာတ္ကားမ်ိဳးျဖစ္ျပီး IMDb Rating (5.3/10) ရရွိထားတဲ့ဇာတ္ကားပါ။ဇာတ္ေၾကာင္းကေတာ့ လက္ရွိ Timeline ကေန အျခား Timeline တစ္ခုကိုသြားျပီး ကိုယ္ရံေတာ္မင္းသမီးေလးကို ဂိမ္းဆန္ဆန္မေကာင္းဆိုးဝါးေတြလက္ထဲကေန ကြန္ဖူးအစြမ္းေတြနဲ႕တိုက္ခိုက္ျပီး ကယ္တင္ရမွာပါ။ထိုင္ဝမ္မင္းသား Mark Chao ,  တရုတ္မင္းသမီး Ni Ni , အေမရိကန္မင္းသား Uriah Shelton , အဂၤလိပ္မင္းသမီး Sienna Guillory စတဲ့ ဇာတ္ေကာင္မ်ားအျပင္ အျခားဇာတ္ရံေတြလဲ ပါဝင္ထားပါတယ္။File size…(900MB) and (360MB)Quality…Blu-Ray Rip 720pFormat…mp4Duration….01:48:00Subtitle….Myanmar Subtitle (Hardsub)Encoder….Nyeinsaeya AungTranslated byMissy WinDownload and Watch (",
+    "screenshot_links": [],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2017/07/Warriors_Gate_poster.jpeg.jpeg",
+    "movie_links": [],
+    "trailer": null
+  },
+  {
+    "metadata": "N/A|2021|1h 41m|Crime,Drama",
+    "rating": {
+      "rating": "6.6/10",
+      "rating_count": "703"
+    },
+    "title": "Rhino (2021)",
+    "description": "Rhino 2021ဒီရုပ်ရှင်လေးကတော့ ၂၀၂၁ ခုနှစ်မှာ ထွက်ရှိခဲ့တဲ့ ရုရှားစကားပြော ယူကရိန်း ဒရာမာ ၊ မှုခင်းဇာတ်လမ်းလေးပါ။ဥရောပ ရုပ်ရှင်တို့ ထုံးစံအရ တီးလုံးတွေ လေးပြီး ဇာတ်အေး ဇာတ်နှေးတတ်ပေမယ့်လည်း ဒီဥရောပကားကတော့ ဇာတ်ရှိန်မြန်တာကြောင့် ကြည့်ရတာ သိပ်ပျင်းဖို့ မကောင်းပါဘူး။ငယ်ငယ်က အနိုင်ကျင့်ခံရတာကို မုန်းတီးတဲ့ ရိုင်နိုဆိုတဲ့ လူငယ်လေးဟာ အရွယ်ေရာက်လာတာနဲ့ အမျှ လူမိုက်လောကထဲကို ရောက်မှန်းမသိရောက်သွားပါတော့တယ်။ ကြီးနိုင်ငယ်ညှင်း ဒီလောကထဲမှာ ရိုင်နိုတစ်ယောက် အောင်မြင်အောင် ရှင်သန်ရုန်းကန်ရင်း ရက်စက်တဲ့ အသည်းနှလုံး ပိုင်ရှင်လူသားတစ်ဦးဖြစ်လာရပါတော့တယ်။ ဘဝရဲ့ ကြမ်းတမ်း ရက်စက်မှု ဒဏ်ကို အံတုရင်း အရေထူအောင် ကြီးပြင်းလာခဲ့ရတဲ့ ရိုင်နိုတစ်ယောက် သူ့ ရင်ထဲမှာဖြူစင်မှုရော ရှိသေးရဲ့လားဆိုတာကိုတော့ ဇာတ်လမ်းလေးဆုံးအောင်ကြည့်ပြီး အဖြေရှာစေချင်ပါတယ်။ ဘဝရဲ့ ရိုက်ခတ်မှုတွေကြားထဲ လောကကြီးမှာ ရှင်သန်ဖို့ အရေထူအောင်ကျင့်ရင်းကလေးတစ်ဦးရဲ့ အဆုံးသတ်ဟာ ကောင်းခြင်းနဲ့ဆုံးမလား ဆိုးခြင်းနဲ့အဆုံးသတ်မလား ဆိုတာကတော့။File size…1.6GB / 800MBQuality…1080p / 720pFormat…mp4Duration….1h 41mSubtitle….Myanmar Subtitle (hard sub)Encoder….Thit San KhantTranslated by V",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/lxHgM0jYLpuqhwGQqXP10qVwCrW.jpg",
+      "https://image.tmdb.org/t/p/w300/4Snv5McZGaL834ak2XBnLnJ7Duq.jpg",
+      "https://image.tmdb.org/t/p/w300/p1vntibmWdOUaajfvzn0YTJBNwI.jpg",
+      "https://image.tmdb.org/t/p/w300/tZmjBlmMBkS7xR7f73PnbjDF1m5.jpg",
+      "https://image.tmdb.org/t/p/w300/b0fRFroO7WxkpXMP7p9PgqtGbkf.jpg",
+      "https://image.tmdb.org/t/p/w300/tTbSJO6Q6sQ37YIViu4fVJ3nqwW.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/lSCU3sm6O9kHdPKmcPAxsW3vejA.jpg",
+    "movie_links": [
+      {
+        "link": "https://www.cmvipmembers.com/check-movies/rhino-2021",
+        "server": "VIP Links",
+        "size": "",
+        "quality": ""
+      },
+      {
+        "link": "https://yoteshinportal.cc/rhino-2021-ukrainian-1080-p-aac-5-1-ch-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "1.6GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://usersdrive.com/ur7gje83yl5d.html",
+        "server": "usersdrive.com",
+        "size": "1.6GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://megaup.net/15bu7/Rhino.2021.UKRAINIAN.1080p.AAC5.1CH_{CM}.mp4",
+        "server": "megaup.net",
+        "size": "1.6GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://mega.nz/file/Rk1TmTIB#HwGx7tXskLt8fBP5mMVdD02iTROX1Gd381Os5O7SJNo",
+        "server": "mega.nz",
+        "size": "1.6GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://sbfull.com/oekdle65rp38.html",
+        "server": "streamsb.com",
+        "size": "1.6GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://yoteshinportal.cc/rhino-2021-720-p-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "800MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://usersdrive.com/233lp5msfd6v.html",
+        "server": "usersdrive.com",
+        "size": "800MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://megaup.net/15bug/Rhino.2021.720p(CM).mp4",
+        "server": "megaup.net",
+        "size": "800MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://mega.nz/file/IgUhVYoA#tY3RApXiab07owMKp_SwqBj_vprRUyNvqBdfjU7HuFA",
+        "server": "mega.nz",
+        "size": "800MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://sbfull.com/nwcsk7orhwnq.html",
+        "server": "streamsb.com",
+        "size": "800MB",
+        "quality": "720p"
+      }
+    ],
+    "trailer": {
+      "video_id": "4nQnefmgZGE",
+      "video_url": "https://www.youtube.com/watch?v=4nQnefmgZGE",
+      "embed_url": "https://www.youtube.com/embed/4nQnefmgZGE"
+    }
+  },
+  {
+    "metadata": "N/A|2018|2h 13min|Asian,History",
+    "rating": {
+      "rating": "6.1/10",
+      "rating_count": "55"
+    },
+    "title": "Fengshui (2018)",
+    "description": "ဖုန္​း​​ေ႐ႊပညာရပ္​အရ မဂၤလာ​ေျမဟာ လူသား​ေတြရဲ႕ကံဇာတာကို တိုးတက​္​​ေစဖို႔ မ်ားစြာကူညီ​ေပးတယ္​ဆိုတာကို​ေတာ့ ​ေတာ္​​ေတာ္​မ်ားမ်ားၾကားဖူးၾကမွာပါ။ဒီကား​ေလး​ထဲမွာ​ေတာ့ အထက္​တန္​းစားမ်ိဳးနြယ္​ျဖစ္​တဲ့ ကင္​မ်ိဳးနြယ္​စုဟာ ​မိမိတို႔ အလိုျပည္​့ဖို႔ ဖုန္​း​ေ႐ႊပညာနဲ႔ ​ေျမရဲ႕စြမ္​းအား​ေတြကို မသမာတဲ့နည္​းလမ္​းနဲ႔အသံုးျပဳၾကသူ​ေတြျဖစ္​ၿပီး သူတို႔လမ္​းမွာ ဝင္​​ေနွာင္​့ယွက္​သူ​ေတြကိုလည္​း ရွင္​းပစ္​ဖို႔ဝန္​မ​ေလးတဲ့သူ​ေတြပါ။တိုင္​းျပည္​အ​ေပၚသစၥာ​ေစာင္​့သိတဲ့ သာမာန္​ဖုန္​း​ေ႐ြပညာရွင​္​​ေလး ပတ္​​ေဂ်ဆန္​း က​ေတာ့ အမတ္​ႀကီးရဲ႕မ်က္​မုန္​းက်ိဳးခံရၿပီး မိသားစုကို ဆံုးရွံုးခဲ့ရၿပီး​ေနာက္​ ကင္​မိသားစုရဲ႕ မသမာမႈ​ေတြကို တားဆီးဖို႔ႀကိဳးစားရင္​း ဖုန္​း​ေ႐ႊပညာကို ​လူသား​ေတြအက်ိဳးအတြက္​သာအသံုးျပဳခ်င္​သူပဲျဖစ္​ပါတယ္​။​ေျမစြမ္​းအားကို အသံုးျပဳၿပီး ​ေတာ္​ဝင္​မိသားစုကို​ ၾကဳိက္​သလို ျခယ္​လွယ္​​ေနတဲ့ ကင္​အမတ္​ႀကီး အုပ္​စိုးမႈ​ေအာက္​မွာ ရူးခ်င္​​ေယာင္​​ေဆာင္​​ခဲ့ရတဲ့ ဟုန္​ဆိုးမင္​းသားတစ္​​ေယာက္​ သူ႔ရဲ႕အ​ေပါင္​းအပါ​ေတြနဲ႔အတူ တူ​ေတာ္​မင္​းႀကီးကို ကူညီရင္​း ဖုန္​း​ေ႐ႊပညာရွင္​​ေလးနဲ႔ ပူး​ေပါင္​းမိၾကပါတယ္​။​သူကိုယ္​တိုင္​​ အနွိမ္​ခံ​ေတာ္​ဝင္​​ေခြးအျဖစ္​နဲ႔ ႀကီးျပင္​းခဲ့ရတဲ့ ဟုန္​ဆိုးမင္​းသားတစ္​​ေယာက္​ မ်ိဳးဆက္​နွစ္​ဆက္​ မင္​းျဖစ္​​ေစနိုင္​တယ္​ဆိုတဲ့ ​ေျမစြမ္​းအားကို တပ္​မက္​မိတဲ့အခါမွာ​ေတာ့….ဂ်ဳိဆြန္​းျပည္​ႀကီး ဘယ္​လို အျဖစ္​အပ်က္​​ေတြနဲ႔ ႀကံဳ​ေတြ႕ရမွာလဲ… ?ဆိုတဲ့ အျဖစ္​အပ်က္​​ေလး​ေတြကို ဒီကား​ေလးထဲမွာ ပရိသတ္​ႀကီး စိတ္​ဝင္​တစားၾကည္​့ရႈရမွာျဖစ္​ပါတယ္​…..ဒီလို မင္​းမ်ဳိးနြယ္​​ေတြရဲ႕ အရႈပ္​အ​ေထြး​ေတြၾကား နာမည္​ႀကီး မင္​းသမီးတစ္​လက္​ျဖစ္​တဲ့ Moon Chae-won က​လည္​း ဒီကား​ေလးထဲမွာ ဖခင္​အတြက္​ လက္​စား​ေခ်ဖို႔ ႀကိဳးစား​ေနသူ ​ေဂဟာမယ္​​ေခါင္​း​ေဆာင္​ ခ်ိဳဆန္​းအျဖစ္​ ပါဝင္​သရုပ္​​ေဆာင္​ထား​ေသးပါတယ္​​ေနာ္​….ပညာရွင္​ ပတ္​​ေဂ်ဆန္​း အျဖစ္​ Cho Seung-wooဟုန္​ဆိုးမင္​းသားအျဖစ္​ Ji Sungခ်ဳိဆန္​းအျဖစ္​ Moon Chae-won တို႔က ပါဝင္​သရုပ္​​ေဆာင္​ထားတာပဲျဖစ္​ပါတယ္​(ဇာတ္လမ္းအညႊန္းနဲ႔ဘာသာျပန္ေပးထားသူကေတာ့ ၾကာျဖဴလြင္ပါ)File Size : (950 MB) and (390 MB)Quality : HDRip 720pRunning Time : 2hr 13minFormat : Mp4Genre : HistorySubtitle : Myanmar Subtitle (Hard Sub)Source : 1080p.FHDRip.x264.AAC PCHDTranslated by Kyar Phyu LwinEncoded by Thanhtike Zaw",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/sFiQYvoMYdI7soXoaCcgXCbQA9N.jpg",
+      "https://image.tmdb.org/t/p/w300/ioR6MfSpkmDbjOZxfGVfvP9lMCK.jpg",
+      "https://image.tmdb.org/t/p/w300/6nsudxEsxeMtFwU64gx2puXI2J4.jpg",
+      "https://image.tmdb.org/t/p/w300/eEwOZKpkFm4LpHUFxgyCdJBVAHE.jpg",
+      "https://image.tmdb.org/t/p/w300/abnNoYgTCTh1BKiYm2FEo6SNkMG.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/siMvybzyrrKmDBEw3bcs2qeCMdk.jpg",
+    "movie_links": [
+      {
+        "link": "https://yoteshinportal.cc/fengshui-2018-mm-sub-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "950 MB",
+        "quality": ""
+      },
+      {
+        "link": "",
+        "server": "megaup.net",
+        "size": "950 MB",
+        "quality": ""
+      },
+      {
+        "link": "https://upstream.to/xqvoiuyk3s2t",
+        "server": "upstream.to",
+        "size": "950 MB",
+        "quality": ""
+      },
+      {
+        "link": "https://usersdrive.com/c8496n0ohpz2.html",
+        "server": "usersdrive.com",
+        "size": "950 MB",
+        "quality": ""
+      }
+    ],
+    "trailer": {
+      "video_id": "U0ztWWBI1uM",
+      "video_url": "https://www.youtube.com/watch?v=U0ztWWBI1uM",
+      "embed_url": "https://www.youtube.com/embed/U0ztWWBI1uM"
+    }
+  },
+  {
+    "metadata": "|2021||Comedy,Drama",
+    "rating": {
+      "rating": "6.1/10",
+      "rating_count": "2592"
+    },
+    "title": "Best Sellers (2021)",
+    "description": "Best Sellers (2021)==============IMDb Rating – 6.1/10ဖခင်ဖြစ်သူဆီကနေ စတန်းဘရစ်ပုံနှိပ်တိုက်ကိုအမွေရခဲ့ပေမဲ့ သူ့လက်ထက်ထုတ်ဝေတဲ့စာအုပ်တွေကလူတွေရဲ့ဝေဖန်မှုကိုခံရပြီး ပုံနှိပ်တိုက်ပါအခြေအနေယိုယွင်းလာခဲ့ပါတယ်။ အဲ့ဒီယိုယွင်းလာတဲ့ပုံနှိပ်ကိုကယ်ဖို့ လူစီတစ်ယောက်နောက်ဆုံးအကြံကိုထုတ်ရတော့တာပေါ့။ပုံနှိပ်တိုက်ပိုင် စာရေးဆရာကြီးကို ရရှိရေးပေါ့။ဒီလိုနဲ့ဟဲရစ်ရှောကို သူတို့စဉ်းစားမိခဲ့ကြတယ်။ ဟဲရစ်ရှောဆိုတာ “Atomic Autumn” ဆိုတဲ့စာအုပ်ကိုရေးခဲ့တဲ့စာရေးဆရာကြီး သူကအဲ့တစ်အုပ်ပဲရေးခဲ့ဖူးပေမဲ့ အဲ့တစ်အုပ်ကလည်းအဲ့အချိန်ကရောင်းအားအကောင်းဆုံးဖြစ်ခဲ့တယ်။ဒါပေမဲ့ အဲ့နောက်ပိုင်းစာမရေးတော့သလို လူတွေမြင်ကွင်းကပျောက်ကွယ်ခဲ့တာ နှစ်ပေါင်း(၅၀)ကြာသွားပြီဖြစ်တဲ့အပြင်…. သူ့အကြောင်းဇာတ်လမ်းတွေကလည်း ကောင်းတာမရှိတဲ့ အရက်သမား..လူတွေကိုမုန်းလို့တစ်ယောက်တည်းနေနေတဲ့လူ…စကားပြောရင်ရင့်သီးတဲ့လူ…သူစိတ်ထဲရှိသလိုနေထိုင်တဲ့သူ့ကို လူစီစတန်းဘရစ်တစ်ယောက် ဘယ်လိုစည်းရုံးမှာလဲ။သူတို့နှစ်ယောက်ရဲ့စာအုပ်အရောင်းမြှင့်တင်ရေးခရီးလေးကရော ဖြောင့်ဖြူးမှာရဲ့လား….လူစီတစ်ယောက် သူ့ပုံနှိပ်တိုက်ကိုကယ်တင်နိုင်မှာလား စတာတွေကို စိတ်ဝင်တစားကြည့်ရှူရမှာပါ။ဇာတ်လမ်းလေးက ဟဲရစ်ရှောရဲ့အဆဲလေးတွေနဲ့ရယ်ရသလို ဒရမ်မာလေးပါ နှောထားတော့ ရယ်လိုက်ငိုလိုက်ခံစားလိုက်နဲ့ဖြစ်သွားစေမဲ့ ဇာတ်လမ်းကောင်းလေးတစ်ပုဒ်ပါ။(ဒီဇာတ်လမ်းရဲ့ အညွှန်းကို Chit Tee မှရေးသားပေးပြီး။ ဘာသာပြန်ရေးသားပေးသူများကတော့ CM Team မှဖြစ်ပါတယ်။)Quality – 1080p, 720p, 360p WebRipDuration – 1h 40minSubtitle – Myanmar HardsubFormat – Mp4Genre : Comedy, DramaSource : 1080p.WebRipTranslator – CM TeamEncoder – SWM",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/646YoxvJ53gr0W1ZL5NS6ePNEgQ.jpg",
+      "https://image.tmdb.org/t/p/w300/oqtAlHqntNqjzDXbwu2KCkSkKxz.jpg",
+      "https://image.tmdb.org/t/p/w300/y1q9Ke4hwScAKx0zYjyuhNWqAeX.jpg",
+      "https://image.tmdb.org/t/p/w300/kXRAKwkL93LrkXXO5pSQWLdyUof.jpg",
+      "https://image.tmdb.org/t/p/w300/r3U2ngibdaQ4XQka1jHoV5VB2QS.jpg",
+      "https://image.tmdb.org/t/p/w300/hEh1TO66aNRR4XYudV5lt8CHZTU.jpg",
+      "https://image.tmdb.org/t/p/w300/pdwTHLwcIuhiEgvqHG7tW4LDSxe.jpg",
+      "https://image.tmdb.org/t/p/w300/6XFQYsXXMWDLfd6hHCtWFxHwu5r.jpg"
+    ],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2021/09/MV5BMjFhNzU3ZjEtZTc5ZS00MmVjLTg0OGMtODUzOGI0NzdmNDJmXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",
+    "movie_links": [
+      {
+        "link": "https://www.cmvipmembers.com/check-movies/best-sellers-2021",
+        "server": "VIP Links",
+        "size": "1.93 GB / 1.0 GB / 300 MB",
+        "quality": "WebRip 1080P 5.1CH / WebRip 720P / 360P"
+      },
+      {
+        "link": "https://yoteshinportal.cc/best-sellers-2021-1080-p-web-rip-dd-5-1-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "1.93 GB",
+        "quality": "WebRip 1080P 5.1CH"
+      },
+      {
+        "link": "https://megaup.net/Z4g4/Best.Sellers.2021.1080p.WEBRip.DD5.1[CM].mp4",
+        "server": "megaup.net",
+        "size": "1.93 GB",
+        "quality": "WebRip 1080P 5.1CH"
+      },
+      {
+        "link": "https://tubesb.com/2b1nc0lzby5o.html",
+        "server": "streamsb.com",
+        "size": "1.93 GB",
+        "quality": "WebRip 1080P 5.1CH"
+      },
+      {
+        "link": "https://mega.nz/file/tFwUnB5b#6QxdrzprUhtb0YFYmBs_I-683oBzvMTxN8JaBUHc9Cc",
+        "server": "mega.nz",
+        "size": "1.93 GB",
+        "quality": "WebRip 1080P 5.1CH"
+      },
+      {
+        "link": "https://disk.yandex.com/i/3t9Opl7EzicS3w",
+        "server": "disk.yandex.com",
+        "size": "1.93 GB",
+        "quality": "WebRip 1080P 5.1CH"
+      },
+      {
+        "link": "https://yoteshinportal.cc/best-sellers-2021-720-p-web-rip-dd-5-1-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "1.0 GB",
+        "quality": "WebRip 720P"
+      },
+      {
+        "link": "https://megaup.net/Z4fw/Best.Sellers.2021.720p.WEBRip.DD5.1[CM].mp4",
+        "server": "megaup.net",
+        "size": "1.0 GB",
+        "quality": "WebRip 720P"
+      },
+      {
+        "link": "https://tubesb.com/l0n3s1q60e6n.html",
+        "server": "streamsb.com",
+        "size": "1.0 GB",
+        "quality": "WebRip 720P"
+      },
+      {
+        "link": "https://mega.nz/file/QYpmCJ4D#TsuLbS7Oqnnq8lxnQECOsqwcFLHyF_cVto0QVHgsEtk",
+        "server": "mega.nz",
+        "size": "1.0 GB",
+        "quality": "WebRip 720P"
+      },
+      {
+        "link": "https://disk.yandex.com/i/uf2WGeBvaXj_9g",
+        "server": "disk.yandex.com",
+        "size": "1.0 GB",
+        "quality": "WebRip 720P"
+      },
+      {
+        "link": "https://usersdrive.com/k6tnriqbmlzi.html",
+        "server": "usersdrive.com",
+        "size": "1.0 GB",
+        "quality": "WebRip 720P"
+      },
+      {
+        "link": "https://yoteshinportal.cc/best-sellers-2021-360-p-web-rip-dd-5-1-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "300 MB",
+        "quality": "360P"
+      },
+      {
+        "link": "https://megaup.net/Z4g8/Best.Sellers.2021.360p.WEBRip.DD5.1[CM].mp4",
+        "server": "megaup.net",
+        "size": "300 MB",
+        "quality": "360P"
+      },
+      {
+        "link": "https://tubesb.com/1hkvafiv7t4v.html",
+        "server": "streamsb.com",
+        "size": "300 MB",
+        "quality": "360P"
+      },
+      {
+        "link": "https://mega.nz/file/BJxUFDyS#f1afPPRINuGq0r-uQnncJqJ44HPizf_TJ9b8BysW-6s",
+        "server": "mega.nz",
+        "size": "300 MB",
+        "quality": "360P"
+      },
+      {
+        "link": "https://disk.yandex.com/i/vWAU1rxqKZGlcw",
+        "server": "disk.yandex.com",
+        "size": "300 MB",
+        "quality": "360P"
+      },
+      {
+        "link": "https://usersdrive.com/0r6x28r8uner.html",
+        "server": "usersdrive.com",
+        "size": "300 MB",
+        "quality": "360P"
+      }
+    ],
+    "trailer": {
+      "video_id": "13ixGoK_MgY",
+      "video_url": "https://www.youtube.com/watch?v=13ixGoK_MgY",
+      "embed_url": "https://www.youtube.com/embed/13ixGoK_MgY"
+    }
+  }
+]

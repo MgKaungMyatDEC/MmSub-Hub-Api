@@ -1,0 +1,607 @@
+[
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "5.8/",
+      "rating_count": "6"
+    },
+    "title": "Kindred (2022)",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/nCy0y2zbHt8y7Behadt9SaYfE0Q.jpg",
+      "https://image.tmdb.org/t/p/w300/eKzMpD71e9KM7hfDSBJRJUAIRbo.jpg",
+      "https://image.tmdb.org/t/p/w300/9n1y65fxMFTlulrhAy0rEHmzejG.jpg"
+    ],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2022/12/ems-1.jpg",
+    "movie_links": [],
+    "trailer": {
+      "video_id": "ngCziP4MHEo",
+      "video_url": "https://www.youtube.com/watch?v=ngCziP4MHEo",
+      "embed_url": "https://www.youtube.com/embed/ngCziP4MHEo"
+    }
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "7.7/",
+      "rating_count": "9"
+    },
+    "title": "[18+] Class (2023)",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/h6lLioVCuRl6mqdU5yiEiEEDdi5.jpg",
+      "https://image.tmdb.org/t/p/w300/b3J5QSwk1BZiXlxMCyQh51uwKgR.jpg",
+      "https://image.tmdb.org/t/p/w300/vZQ4eGtzaplj6KjmqgF6bcvKKWu.jpg",
+      "https://image.tmdb.org/t/p/w300/8D2JXb7ohS32eOJZPmvz6go0oh2.jpg",
+      "https://image.tmdb.org/t/p/w300/pUJdFyob0kOAzBg6ohctGsrlFrW.jpg",
+      "https://image.tmdb.org/t/p/w300/4ORag450NzcwBtJyn5VQWORIrVj.jpg",
+      "https://image.tmdb.org/t/p/w300/ucS0sTOIWmVqB7s3en0OtRHoiHd.jpg",
+      "https://image.tmdb.org/t/p/w300/mvW0gYwPVqxUGsmeYjl6en2zGgo.jpg",
+      "https://image.tmdb.org/t/p/w300/cYGplDVklE5EKrn7Ii2yE5SnTWq.jpg",
+      "https://image.tmdb.org/t/p/w300/was0EbkR8pwdIaMUFWdxscWTkGn.jpg",
+      "https://image.tmdb.org/t/p/w300/7cnD2ZCBRjJeyYLjYimmV0nxZhC.jpg",
+      "https://image.tmdb.org/t/p/w300/iZ0eKrgjkbVOXspR2QNANixfP6v.jpg",
+      "https://image.tmdb.org/t/p/w300/xyyWfWK8wINW4rp4pjrBqj9bVUn.jpg",
+      "https://image.tmdb.org/t/p/w300/fJicSiwS8BrJuQWwtEfapM11oKB.jpg",
+      "https://image.tmdb.org/t/p/w300/1M91lmUYwT4s8zU3lvwkcXaP43X.jpg",
+      "https://image.tmdb.org/t/p/w300/by91lhtH1QQvup4s73goYELVMa6.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/vo3NJhf4pejh1EsqU2AXgmECMLT.jpg",
+    "movie_links": [],
+    "trailer": {
+      "video_id": "nuSMGtZhsAc",
+      "video_url": "https://www.youtube.com/watch?v=nuSMGtZhsAc",
+      "embed_url": "https://www.youtube.com/embed/nuSMGtZhsAc"
+    }
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "/",
+      "rating_count": ""
+    },
+    "title": "Solo Leveling (2024)",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/qEmHC7sV1lj3JHf5xQKshmGcq24.jpg",
+      "https://image.tmdb.org/t/p/w300/wjvqII4PF3VALHZaGcpZaM6Ysh9.jpg",
+      "https://image.tmdb.org/t/p/w300/zoMEFf9m3XZtnxHXGsJbGSgjKxx.jpg",
+      "https://image.tmdb.org/t/p/w300/cqk2jTcgybZYtS0Si8rMIhP85uf.jpg",
+      "https://image.tmdb.org/t/p/w300/lq7NCNKTMc2IRojfIiJ5BaYHLya.jpg",
+      "https://image.tmdb.org/t/p/w300/izZyFxZMkALVjByydxN3PO7dm3C.jpg",
+      "https://image.tmdb.org/t/p/w300/fjNwVhZHbuR0o4uzQzC9pYBhHjL.jpg",
+      "https://image.tmdb.org/t/p/w300/kWXZz0wxsDdMwYSLQaD5jTf27Ce.jpg",
+      "https://image.tmdb.org/t/p/w300/8DaWVJTUXdke1s7K2EyXRACqP2h.jpg",
+      "https://image.tmdb.org/t/p/w300/pVxHzLWKUOqR3RrSj2Sxwm2QNgB.jpg",
+      "https://image.tmdb.org/t/p/w300/spoiAiEjxoZ9GK3yQJtxpauHoT7.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
+    "movie_links": [],
+    "trailer": {
+      "video_id": "HkIKAnwLZCw",
+      "video_url": "https://www.youtube.com/watch?v=HkIKAnwLZCw",
+      "embed_url": "https://www.youtube.com/embed/HkIKAnwLZCw"
+    }
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "8.0/",
+      "rating_count": "4,432"
+    },
+    "title": "Dali and the Cocky Prince (2021)",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/l0jOSxFkHTMHaFLQAAuxlXEEUZX.jpg",
+      "https://image.tmdb.org/t/p/w300/sr2jLyHOwn2GMlU6NfDvyHFpVR6.jpg"
+    ],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2021/09/9GochFV6TQ6UnXmoAoFjunGRWez.jpg",
+    "movie_links": [],
+    "trailer": {
+      "video_id": "7fM5it4SFnA",
+      "video_url": "https://www.youtube.com/watch?v=7fM5it4SFnA",
+      "embed_url": "https://www.youtube.com/embed/7fM5it4SFnA"
+    }
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "/",
+      "rating_count": ""
+    },
+    "title": "I Feel You Linger in the Air (2023)",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/pDOt38BiG7BgE256LWd2nBalaRJ.jpg",
+      "https://image.tmdb.org/t/p/w300/xtUTBgBsYEBcMIDsGutiG0rgg2a.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/fCdHuywWdAgBtjVOOpaqVw3Kb5Z.jpg",
+    "movie_links": [],
+    "trailer": {
+      "video_id": "SZrg5Q0Y2T4",
+      "video_url": "https://www.youtube.com/watch?v=SZrg5Q0Y2T4",
+      "embed_url": "https://www.youtube.com/embed/SZrg5Q0Y2T4"
+    }
+  },
+  {
+    "metadata": "PG-13|2018|111 min|Comedy",
+    "rating": {
+      "rating": "5.6/10",
+      "rating_count": "6,042"
+    },
+    "title": "Night School (2018)",
+    "description": "၂၀၁၉ ႏွစ္သစ္အခ်ိန္အခါသမယေလးမွာ ေမွ်ာ္လင့္ခ်က္အသစ္ေတြယူေဆာင္လာေပးမယ့္ ေပ်ာ္ရႊင္စရာ ရယ္ေမာစရာ ဇာတ္ကားေလးတစ္ကား တင္ဆက္ေပးခ်င္ပါတယ္…Kevin Hart , Tiffany Haddish စတဲ့ နာမည္ၾကီး ဟာသသရုပ္ေဆာင္ေတြပါဝင္တဲ့အတြက္ ေပ်ာ္ရႊင္ရယ္ေမာရမယ္ဆိုတာကိုေတာ့ ၾကိဳေျပာထားခ်င္ပါတယ္။….တက္ဒီ ဆိုတဲ့ေကာင္ေလးတစ္ေယာက္ဟာ စာမၾကိဳးစားခ်င္ဘဲ အထက္တန္းေက်ာင္းကထြက္လာတဲ့ လူတစ္ေယာက္ျဖစ္ျပီးအျပင္ေလာကၾကီးကို စာသင္ေက်ာင္းသဖြယ္မွတ္ယူထားသူေပါ့…အထက္တန္းေက်ာင္းကေနထြက္ျပီး ၁၅ ႏွစ္ၾကာတဲ့အခ်ိန္မွာ ေအာင္ျမင္တဲ့အေရာင္းသမားတစ္ဦးအျဖစ္ရွိေနစဥ္ကာလမွာသူအလုပ္လုပ္ရာဆိုင္မွာ ေပါက္ကြဲမႈတစ္ခုျဖစ္ျပီး အလုပ္ကေနျပဳတ္ခဲ့ပါတယ္…အထက္တန္းလႊာက အင္ဂ်င္နီယာတစ္ေယာက္ကို ရည္းစားေတာ္ထားတဲ့ တက္ဒီဟာ သူ႕ရည္းစားစိတ္မပ်က္ရေလေအာင္ အလုပ္ရွာဖို႔ၾကိဳးစားပါေသာ္လည္းအထက္တန္းမေအာင္တဲ့သူ႔အတြက္ လစာေကာင္းတဲ့အလုပ္ေတြ မရနိုင္လို႔ အထက္တန္းေအာင္လက္မွတ္ရဖို႔ ဘယ္လိုေတြၾကိဳးစားအားထုတ္ခဲ့တယ္ဆိုတာ ျမင္ေတြ႔ရမွာပါ..။(ဇာတ္လမ္းအညႊန္းနဲ႔ ဘာသာျပန္ေပးထားသူကေတာ့ ကိုဇြဲခန္႕သြင္ပါ)File Size : (900 MB) and (400 MB)Quality : WEB-DL 720pRunning Time : 1h 51minFormat : Mp4Genre : ComedySubtitle : Myanmar Subtitle (Hard Sub)Source : 720p.WEB-DL.DD5.1.H264-CMRGTranslated by Zuel Khant ThwinEncoded by Thanhtike ZawYoteshin Linkကို Web Browserမှ ဒေါင်းမည့်သူများဒီလင့်မှာ loginအရင်ဝင်ထားပေးဖို့လိုအပ်ပါတယ်။Download Nulled Scripts and PluginsDownload Nulled Scripts and PluginsDirectorMalcolm D. LeeStarsAnne WintersBen SchwartzKeith DavidKevin HartMary Lynn RajskubMegalyn EchikunwokeRob RiggleTaran KillamTiffany HaddishYvonne OrjiCastAl MadrigalAnne WintersBen SchwartzBresha WebbBrian Kayode-Patrick JohnsonBrooke ButlerDavid DunstonDonna BiscoeFat JoeKeith DavidKevin HartMary Lynn RajskubMason GuccioneMatilda Del ToroMegalyn EchikunwokeMelissa LeEllenOwen HarnRob RiggleRomany MalcoTaran KillamTiffany HaddishYvonne Orji",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/jJBimY3DXIaIaL4NeGHfR0U0rSh.jpg",
+      "https://image.tmdb.org/t/p/w300/eiUO8svuxMv16wvZsxubNLb5wNL.jpg",
+      "https://image.tmdb.org/t/p/w300/lIgl1Y9DhTcvnqoFSsVtG7CgOij.jpg",
+      "https://image.tmdb.org/t/p/w300/vaTeqrB6Jox002UdAMIc1h4ExKf.jpg",
+      "https://image.tmdb.org/t/p/w300/bY1GBBcYKDkb8Uao1z1s9MIKV7D.jpg",
+      "https://image.tmdb.org/t/p/w300/1dDSULh0SQxCgNdPafbC0gWeIaY.jpg",
+      "https://image.tmdb.org/t/p/w300/rkTHU1gkIOZ7CZEEVWJwcEY8nde.jpg",
+      "https://image.tmdb.org/t/p/w300/7CWpvqVY5JWbEtkaenzqfJjVSal.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/uQVIQDc3foTPodZw0ie1Or0CXBn.jpg",
+    "movie_links": [
+      {
+        "link": "https://yoteshinportal.cc/night-school-2018-mm-sub-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "900 MB",
+        "quality": "WEB-DL 720p"
+      },
+      {
+        "link": "https://megaup.net/2eKao/Night_School_[2018]_(MM_Sub)_(2).mp4",
+        "server": "megaup.net",
+        "size": "900 MB",
+        "quality": "WEB-DL 720p"
+      },
+      {
+        "link": "https://upstream.to/gi67ccazbqrn",
+        "server": "upstream.to",
+        "size": "900 MB",
+        "quality": "WEB-DL 720p"
+      },
+      {
+        "link": "https://usersdrive.com/x7811897qf6t.html",
+        "server": "usersdrive.com",
+        "size": "900 MB",
+        "quality": "WEB-DL 720p"
+      }
+    ],
+    "trailer": {
+      "video_id": "t9QtXGirWf0",
+      "video_url": "https://www.youtube.com/watch?v=t9QtXGirWf0",
+      "embed_url": "https://www.youtube.com/embed/t9QtXGirWf0"
+    }
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "/",
+      "rating_count": ""
+    },
+    "title": "The Wife (2022)[Complete]",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/iYDRYXt4vtm41Va8WnKxZbkFRJ3.jpg"
+    ],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2022/12/photo_2022-12-14_23-11-33.jpg",
+    "movie_links": [],
+    "trailer": null
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "/",
+      "rating_count": ""
+    },
+    "title": "Double Love (2022)",
+    "description": "",
+    "screenshot_links": [],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/52RhWRcMkeyLMz1n1TAxWaPb3l4.jpg",
+    "movie_links": [],
+    "trailer": null
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "/",
+      "rating_count": ""
+    },
+    "title": "Samurai Rabbit: The Usagi Chronicles (2022)",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/h8XU9T6TVagMjQ2WCsVcBBobG4d.jpg",
+      "https://image.tmdb.org/t/p/w300/c2zAKpJkuPQ1R148NUNx5LS4Wpr.jpg",
+      "https://image.tmdb.org/t/p/w300/jLrFBQNXs8xlZSxPMqXObX31NL8.jpg",
+      "https://image.tmdb.org/t/p/w300/kd1bmVcrvCVNHC2xS0v2HQQoyTk.jpg",
+      "https://image.tmdb.org/t/p/w300/8XG7sNnoiAVIf4teM7CJnZaSR6k.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/wX9TmobwtIX8OCWJiG0tU8vsPmS.jpg",
+    "movie_links": [],
+    "trailer": {
+      "video_id": "gdvg_6cID0o",
+      "video_url": "https://www.youtube.com/watch?v=gdvg_6cID0o",
+      "embed_url": "https://www.youtube.com/embed/gdvg_6cID0o"
+    }
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "7.7/",
+      "rating_count": "48"
+    },
+    "title": "Most Dangerous Game (2021)",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/kZfpjUrNIxeg2W5yNCCXryLgik9.jpg",
+      "https://image.tmdb.org/t/p/w300/u9nKboOiOYPMROITESw9wINbtnn.jpg",
+      "https://image.tmdb.org/t/p/w300/w1dMn8B00U4IPAOcqFFFtD2ElvB.jpg",
+      "https://image.tmdb.org/t/p/w300/oS5FZxtxkVXQIUok4t0SN3pbe0J.jpg"
+    ],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2021/09/za29IzeL20fLNShWPjdH7nPmyjq.jpg",
+    "movie_links": [],
+    "trailer": {
+      "video_id": "Icv7FGqZCuA",
+      "video_url": "https://www.youtube.com/watch?v=Icv7FGqZCuA",
+      "embed_url": "https://www.youtube.com/embed/Icv7FGqZCuA"
+    }
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "10/",
+      "rating_count": "3"
+    },
+    "title": "The King: Eternal Monarch (2020)",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/kNjNEY4rRa7P1k44xbZD6NGCrSs.jpg",
+      "https://image.tmdb.org/t/p/w300/kbLyb7dgpi5lvg1mrMqf4JF9dVA.jpg",
+      "https://image.tmdb.org/t/p/w300/b7yAC3yhRxe3Uei6MSHkpaYBonQ.jpg"
+    ],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2020/04/7SLlbkzOJb8v9wXVYIcqozx2hxe.jpg",
+    "movie_links": [],
+    "trailer": {
+      "video_id": "DWRtVkheXVc",
+      "video_url": "https://www.youtube.com/watch?v=DWRtVkheXVc",
+      "embed_url": "https://www.youtube.com/embed/DWRtVkheXVc"
+    }
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "5.3/",
+      "rating_count": "13"
+    },
+    "title": "Barracuda Queens (2023)",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/n8RKiIcXG3WQeSrlJAUTpBj1NAG.jpg",
+      "https://image.tmdb.org/t/p/w300/ib8oVZJlhfmnMko4EJJVOnOVX52.jpg",
+      "https://image.tmdb.org/t/p/w300/91CRROJESc2VhONvM6DeSxX1msp.jpg",
+      "https://image.tmdb.org/t/p/w300/sc4wpkWM4MBcQrvQ1k8Kr5B1GCl.jpg",
+      "https://image.tmdb.org/t/p/w300/38tlmUU0HIZGHnwwRWir2yuhmqL.jpg",
+      "https://image.tmdb.org/t/p/w300/iCPAbOogQJwQa3a3o8cFxUwOxK4.jpg",
+      "https://image.tmdb.org/t/p/w300/6hjgFzAp9yR8OKSBMDIYocjTNe9.jpg",
+      "https://image.tmdb.org/t/p/w300/zt7uZxaB3OqnULXBWse6ja4hwBT.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/gnlWpchunjLzgFXt2KVJZT4Jonf.jpg",
+    "movie_links": [],
+    "trailer": {
+      "video_id": "lem5MklI5ow",
+      "video_url": "https://www.youtube.com/watch?v=lem5MklI5ow",
+      "embed_url": "https://www.youtube.com/embed/lem5MklI5ow"
+    }
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "/",
+      "rating_count": ""
+    },
+    "title": "Behind Your Touch (2023) [Complete]",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/sZvkElBCWiYNpVk3PsFlW64xkBh.jpg",
+      "https://image.tmdb.org/t/p/w300/k9PyXR553N4pmIJGnyqHKvzAl3G.jpg",
+      "https://image.tmdb.org/t/p/w300/2nUOoTVaNBnndWpkNiX0tZ4CJ9N.jpg",
+      "https://image.tmdb.org/t/p/w300/tWEzx8TnGjB0uAaTTSF4Mvlkkmh.jpg",
+      "https://image.tmdb.org/t/p/w300/kU9qcvS6VAJPqrzsuief9XJcETs.jpg",
+      "https://image.tmdb.org/t/p/w300/cJSFQ5KXZaWsNxkkHL8fNjMAzP9.jpg",
+      "https://image.tmdb.org/t/p/w300/rKWGlpMQyZtjlHKAf9ZL4qByIsw.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/yewQKAEyczmAut99u2ooI17O8GD.jpg",
+    "movie_links": [],
+    "trailer": {
+      "video_id": "9Q6-ydAwxec",
+      "video_url": "https://www.youtube.com/watch?v=9Q6-ydAwxec",
+      "embed_url": "https://www.youtube.com/embed/9Q6-ydAwxec"
+    }
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "7.2/",
+      "rating_count": "33"
+    },
+    "title": "Florida Man (2023)",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/mjakYvpRH2oIEhsmPRwiRADfdQE.jpg",
+      "https://image.tmdb.org/t/p/w300/59ixovemfBsBF0dL3IJ6JuULf57.jpg",
+      "https://image.tmdb.org/t/p/w300/hHVX3QknQiFcL5YuwF8YO0vUyWD.jpg",
+      "https://image.tmdb.org/t/p/w300/2tWJhbhpdKFFN0l4Rp6OWE0fWd0.jpg",
+      "https://image.tmdb.org/t/p/w300/z2CwqBhXDjxGAc9VfHswQxiXGrE.jpg",
+      "https://image.tmdb.org/t/p/w300/virbQfaNwFdfFYPWLq9w2J3h2FZ.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/bn4qHIxbmZOC4AqlDUbgcKYld7r.jpg",
+    "movie_links": [],
+    "trailer": {
+      "video_id": "Juyodtul_7s",
+      "video_url": "https://www.youtube.com/watch?v=Juyodtul_7s",
+      "embed_url": "https://www.youtube.com/embed/Juyodtul_7s"
+    }
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "/",
+      "rating_count": ""
+    },
+    "title": "All That We Loved (2023)",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/tVqklF9ixhbwX5wR9El7s2Vljqy.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/pioZKN9PG3LJIcDrU4wfrMwotPF.jpg",
+    "movie_links": [],
+    "trailer": null
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "4/",
+      "rating_count": "1"
+    },
+    "title": "[18+] Iskandalo (2022) Complete",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/j75JobGIRHaRKpL6tKOcTIipl2A.jpg",
+      "https://image.tmdb.org/t/p/w300/1dp0m29mfJw0oGa2u8ZtgFxVcC2.jpg",
+      "https://image.tmdb.org/t/p/w300/6rNh6sQGp9sj99GO2a8gRHPyNBC.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/5pz6xFxCMXVZprJLis9YEChk9WZ.jpg",
+    "movie_links": [],
+    "trailer": null
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "10/",
+      "rating_count": "1"
+    },
+    "title": "Love in Translation (2023)",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/2PyrCrSomSAITTqjy3uJnIWSHGM.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/jEFUM1qzHtLhnIr4dluEjmFjZ7o.jpg",
+    "movie_links": [],
+    "trailer": {
+      "video_id": "rYJqFiMdk-4",
+      "video_url": "https://www.youtube.com/watch?v=rYJqFiMdk-4",
+      "embed_url": "https://www.youtube.com/embed/rYJqFiMdk-4"
+    }
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "8/",
+      "rating_count": "10"
+    },
+    "title": "Hangout (2023)",
+    "description": "",
+    "screenshot_links": [],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2023/12/Hangout.jpg",
+    "movie_links": [],
+    "trailer": null
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "/",
+      "rating_count": ""
+    },
+    "title": "Kung Sanaeha (2022)",
+    "description": "",
+    "screenshot_links": [],
+    "thumbnail_link": "https://f.ptcdn.info/391/077/000/rcirl3dld8743GtGQgV-o.jpg",
+    "movie_links": [],
+    "trailer": null
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "/",
+      "rating_count": ""
+    },
+    "title": "The Player (2021)",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/jJkB7efjot9AsaeBcOr0jRQ4QwK.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/k1pOowUmdnqAIi8RnoLTII1r8hm.jpg",
+    "movie_links": [],
+    "trailer": null
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "7.5/",
+      "rating_count": "1200"
+    },
+    "title": "Dear X Who Doesn’t Love Me (2022)",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/xIyuNSufQqdotrJw0cwQ7kNgWj6.jpg"
+    ],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2022/07/To_X_Who_Doesnt_Love_Me-p2.jpg",
+    "movie_links": [],
+    "trailer": null
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "/",
+      "rating_count": ""
+    },
+    "title": "Marvel’s Jessica Jones Season [1+2 +3] (2015)",
+    "description": "",
+    "screenshot_links": [],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2023/03/insert-jones.jpg",
+    "movie_links": [],
+    "trailer": null
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "6.1/",
+      "rating_count": "14"
+    },
+    "title": "1670 (2023)",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/AfhDPw3x2WfMTfszcAVhngRWlA2.jpg",
+      "https://image.tmdb.org/t/p/w300/4UVd9nuO79sbTdil6ZmAqlC9Rjr.jpg",
+      "https://image.tmdb.org/t/p/w300/GwsBY8lSQDFeJqRks4ilHqqATh.jpg",
+      "https://image.tmdb.org/t/p/w300/a5YrRNU8A1xtmocqwvZUkYeiIi.jpg",
+      "https://image.tmdb.org/t/p/w300/fgsg0xj4SFKYV9MbXYThXS3jNA6.jpg",
+      "https://image.tmdb.org/t/p/w300/luUbyHiEUcsKnQaVxM1XEoCqkFh.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/5rpXPDCRDUDreordCidKlI1KkB8.jpg",
+    "movie_links": [],
+    "trailer": {
+      "video_id": "YH4UOa1f7mc",
+      "video_url": "https://www.youtube.com/watch?v=YH4UOa1f7mc",
+      "embed_url": "https://www.youtube.com/embed/YH4UOa1f7mc"
+    }
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "7.7/",
+      "rating_count": "3"
+    },
+    "title": "Typewriter (2019) Season 1 [COMPLETE]",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/21bzCLmK3g7B27aojzxZWW9hFww.jpg"
+    ],
+    "thumbnail_link": "",
+    "movie_links": [],
+    "trailer": {
+      "video_id": "mmyNUPvEF5M",
+      "video_url": "https://www.youtube.com/watch?v=mmyNUPvEF5M",
+      "embed_url": "https://www.youtube.com/embed/mmyNUPvEF5M"
+    }
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "/",
+      "rating_count": ""
+    },
+    "title": "Talay Luang (2021)",
+    "description": "",
+    "screenshot_links": [],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2021/01/p.jpg",
+    "movie_links": [],
+    "trailer": null
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "5/",
+      "rating_count": "12"
+    },
+    "title": "Club Friday Season 15 : Love and War (2023)",
+    "description": "",
+    "screenshot_links": [],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2023/10/Club-Friday_Love-and-War.jpg",
+    "movie_links": [],
+    "trailer": null
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "8/",
+      "rating_count": "1"
+    },
+    "title": "Boy For Rent (2019)",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/qsIu1DmL7is9DxdCscqzqjAn0oN.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/gYlWu7ZxnVlpQaw0bUA0xj0AQkl.jpg",
+    "movie_links": [],
+    "trailer": null
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "7.522/",
+      "rating_count": "23"
+    },
+    "title": "Chicago Typewriter(2017)[Complete]",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/f44Ykw0MnAcFvBeYhmdKekcX35J.jpg",
+      "https://image.tmdb.org/t/p/w300/rCTjAPIrHp0V03RFvfkmcemF4kh.jpg",
+      "https://image.tmdb.org/t/p/w300/gzEdbUDQh3PQMXIk2uf6CkkFGW.jpg",
+      "https://image.tmdb.org/t/p/w300/mjHcUszsOGguFaBsrT1PhH4tavb.jpg",
+      "https://image.tmdb.org/t/p/w300/qQ2XHByZir9x1EIud9AgCcfCM7F.jpg",
+      "https://image.tmdb.org/t/p/w300/j3VD5MKe3EjpWCWR7OOGqMNbkgc.jpg",
+      "https://image.tmdb.org/t/p/w300/aXPTVUk77qIjGnf6CeOK7uCgbp6.jpg",
+      "https://image.tmdb.org/t/p/w300/j4hSKcq4CaXpO64eAZKhUnl1stE.jpg",
+      "https://image.tmdb.org/t/p/w300/ckAsBCIEOCJuu8Vl3F5bXdQCw1I.jpg",
+      "https://image.tmdb.org/t/p/w300/eq1iA0IFHxUFKZPzDnqWGEISKEx.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/1FLgKAjoa4dY3z31nTjZj3Dgr6q.jpg",
+    "movie_links": [],
+    "trailer": null
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "5/",
+      "rating_count": "1"
+    },
+    "title": "Green Mothers’ Club (2022) [Complete]",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/dYWK9kLUAWaULPcW14E25spsagJ.jpg",
+      "https://image.tmdb.org/t/p/w300/9kEXDrGzoIjtRPICCQIZ1Mss4SF.jpg",
+      "https://image.tmdb.org/t/p/w300/mknJol8F6jZoOJkd4uKHUjShHMC.jpg",
+      "https://image.tmdb.org/t/p/w300/nxzEzS05WrLbXhUI58rUO6AJ2aG.jpg",
+      "https://image.tmdb.org/t/p/w300/kLI9bDEdPJ3jOrQg41lR0Wu2FVK.jpg",
+      "https://image.tmdb.org/t/p/w300/rVm5chnON9pma629jwZIvc3sD7k.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/mwBIvn4kNg2jOjnDUqbqcSELaYa.jpg",
+    "movie_links": [],
+    "trailer": null
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "7/",
+      "rating_count": "1"
+    },
+    "title": "Badi Heroine Banti Hai (2023)",
+    "description": "",
+    "screenshot_links": [],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2024/01/g.jpg",
+    "movie_links": [],
+    "trailer": null
+  }
+]

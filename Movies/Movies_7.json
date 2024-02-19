@@ -1,0 +1,774 @@
+[
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "/",
+      "rating_count": ""
+    },
+    "title": "Be the SMF (2022)",
+    "description": "",
+    "screenshot_links": [],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/2SadmpGquJHyD54olB6DFN39utU.jpg",
+    "movie_links": [],
+    "trailer": null
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "7.9/",
+      "rating_count": "21"
+    },
+    "title": "Maid(2021) Complete",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/yv5oliNUwu82JT1XUbz1WSKm18E.jpg",
+      "https://image.tmdb.org/t/p/w300/u4ydZotyPdOxSGAVUBiQnKLVwmz.jpg",
+      "https://image.tmdb.org/t/p/w300/zzZ1U0y3r0owZ8y0FIf7rMKKvZI.jpg",
+      "https://image.tmdb.org/t/p/w300/r4fRBNWRoLu92M7V2kq00muxAOq.jpg",
+      "https://image.tmdb.org/t/p/w300/smXMChskbO53DvVUsUTOcamnGnS.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/4brWcSXdH31BZUTtRTHj2BYFe6M.jpg",
+    "movie_links": [],
+    "trailer": {
+      "video_id": "tGtaHcqsSE8",
+      "video_url": "https://www.youtube.com/watch?v=tGtaHcqsSE8",
+      "embed_url": "https://www.youtube.com/embed/tGtaHcqsSE8"
+    }
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "6.571/",
+      "rating_count": "7"
+    },
+    "title": "The Devil Punisher (2020)",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/5Xb3lE6Rqix1p7ys62acWomTRUG.jpg",
+      "https://image.tmdb.org/t/p/w300/qFP9R7KlpKeNNmsKx2ZoGjRoCEU.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/jgfYU0zWySnyapKIv6bTq2QHgH1.jpg",
+    "movie_links": [],
+    "trailer": null
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "7.764/",
+      "rating_count": "104"
+    },
+    "title": "Queen Charlotte: A Bridgerton Story (2023)(18+)",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/dkKEpUCjGEFH5q3GcAGaWG3o2N2.jpg",
+      "https://image.tmdb.org/t/p/w300/2ARLlZLpC3IjA9VUjkDxGYny4TU.jpg",
+      "https://image.tmdb.org/t/p/w300/pIC1WLoll5nJjRbwHjJtCZ3LVal.jpg",
+      "https://image.tmdb.org/t/p/w300/92R2R75gIiVo32dIm0JUaIytpij.jpg",
+      "https://image.tmdb.org/t/p/w300/96nQnsBGGvXy4EcdifcyVi9QG7E.jpg",
+      "https://image.tmdb.org/t/p/w300/ypUomTgKi26PZs1kniq7DFhhMXT.jpg",
+      "https://image.tmdb.org/t/p/w300/uGOpeD4FkBbdrSUuIhPqADfmM5g.jpg",
+      "https://image.tmdb.org/t/p/w300/fUlVmnWbjRT3Z4IkE5cxlexOpRm.jpg",
+      "https://image.tmdb.org/t/p/w300/sL1T9QxKYS8uarIl4JipwarvpPq.jpg",
+      "https://image.tmdb.org/t/p/w300/1PSJ7kFXXEqnU246GgTP237Vqbr.jpg",
+      "https://image.tmdb.org/t/p/w300/fz8kNLprSpvKVucWXFteHwi6iUq.jpg",
+      "https://image.tmdb.org/t/p/w300/1XsMoWYLiEHoIvBzZ4elVqMVzWQ.jpg",
+      "https://image.tmdb.org/t/p/w300/aDemQRo8WXj9fNkHuCh0Ek51AyR.jpg",
+      "https://image.tmdb.org/t/p/w300/AsmNm6f83DpllBL4VxcxwTR6S5W.jpg",
+      "https://image.tmdb.org/t/p/w300/fkMaParOJ5TR1o0bU0x8KyDz8hD.jpg",
+      "https://image.tmdb.org/t/p/w300/kpQsqhyNfEHxPFsfgApFxHOsOJG.jpg",
+      "https://image.tmdb.org/t/p/w300/dJAHgjFSmZHLoicpHJDBZPqgoHD.jpg",
+      "https://image.tmdb.org/t/p/w300/uMf4oV8EmcRhjgv5b7hhRfKaLOm.jpg",
+      "https://image.tmdb.org/t/p/w300/uNeQnGZW08t9eCjquRcD5ZcytVN.jpg",
+      "https://image.tmdb.org/t/p/w300/bFKTjjSmBJ46AEMj4BnH16dCllP.jpg",
+      "https://image.tmdb.org/t/p/w300/lyEqnjasQqDJsSO95KL9eBTI0mA.jpg"
+    ],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2023/05/MV5BNWYwNzhhNzMtMWM2Yi00NzdlLTgxNmUtYWI2YTdiNmFmNzQwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg",
+    "movie_links": [],
+    "trailer": {
+      "video_id": "e1n7OqTLz50",
+      "video_url": "https://www.youtube.com/watch?v=e1n7OqTLz50",
+      "embed_url": "https://www.youtube.com/embed/e1n7OqTLz50"
+    }
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "8.496/",
+      "rating_count": "119"
+    },
+    "title": "Extraordinary You (2019)",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/39nJ2BsWvD0fD0IUaGaTDA01Vel.jpg",
+      "https://image.tmdb.org/t/p/w300/Ai7WRUBTrB1RhhHSsUaPTXndqbT.jpg",
+      "https://image.tmdb.org/t/p/w300/iZacfbHYxRKCpAbwQqYyJ86XEaY.jpg",
+      "https://image.tmdb.org/t/p/w300/zUaokgPiIksXeV6X0zpxOPzkO9j.jpg",
+      "https://image.tmdb.org/t/p/w300/a8QaGGqogwIhGOqsjJId9m73FEP.jpg",
+      "https://image.tmdb.org/t/p/w300/nMXdpPgZQRUjMM37kftA0u9EkGj.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/vse6Aq2BGz1CI2pa1JbOmyjXM37.jpg",
+    "movie_links": [],
+    "trailer": {
+      "video_id": "a_1Tf3Rhf6E",
+      "video_url": "https://www.youtube.com/watch?v=a_1Tf3Rhf6E",
+      "embed_url": "https://www.youtube.com/embed/a_1Tf3Rhf6E"
+    }
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "/",
+      "rating_count": ""
+    },
+    "title": "The Game Caterers",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/q1o1JehssonxPGRSpHCjmfAFMv3.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/oLMUpTxSKOh6SMeW2ISryGvPdTQ.jpg",
+    "movie_links": [],
+    "trailer": null
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "7/",
+      "rating_count": "10"
+    },
+    "title": "Hello Happy (2023)",
+    "description": "",
+    "screenshot_links": [],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2023/11/Hello-Happy.jpg",
+    "movie_links": [],
+    "trailer": null
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "8.7/",
+      "rating_count": "298"
+    },
+    "title": "What If…? – Season (01), (02)",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/jnzoh5qoxRLFRIQAxnl6D3RStPC.jpg",
+      "https://image.tmdb.org/t/p/w300/h8rpNvqVVmZir3eZyoYoQoO9XMV.jpg"
+    ],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2021/10/MV5BYmZmMWJiODMtNDcyOC00NDMwLWIwNmQtZGYzYzgwZjJkMTM1XkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_FMjpg_UX1000_.jpg",
+    "movie_links": [],
+    "trailer": {
+      "video_id": "IPjjbhAJyZM",
+      "video_url": "https://www.youtube.com/watch?v=IPjjbhAJyZM",
+      "embed_url": "https://www.youtube.com/embed/IPjjbhAJyZM"
+    }
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "6.9/",
+      "rating_count": "2500"
+    },
+    "title": "The Winchesters Season 1 (2022)",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/w0koBxCVZ71kXm7NyxV0hihxFOG.jpg",
+      "https://image.tmdb.org/t/p/w300/nR1KXRsOFIs3Vje2CW8T5qh5Q3h.jpg",
+      "https://image.tmdb.org/t/p/w300/kGXNlhU9YBfchZlr1Ju7RivzeGC.jpg",
+      "https://image.tmdb.org/t/p/w300/bzx2lT1AKj1R5m6ENhx3kYj986E.jpg",
+      "https://image.tmdb.org/t/p/w300/uDOHna1qGCDLHie9agFUCroZsZj.jpg",
+      "https://image.tmdb.org/t/p/w300/4aya5Zb7ooBtHD3nuqigXCgym8Q.jpg",
+      "https://image.tmdb.org/t/p/w300/99PRqKTGQ1ILUfzNMiLIpTk8qWg.jpg",
+      "https://image.tmdb.org/t/p/w300/39nRj32vdJgOfxxvFfBC5dBhiIV.jpg"
+    ],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2022/10/MV5BMjc0NjJhOWItOWEzYi00MjM0LWIzNjMtZTM5MTE5YWY2OTJkXkEyXkFqcGdeQXVyMTMxODQ2MjI4._V1_FMjpg_UX1000_.jpg",
+    "movie_links": [],
+    "trailer": {
+      "video_id": "Usysl2ONwBk",
+      "video_url": "https://www.youtube.com/watch?v=Usysl2ONwBk",
+      "embed_url": "https://www.youtube.com/embed/Usysl2ONwBk"
+    }
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "5.929/",
+      "rating_count": "14"
+    },
+    "title": "Tale of Arang (2012) [Complete]",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/fmOlrwJBL4y469THV74O3ZM85RB.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/iJHXtvRhzQUPf3EzYcMmOUOZXbc.jpg",
+    "movie_links": [],
+    "trailer": null
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "/",
+      "rating_count": ""
+    },
+    "title": "Unpredictable Family(2023)",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/4W2sH4CXzJ98ScuLGRij1KakzSv.jpg",
+      "https://image.tmdb.org/t/p/w300/gbB5GXaA5ETyDePdepjr3tjnTPe.jpg",
+      "https://image.tmdb.org/t/p/w300/9UorQS85XTttP37k1UEMtTudyJz.jpg",
+      "https://image.tmdb.org/t/p/w300/8UMl10dgKnbC86L8x0VNLx7bjsp.jpg",
+      "https://image.tmdb.org/t/p/w300/oEJ4xTlHdl9czKCCIdTVxjSTp.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/goMzJ6rxTndGki2pKpyAKuKNXHY.jpg",
+    "movie_links": [],
+    "trailer": {
+      "video_id": "nOP86v8iOWQ",
+      "video_url": "https://www.youtube.com/watch?v=nOP86v8iOWQ",
+      "embed_url": "https://www.youtube.com/embed/nOP86v8iOWQ"
+    }
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "/",
+      "rating_count": ""
+    },
+    "title": "The Legend Of Zhu (2015)",
+    "description": "",
+    "screenshot_links": [],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2017/04/D45XVzg3_25dbf7_c2x.jpg",
+    "movie_links": [],
+    "trailer": null
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "2/",
+      "rating_count": "1"
+    },
+    "title": "All the Liquors (2023)",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/mnWIQWSO7Zd5dml0Nskt6eeITbp.jpg",
+      "https://image.tmdb.org/t/p/w300/2P5oYWYxZcFfay696hmJMGigsyf.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/fHzb5kfekz59iByCzFjP5PfAAT7.jpg",
+    "movie_links": [],
+    "trailer": {
+      "video_id": "Ssxkp77x8CM",
+      "video_url": "https://www.youtube.com/watch?v=Ssxkp77x8CM",
+      "embed_url": "https://www.youtube.com/embed/Ssxkp77x8CM"
+    }
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "/",
+      "rating_count": ""
+    },
+    "title": "Tracer (2022)",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/xbGz71jSotNzwuQ32EAQXHMcGfA.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/7fNLdTTodxYoBKiwVlgRmEMNaXZ.jpg",
+    "movie_links": [],
+    "trailer": {
+      "video_id": "hvR_NHACqVo",
+      "video_url": "https://www.youtube.com/watch?v=hvR_NHACqVo",
+      "embed_url": "https://www.youtube.com/embed/hvR_NHACqVo"
+    }
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "/",
+      "rating_count": ""
+    },
+    "title": "The Day After We Break Up (2016)",
+    "description": "",
+    "screenshot_links": [],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2017/05/6iyhiyd0eesm.jpg",
+    "movie_links": [],
+    "trailer": null
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "8/",
+      "rating_count": "25"
+    },
+    "title": "The Last Days of Ptolemy Grey (2023)",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/8D0I0OEtBln0OTUNcBjPd9udeNN.jpg",
+      "https://image.tmdb.org/t/p/w300/AcwXHmBy8bQun49AWhUY4GjOmOD.jpg",
+      "https://image.tmdb.org/t/p/w300/5hrwWUt1Ger9XMWPwPbQ01pbril.jpg",
+      "https://image.tmdb.org/t/p/w300/bbVsHMmKt7FSFPiXqSnKpjYmdyh.jpg",
+      "https://image.tmdb.org/t/p/w300/rFXQNq7wwce5kZ8xAFFGVdOPJhE.jpg",
+      "https://image.tmdb.org/t/p/w300/BZkPqxVdmbbSDlMNLGQtSAehgd.jpg",
+      "https://image.tmdb.org/t/p/w300/hYZTNlk3g4P59bGQ3j1S4s2ulde.jpg",
+      "https://image.tmdb.org/t/p/w300/6VfaUwGYJDbwmtPa4CYYQ5U8UNr.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/r82gsvG8sAX6V3gWZL5hgVvu8un.jpg",
+    "movie_links": [],
+    "trailer": {
+      "video_id": "FTSCflPR4Wk",
+      "video_url": "https://www.youtube.com/watch?v=FTSCflPR4Wk",
+      "embed_url": "https://www.youtube.com/embed/FTSCflPR4Wk"
+    }
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "/",
+      "rating_count": ""
+    },
+    "title": "Love in Spring (2022)",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/5HQQogtEBSMej43JD7kdtS6IHV7.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/5mL7DxTmQ807itLeDxQdAPPLrkc.jpg",
+    "movie_links": [],
+    "trailer": null
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "/",
+      "rating_count": ""
+    },
+    "title": "Seisyun Cinderella (2022)",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/AbgxaWeGocuEq9eWMQojQchYZjd.jpg"
+    ],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2022/10/Seishun-Cinderella-2022.png",
+    "movie_links": [],
+    "trailer": null
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "/",
+      "rating_count": ""
+    },
+    "title": "The Spy (2019) Season 1 [COMPLETE]",
+    "description": "",
+    "screenshot_links": [],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2019/10/MV5BM2ZmYjUxZDYtMmZlMi00YjlkLTkwNTItMjcxZDRlOTI3ZTNmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR006751000_AL_.jpg",
+    "movie_links": [],
+    "trailer": null
+  },
+  {
+    "metadata": "|2022||Thriller",
+    "rating": {
+      "rating": "5.0/10",
+      "rating_count": "1200"
+    },
+    "title": "Killer Stepmom (2022)",
+    "description": "Killer Stepmom (2022)=================အဖေနဲ့ အမေက ကွာရှင်းထားပြီး အဖေက မိန်းမငယ်ငယ်လေး ယူထားလို့ စိတ်တွေပျက် အရွဲ့တိုက်နေတဲ့ ဆယ်ကျော်သက် ကောင်မလေးတစ်ယောက်။ မကြာခင်မှာ ကောလိပ်တက်ရတော့မယ် ဒါပေမဲ့လည်း လောကကြီးကို မထီမဲ့မြင်လုပ်ရင်း သူများတွေကို လျှောက်လိမ်ညာရင်း ကိုယ့်ဘဝကိုယ် ဖျက်သလို ဖြစ်နေတာပေါ့။ နှစ်ဖက်မိဘကလည်း သူပြောသမျှဆိုဘာတစ်ခုမှ မယုံရလောက်အောင်ကို အယုံအကြည်ကင်းမဲ့နေကြတာပါ။အဲဒီအချိန်မှာလည်း အမေ့အိမ်တစ်လှည့် အဖေ့အိမ်တစ်လှည့် နေနေရင်းထူးဆန်းတဲ့အဖြစ်ပျက် ကြုံရပါတော့တယ်။အဖေ ကျေနပ်အောင် မိထွေးနဲ့ အပြင်လျှောက်လည်ပေးရာက သူစိမ်းတစ်ယောက်က မိထွေးကို အတင်းလိုက်ခေါ်တာကို မိထွေးက လူမှားနေပါတယ်ဆိုတာမျိုး၊ ဆိုင်ထဲ ကော်ဖီဝယ်နေတုန်း မိထွေးနဲ့ လူစိမ်း စကားများနေတာမျိုး ပိုဆိုးတာ ညသန်းခေါင်ကျ မိထွေးက ခိုးထွက်သွားလို့ လိုက်ချောင်းရာကနေ လူသတ်တာကိုပါ တွေ့လိုက်ရတဲ့အခါမှာတော့… သူပြောတဲ့စကားတွေကို မိဘနှစ်ပါးက ယုံပါ့မလား၊ မိထွေးကလည်း တကယ်သတ်တာလား ဘာတွေဖြစ်မလဲ စောင့်ကြည့်ရမယ့် သည်းထိတ်ရင်ဖိုကား တစ်ကားဖြစ်ပါတယ်။(ဒီဇာတ်လမ်းရဲ့အညွှန်းနဲ့ ဘာသာပြန်ရေးသားပေးသူကတော့Thura Aung ဖြစ်ပါတယ်)File Size……….(1.58 GB) / (516 MB) / (300 MB)Quality…………WEB-DL 1080p / 720p / 480pDuration………1Hr 24MinSubtitle………..Myanmar HardsubFormat…………MP4Genre…………..ThrillerTranslator…….Thura AungEncoder……….SWMYoteshin Linkကို Web Browserမှ ဒေါင်းမည့်သူများဒီလင့်မှာ loginအရင်ဝင်ထားပေးဖို့လိုအပ်ပါတယ်။Download Nulled Scripts and PluginsDownload Nulled Scripts and PluginsDirectorRichard SwitzerCastAlison RobertsonAmanda FernandezCapri-Antoine VaillancourtD.C. DouglasEddy LeeJillian MurrayJohn J. JordanJohn K. FrazierJon BriddellJulia TerranovaLisa LongMike CaravellaRebecca Ritz",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/zp9Qvodeq5MbmLNNwFqNq0TbLxC.jpg",
+      "https://image.tmdb.org/t/p/w300/heftJgEKVhyDuDn7oObTG8QCefu.jpg",
+      "https://image.tmdb.org/t/p/w300/yAUePIT5lkeL2j5R9fue2p2CIED.jpg",
+      "https://image.tmdb.org/t/p/w300/cTi6cASmONciZJ1co1FdCxlQFra.jpg",
+      "https://image.tmdb.org/t/p/w300/rtJ9hl6VWw8FFQqdxtHPmaZjwbs.jpg"
+    ],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2023/06/MV5BYzY3YTBmNzAtM2Q4YS00ZTM4LWJiNDItMGZlZDJiMTljMGQ0XkEyXkFqcGdeQXVyNTQyODQ0ODA@._V1_FMjpg_UX1000_.jpg",
+    "movie_links": [
+      {
+        "link": "https://yoteshinportal.cc/killer-stepmom-2022-1080-p-amzn-web-dl-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "1.58 GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://megaup.net/1UPno/Killer.Stepmom.2022.10https://megaup.net/2AMP2/Killer.Sthttps://megaup.net/1UPno/Killer.Stepmom.2022.1080p.AMZN.WEB-DL.(CM).mp4EB-DL.(CM).mp4MZN.WEB-DL.(CM).mp4",
+        "server": "megaup.net",
+        "size": "1.58 GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://sblona.com/i9zqootktz3j.html",
+        "server": "streamsb.com",
+        "size": "1.58 GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://mega.nz/file/Mn9UmQrS#7lnMKy43cDJNolb9tsu5vbrMjbB8YxEGf9V7gTdt51U",
+        "server": "mega.nz",
+        "size": "1.58 GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://usersdrive.com/l9swnzt0rrzr.html",
+        "server": "usersdrive.com",
+        "size": "1.58 GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://streamvid.net/j1zcnyjuj4lv",
+        "server": "streamvid.io",
+        "size": "1.58 GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://yoteshinportal.cc/killer-stepmom-2022-720-p-amzn-web-dl-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "516 MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://megaup.net/1UPno/Killer.Stepmom.2022.1080p.AMZN.WEB-DL.(CMhttps://megaup.net/2AMP2/Killer.Stepmom.2022.720p.AMZN.WEB-DL.(CM).mp4).mp4",
+        "server": "megaup.net",
+        "size": "516 MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://sblona.com/czfzo5t7up7j.html",
+        "server": "streamsb.com",
+        "size": "516 MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://mega.nz/file/UzckjbyD#SQusJUHWOqItOU7R_-TXCjXXP0AVYG6yiSNNxcIk338",
+        "server": "mega.nz",
+        "size": "516 MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://usersdrive.com/k1sdwpw76uam.html",
+        "server": "usersdrive.com",
+        "size": "516 MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://streamvid.net/j1zcnyjuj4lv",
+        "server": "streamvid.io",
+        "size": "516 MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://yoteshinportal.cc/killer-stepmom-2022-480-p-amzn-web-dl-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "300 MB",
+        "quality": "480p"
+      },
+      {
+        "link": "https://megaup.net/2AMP2/Killer.Stepmom.2022.720p.AMZN.WEB-DL.(CM).mp4",
+        "server": "megaup.net",
+        "size": "300 MB",
+        "quality": "480p"
+      },
+      {
+        "link": "https://sblona.com/czfzo5t7up7j.html",
+        "server": "streamsb.com",
+        "size": "300 MB",
+        "quality": "480p"
+      },
+      {
+        "link": "https://mega.nz/file/Fj0XkSAR#amcce6TvMo_duN__OpKEiT3sRhNvePL-XvaHzUILxus",
+        "server": "mega.nz",
+        "size": "300 MB",
+        "quality": "480p"
+      },
+      {
+        "link": "https://usersdrive.com/k1sdwpw76uam.html",
+        "server": "usersdrive.com",
+        "size": "300 MB",
+        "quality": "480p"
+      },
+      {
+        "link": "https://streamvid.net/oa7iuiob4wkc",
+        "server": "streamvid.io",
+        "size": "300 MB",
+        "quality": "480p"
+      }
+    ],
+    "trailer": {
+      "video_id": "CB5cF4BuVyo",
+      "video_url": "https://www.youtube.com/watch?v=CB5cF4BuVyo",
+      "embed_url": "https://www.youtube.com/embed/CB5cF4BuVyo"
+    }
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "7.3/",
+      "rating_count": "740"
+    },
+    "title": "Lucifer Season 1 [COMPLETE]",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/6kZCuvbirx6ibJfaWqwV2p90yPI.jpg",
+      "https://image.tmdb.org/t/p/w300/mcj4ZAh1WlswDx5i0xK1VIV03W7.jpg",
+      "https://image.tmdb.org/t/p/w300/vauFEN12Exuck3nO9WWmjB1R5cJ.jpg",
+      "https://image.tmdb.org/t/p/w300/3gHkTjLhOrLdZ3qb39Mld4nU7ch.jpg",
+      "https://image.tmdb.org/t/p/w300/AjD3BHgxj9M3qnbjXAnIUTZi3KS.jpg",
+      "https://image.tmdb.org/t/p/w300/z39DbQZjNjIZouZZ7vKHkvl9yWt.jpg",
+      "https://image.tmdb.org/t/p/w300/itjsTY18tigrSslevHPF9nUKCQp.jpg",
+      "https://image.tmdb.org/t/p/w300/r7WaTxH6W54i1YrIJbywe3gFIWt.jpg",
+      "https://image.tmdb.org/t/p/w300/ta5oblpMlEcIPIS2YGcq9XEkWK2.jpg",
+      "https://image.tmdb.org/t/p/w300/faGi43pKQt7DCIJyILN31sgVuPz.jpg",
+      "https://image.tmdb.org/t/p/w300/zXcGhteIjRH2qjOpwYgLSpVri8P.jpg",
+      "https://image.tmdb.org/t/p/w300/1dw5jyTrGo9uazTg8u9x3pUehkA.jpg",
+      "https://image.tmdb.org/t/p/w300/qX2FYHPBBEh7aGrS0ZPFhuSQ5Mn.jpg",
+      "https://image.tmdb.org/t/p/w300/jblam4RaX4nuuAA4EbHeWljxMPk.jpg",
+      "https://image.tmdb.org/t/p/w300/gPneISoSj3wO1HhuEQy5x2xvPMn.jpg"
+    ],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2018/05/lucifer-poster-fox_FULL.jpg",
+    "movie_links": [],
+    "trailer": {
+      "video_id": "X4bF_quwNtw",
+      "video_url": "https://www.youtube.com/watch?v=X4bF_quwNtw",
+      "embed_url": "https://www.youtube.com/embed/X4bF_quwNtw"
+    }
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "10/",
+      "rating_count": "1"
+    },
+    "title": "Twilight ( 2023 )",
+    "description": "",
+    "screenshot_links": [],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/scWO6QRf2xFWvJWtnUcnkqVPvmb.jpg",
+    "movie_links": [],
+    "trailer": null
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "5.7/",
+      "rating_count": "18"
+    },
+    "title": "Deadloch (2023)",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/llIhZpxagZkooJq0KedHMIkIpWH.jpg",
+      "https://image.tmdb.org/t/p/w300/nbTTLP4JWzQ1ZpHmAgf7UgUDZUv.jpg",
+      "https://image.tmdb.org/t/p/w300/tTohr9ZvYWc50GlJMfTrtez32M4.jpg",
+      "https://image.tmdb.org/t/p/w300/n58Py8VN2Z677AslZyfc3Aj3uUI.jpg",
+      "https://image.tmdb.org/t/p/w300/sSgwPQDhWKgkoYD1MLYPfh69G0a.jpg",
+      "https://image.tmdb.org/t/p/w300/hGCwSPBVTkatEb1YbxW986nvMcK.jpg",
+      "https://image.tmdb.org/t/p/w300/rfpFPqBicVF6FUR10SxxEhv7xph.jpg",
+      "https://image.tmdb.org/t/p/w300/wzU3MNtfAj3zITgT6uQsHaoDIGj.jpg",
+      "https://image.tmdb.org/t/p/w300/u7tW2pXHcyeVLxCsGUlr5JScCv9.jpg",
+      "https://image.tmdb.org/t/p/w300/6H422ecsTVm1CnupZ7UclzAKiXk.jpg",
+      "https://image.tmdb.org/t/p/w300/2qMQ5SW57FPwvITqBKxgM8LQO8W.jpg",
+      "https://image.tmdb.org/t/p/w300/fVXpczfmgo2oZeBdvMGt4B9twed.jpg",
+      "https://image.tmdb.org/t/p/w300/iyj3Pzw9fMgCeAaN5Rog13qZPaW.jpg",
+      "https://image.tmdb.org/t/p/w300/p1o5CXNXgKgXaovIxOL3fxjhnLU.jpg",
+      "https://image.tmdb.org/t/p/w300/nWALvMsNs8RxRHxbKSxakVRc9bF.jpg",
+      "https://image.tmdb.org/t/p/w300/4rqniELFDAYVaHT3fQz5l7BU8Pd.jpg",
+      "https://image.tmdb.org/t/p/w300/kH0PLUrxjQujvemnAdygoV6YZ5O.jpg",
+      "https://image.tmdb.org/t/p/w300/653QNSDABGUBDfu61ItfLbpZBLn.jpg",
+      "https://image.tmdb.org/t/p/w300/uccNY1EwncnoBbaLhXeAGuHEzGF.jpg",
+      "https://image.tmdb.org/t/p/w300/6fzOuvtQAfeISW49eAEYaNoNX4X.jpg",
+      "https://image.tmdb.org/t/p/w300/fHVnwV61E4WCyX0uKNh3xIb3weN.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/fYNBOOgEnaPTwZQdpdVMUGJDcYT.jpg",
+    "movie_links": [],
+    "trailer": {
+      "video_id": "PRYlkqIK_4A",
+      "video_url": "https://www.youtube.com/watch?v=PRYlkqIK_4A",
+      "embed_url": "https://www.youtube.com/embed/PRYlkqIK_4A"
+    }
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "8/",
+      "rating_count": "1"
+    },
+    "title": "Midnight Mass(2021)",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/61KEbuIc66BdlHyUcROcN480cgr.jpg",
+      "https://image.tmdb.org/t/p/w300/xuxRwiDsKhq6NNJSfBpTvug087h.jpg",
+      "https://image.tmdb.org/t/p/w300/70XjItZU5OgHk3JRwjJPkpzPxo7.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/iYoMZYVD775MtBYJfv6OGY1FsnL.jpg",
+    "movie_links": [],
+    "trailer": {
+      "video_id": "y-XIRcjf3l4",
+      "video_url": "https://www.youtube.com/watch?v=y-XIRcjf3l4",
+      "embed_url": "https://www.youtube.com/embed/y-XIRcjf3l4"
+    }
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "6.583/",
+      "rating_count": "29"
+    },
+    "title": "Karen Pirie (2022)",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/nZrQGyPhCZNqaYraR3HV2Uw4fQi.jpg",
+      "https://image.tmdb.org/t/p/w300/wsTfTQY3fkUHRm9Pv0yZvxeM6bA.jpg",
+      "https://image.tmdb.org/t/p/w300/5E22bgbzS23yVxM7fTtSwTnHHfO.jpg",
+      "https://image.tmdb.org/t/p/w300/kG7Gd9tDMC6fwjiUcBBE8g1tNei.jpg"
+    ],
+    "thumbnail_link": "https://channelmyanmar.org/wp-content/uploads/2023/10/MV5BMmFiMTNhNTQtNjgyMy00Y2EwLTk5YjEtNTU5NmYyOTg3ZWM1XkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_FMjpg_UX1000_.jpg",
+    "movie_links": [],
+    "trailer": {
+      "video_id": "XZMNCJa-ck4",
+      "video_url": "https://www.youtube.com/watch?v=XZMNCJa-ck4",
+      "embed_url": "https://www.youtube.com/embed/XZMNCJa-ck4"
+    }
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "7/",
+      "rating_count": "1"
+    },
+    "title": "Pegasus Market(2019)[Complete]",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/ueCn0S6nxUWRQfdSmnrs1yXKMsr.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/4W6OAnVNNEpZPUiUUaCljVXPgaq.jpg",
+    "movie_links": [],
+    "trailer": null
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "5.5/",
+      "rating_count": "13"
+    },
+    "title": "High Seas (2019) Season 2 [COMPLETE]",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/ggnl4LfAWzT5lSsAFUre1WWZMM2.jpg",
+      "https://image.tmdb.org/t/p/w300/ueKrhyRTbgLeEK6UhcibhQAIz0h.jpg",
+      "https://image.tmdb.org/t/p/w300/aw0twV0Ufa52GpkvmYY9NNh2pRy.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/lzrnCDxQDvciVPWH9idxKRNaLKk.jpg",
+    "movie_links": [],
+    "trailer": {
+      "video_id": "jxyXAXxRhKs",
+      "video_url": "https://www.youtube.com/watch?v=jxyXAXxRhKs",
+      "embed_url": "https://www.youtube.com/embed/jxyXAXxRhKs"
+    }
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "8.5/",
+      "rating_count": "2"
+    },
+    "title": "Our Flag Means Death (2022) (Complete)",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/nBxz9MzZMIRgA9Ohnw9gE94HQz4.jpg",
+      "https://image.tmdb.org/t/p/w300/qRcLaEPxROHBANCJuJ3rz6PVRSj.jpg",
+      "https://image.tmdb.org/t/p/w300/c5JiMj0Wz7JpvYuE2AlQ5ajOrUj.jpg",
+      "https://image.tmdb.org/t/p/w300/dwIvbN88uOgaQx9clTyglR6zwQ5.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/9jgmWIdK0kjjtBqEZntfSDWTgr9.jpg",
+    "movie_links": [],
+    "trailer": {
+      "video_id": "xFE8ASwxmpA",
+      "video_url": "https://www.youtube.com/watch?v=xFE8ASwxmpA",
+      "embed_url": "https://www.youtube.com/embed/xFE8ASwxmpA"
+    }
+  },
+  {
+    "metadata": "|||",
+    "rating": {
+      "rating": "7.9/",
+      "rating_count": "34"
+    },
+    "title": "Anatomy of a Scandal (2022)",
+    "description": "",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/8zPoUJECL6X8G5T95OuJDorHdtV.jpg",
+      "https://image.tmdb.org/t/p/w300/kzg7sE6CMsJi9HbBcijJ3Hut8xk.jpg",
+      "https://image.tmdb.org/t/p/w300/tqxeUczxEkNZ74r7kxNvWq7qQeR.jpg",
+      "https://image.tmdb.org/t/p/w300/7R1J5FtgEydE6qSIrH8Bx7bJv8A.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/e1pUQkXbFNI6xH4oDuHnyJoOSib.jpg",
+    "movie_links": [],
+    "trailer": {
+      "video_id": "M1UGGZnHyf8",
+      "video_url": "https://www.youtube.com/watch?v=M1UGGZnHyf8",
+      "embed_url": "https://www.youtube.com/embed/M1UGGZnHyf8"
+    }
+  },
+  {
+    "metadata": "||1h 37 min|Comedy,Drama",
+    "rating": {
+      "rating": "5.7/10",
+      "rating_count": "245"
+    },
+    "title": "Hi Brother ( 2023 )",
+    "description": "ဒီ movie လေးကတော့ ဟာသကားတွေ ကြိုက်တတ်တဲ့ ပရိတ်သတ်ကြီးအတွက်အစအလယ်အဆုံး ဗိုက်နှိပ်ပြီးရယ်နေရမဲ့ ဟာသဇာတ်ကားကောင်းလေးပဲဖြစ်ပါတယ် ။ဇာတ်လမ်းအကျဉ်းလေးကတော့ –အရက်စက်ရုံရဲ့ပိုင်ရှင်ဖြစ်တဲ့ ဝမ်လေတစ်ယောက် ကံကောင်းထောက်မစွာနဲ့ယွမ်သိန်း၁၀၀ ထီကြီးကိုပေါက်ခဲ့ပါတယ် ။ ထီပေါက်တဲ့အချိန်ကသူ့မိန်းမနဲ့ကတောက်ကဆဖြစ်နေခဲ့တဲ့အချိန်မို့သူကထီပေါက်သွားတဲ့အကြောင်းကို လျို့ဝှက်ထားခဲ့ပါတယ် ။ဒီလိုနဲ့အကြောင်းအရင်းအမျိုးမျိုး‌ကြောင့် ထီပေါက်တဲ့သူနာမည်ကိုသူ့သူငယ်ချင်းဖြစ်သူ လီသာ့ကျစ်‌အဖြစ်ဟန်ဆောင်ခိုင်းလိုက်ချိန်မှာတော့….ချစ်သူကိုလက်ထပ်ချင်နေတဲ့ လီသာ့ကျစ်ကရော ဒီထီပေါက်တယ်ဆိုတဲ့နာမည်အတုနဲ့ဘယ်လိုတွေဆက်ဖြစ်မလဲ ? ဝမ်လေရဲ့ ဇနီးဖြစ်သူ‌ကရောဘယ်လိုအရှုပ်တွေလုပ်အုံးမလဲ ? CEO အစစ် ဝမ်လေကကြီးကြပ်ရေးမှူးဖြစ်ပြီး ပိုက်ဆံမရှိတဲ့ လီသာ့ကျစ်တစ်ယောက်CEO လုပ်တဲ့အခါမှာရော ဘယ်လိုအရှုပ်တွေလုပ်မိမလဲဆိုတာကို…ဇာတ်လမ်းလေးကြည့်ရင်း ရယ်မောပျော်ရွှင်စိတ်ဝင်စားစရာကောင်းစွာနဲ့ကြည့်ရှု့လိုက်ကြပါဦးQuality : WEB-DL 1080p , 720pFormat : mp4Genres : Comedy , DramaRuntime : 1h 37 minSubtitle : Myanmar Subtitle ( Hardsub )Translated by CM TeamReviewed By KayEncoded by LKYoteshin Linkကို Web Browserမှ ဒေါင်းမည့်သူများဒီလင့်မှာ loginအရင်ဝင်ထားပေးဖို့လိုအပ်ပါတယ်။Download Nulled Scripts and PluginsDownload Nulled Scripts and PluginsDirectorCui ZhijiaStarsChang YuanCui ZhijiaHan YanboHan YunyunHuang YuntongKelly YuPan BinlongWang JinsongWei XiangZhang QiZhang YimingZhang ZidongZhao HaiyanCastChang YuanCui ZhijiaHan YanboHan YunyunHuang YuntongKelly YuPan BinlongWang JinsongWei XiangZhang QiZhang YimingZhang ZidongZhao Haiyan",
+    "screenshot_links": [
+      "https://image.tmdb.org/t/p/w300/kWI7Z1vByppGVXbX2RjN4iRN9Fj.jpg",
+      "https://image.tmdb.org/t/p/w300/lrBvzBhXW5S08nmwSWICjtsTBkm.jpg"
+    ],
+    "thumbnail_link": "https://image.tmdb.org/t/p/w185/8eqi1Yf9W5jcgGZoj1w33kUML6m.jpg",
+    "movie_links": [
+      {
+        "link": "https://yoteshinportal.cc/hi-brother-2023-1080-p-web-dl-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "1.19GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://usersdrive.com/d1su8po73e5b.html",
+        "server": "usersdrive.com",
+        "size": "1.19GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://megaup.net/edl3S/Hi_Brother_2023_1080p_WEB-DL_CM.mp4",
+        "server": "megaup.net",
+        "size": "1.19GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://mega.nz/file/rjxFEaDB#9fkxL6tT7reXHysIzk6AfcguPKz-uNG4S2MWTb1c55Y",
+        "server": "mega.nz",
+        "size": "1.19GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://streamvid.net/pu6j7nmuuvkv",
+        "server": "streamvid.io",
+        "size": "1.19GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://obeywish.com/3ynq1abmnzbq",
+        "server": "streamsb.com",
+        "size": "1.19GB",
+        "quality": "1080p"
+      },
+      {
+        "link": "https://yoteshinportal.cc/hi-brother-2023-720-p-web-dl-cm-mp-4",
+        "server": "yoteshinportal.cc",
+        "size": "664.5MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://usersdrive.com/8ypytb1zz01r.html",
+        "server": "usersdrive.com",
+        "size": "664.5MB",
+        "quality": "720p"
+      },
+      {
+        "link": "https://mega.nz/file/j3InDQYB#mVnstmlcbnAFin_JhTAOIV0hp7J9fDKJP9bStJYCSUI",
+        "server": "mega.nz",
+        "size": "664.5MB",
+        "quality": "720p"
+      }
+    ],
+    "trailer": null
+  }
+]
